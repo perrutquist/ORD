@@ -1,0 +1,2582 @@
+[
+ {
+  "question": "ana ugglor i mossen",
+  "alternatives": [
+   "bli rädd",
+   "vara vidskeplig",
+   "överdriva risker",
+   "fantisera",
+   "varna i onödan"
+  ],
+  "hint": "Felhörning: ulvar i mosen blev ugglor.",
+  "answer": "misstänka oråd"
+ },
+ {
+  "question": "barka åt skogen",
+  "alternatives": [
+   "gå fort",
+   "gå bakåt",
+   "gå runt",
+   "gå överstyr",
+   "gå i lås"
+  ],
+  "hint": "Eufemism för gå åt helvete",
+  "answer": "gå fel"
+ },
+ {
+  "question": "bita i det sura äpplet",
+  "alternatives": [
+   "vägra",
+   "vänta ut",
+   "välja bort",
+   "försköna",
+   "klaga öppet"
+  ],
+  "hint": "Äta trots sur smak",
+  "answer": "acceptera obehag"
+ },
+ {
+  "question": "bränna sina broar",
+  "alternatives": [
+   "avsluta snyggt",
+   "göra upp eld",
+   "ta ett avgörande steg",
+   "säkra reträtt",
+   "markera seger"
+  ],
+  "hint": "Utan broar: ingen väg tillbaka.",
+  "answer": "förstöra möjligheter"
+ },
+ {
+  "question": "bära frukt",
+  "alternatives": [
+   "misslyckas",
+   "dröja",
+   "mogna",
+   "bli uppskjuten",
+   "kosta mer"
+  ],
+  "hint": "Träd som ger frukt",
+  "answer": "ge resultat"
+ },
+ {
+  "question": "bära hundhuvudet",
+  "alternatives": [
+   "dela ansvaret",
+   "stå som vinnare",
+   "ta kommandot",
+   "bli förlåten",
+   "bli hånad"
+  ],
+  "hint": "Syndabock med hundhuvud.",
+  "answer": "få skulden"
+ },
+ {
+  "question": "börja om på ny kula",
+  "alternatives": [
+   "börja sent",
+   "börja hårt",
+   "avsluta",
+   "pausa",
+   "återgå"
+  ],
+  "hint": "Kula i kula-spel, nytt försök",
+  "answer": "börja om"
+ },
+ {
+  "question": "dansa efter någons pipa",
+  "alternatives": [
+   "följa",
+   "härma",
+   "uppvakta",
+   "tillmötesgå",
+   "samarbeta"
+  ],
+  "hint": "Pipare leder dansen",
+  "answer": "lyda"
+ },
+ {
+  "question": "dra alla över en kam",
+  "alternatives": [
+   "behandla rättvist",
+   "diskriminera",
+   "försvara",
+   "se nyanser",
+   "förenkla"
+  ],
+  "hint": "Samma kam för alla, inga skillnader.",
+  "answer": "generalisera"
+ },
+ {
+  "question": "dra bort ridån",
+  "alternatives": [
+   "introducera",
+   "försköna",
+   "förklara",
+   "dölja",
+   "understryka"
+  ],
+  "hint": "Teater: ridå går upp",
+  "answer": "avslöja"
+ },
+ {
+  "question": "dra det kortaste strået",
+  "alternatives": [
+   "vinna",
+   "dela lika",
+   "avstå",
+   "avgå med segern",
+   "komma tvåa"
+  ],
+  "hint": "Lottning med strån: kortast förlorar",
+  "answer": "förlora"
+ },
+ {
+  "question": "dra en lans för",
+  "alternatives": [
+   "föreslå",
+   "berömma",
+   "förklara",
+   "förringa",
+   "försköna"
+  ],
+  "hint": "Riddare höjer lansen",
+  "answer": "försvara"
+ },
+ {
+  "question": "dra en nitlott",
+  "alternatives": [
+   "ha tur",
+   "ha oflyt",
+   "ha chans",
+   "ha läge",
+   "ha marginal"
+  ],
+  "hint": "Lotteri: nitlott ger ingenting",
+  "answer": "ha otur"
+ },
+ {
+  "question": "dra en vals",
+  "alternatives": [
+   "skämta",
+   "överdriva",
+   "berätta sanning",
+   "växla ämne",
+   "tala i gåtor"
+  ],
+  "hint": "Vals som påhittad historia",
+  "answer": "ljuga"
+ },
+ {
+  "question": "dra ett streck över",
+  "alternatives": [
+   "strunta i",
+   "avsluta",
+   "förneka",
+   "förlåta",
+   "förtränga"
+  ],
+  "hint": "Streck: markera slut, bortse",
+  "answer": "glömma"
+ },
+ {
+  "question": "dra i trådarna",
+  "alternatives": [
+   "inspirera",
+   "tilldela",
+   "initiera",
+   "överraska",
+   "stötta"
+  ],
+  "hint": "Marionettmästare drar trådar",
+  "answer": "kontrollera"
+ },
+ {
+  "question": "dra jämnt",
+  "alternatives": [
+   "dela lika",
+   "skiljas åt",
+   "vara sist",
+   "vara jämngod",
+   "lunka på"
+  ],
+  "hint": "Lika drag ger balans, inga gräl",
+  "answer": "vara sams"
+ },
+ {
+  "question": "dra på smilbanden",
+  "alternatives": [
+   "skratta",
+   "håna",
+   "sucka",
+   "fnysa",
+   "flina"
+  ],
+  "hint": "Smilbanden spänns",
+  "answer": "le"
+ },
+ {
+  "question": "dra sig till minnes",
+  "alternatives": [
+   "föreställa sig",
+   "tänka ut",
+   "gissa",
+   "glömma",
+   "associera"
+  ],
+  "hint": "Dra fram ur minnet",
+  "answer": "minnas"
+ },
+ {
+  "question": "dra sig ur leken",
+  "alternatives": [
+   "förlora",
+   "vinna",
+   "fuska",
+   "tveka",
+   "återvända"
+  ],
+  "hint": "Spelmetafor: lämna leken",
+  "answer": "avbryta"
+ },
+ {
+  "question": "dra sin kos",
+  "alternatives": [
+   "ge upp",
+   "ge igen",
+   "dra ut på tiden",
+   "dra slutsats",
+   "dra vidare"
+  ],
+  "hint": "Kosa: hemväg, dra iväg",
+  "answer": "ge sig av"
+ },
+ {
+  "question": "dra sitt strå till stacken",
+  "alternatives": [
+   "leda",
+   "ta åt sig äran",
+   "sätta sig på tvären",
+   "jobba halvhjärtat",
+   "ligga lågt"
+  ],
+  "hint": "Myrbild: varje strå hjälper stacken",
+  "answer": "bidra"
+ },
+ {
+  "question": "dra åt svångremmen",
+  "alternatives": [
+   "öka takten",
+   "skärpa tonen",
+   "öppna plånboken",
+   "flytta ut",
+   "dra sig ur"
+  ],
+  "hint": "Bältet dras åt vid magrare tider",
+  "answer": "spara"
+ },
+ {
+  "question": "dra öronen åt sig",
+  "alternatives": [
+   "glömma bort",
+   "bli rädd",
+   "bli arg",
+   "förvånas",
+   "hålla med"
+  ],
+  "hint": "Öron bakåt vid fara.",
+  "answer": "bli misstänksam"
+ },
+ {
+  "question": "falla i god jord",
+  "alternatives": [
+   "bli förstått",
+   "bli accepterat",
+   "bli populärt",
+   "bli hyllat",
+   "bli effektivt"
+  ],
+  "hint": "Som frö i god jord",
+  "answer": "bli uppskattat"
+ },
+ {
+  "question": "falla någon på läppen",
+  "alternatives": [
+   "smaka bra",
+   "tilltala",
+   "glädja",
+   "passa",
+   "tillfredsställa"
+  ],
+  "hint": "Smak: läppars gillande",
+  "answer": "behaga"
+ },
+ {
+  "question": "falla på eget grepp",
+  "alternatives": [
+   "bli överlistad",
+   "vinna",
+   "göra självmål",
+   "tappa modet",
+   "snubbla på målsnöret"
+  ],
+  "hint": "Brottning: besegras av sin egen teknik.",
+  "answer": "misslyckas själv"
+ },
+ {
+  "question": "få blodad tand",
+  "alternatives": [
+   "tappa sugen",
+   "bli mätt",
+   "bli äcklad",
+   "bli modigare",
+   "få kalla fötter"
+  ],
+  "hint": "Jakt: smaken väcker aptit på mer.",
+  "answer": "bli mer intresserad"
+ },
+ {
+  "question": "få det hett om öronen",
+  "alternatives": [
+   "bli stressad",
+   "bli pressad",
+   "bli generad",
+   "bli arg",
+   "bli avslöjad"
+  ],
+  "hint": "Hetta nära öron: pressat läge",
+  "answer": "hamna i trubbel"
+ },
+ {
+  "question": "få en släng av sleven",
+  "alternatives": [
+   "få lite pengar",
+   "få komplimang",
+   "få skulden",
+   "få smakprov",
+   "få avdrag"
+  ],
+  "hint": "Slevens skvätt träffar även dig",
+  "answer": "drabbas delvis"
+ },
+ {
+  "question": "få fotfäste",
+  "alternatives": [
+   "hitta jobb",
+   "få vänner",
+   "bli accepterad",
+   "få stöd",
+   "stå stadigt"
+  ],
+  "hint": "Fäste med fötterna",
+  "answer": "etablera sig"
+ },
+ {
+  "question": "få kalla handen",
+  "alternatives": [
+   "bli ignorerad",
+   "få kritik",
+   "få vänta",
+   "bli uppmuntrad",
+   "bli förlåten"
+  ],
+  "hint": "Få en avvisande, kall hand",
+  "answer": "bli avvisad"
+ },
+ {
+  "question": "få luft under vingarna",
+  "alternatives": [
+   "få framgång",
+   "få hjälp",
+   "få idéer",
+   "få mod",
+   "få frihet"
+  ],
+  "hint": "Vingarna bär, lyfter",
+  "answer": "få skjuts"
+ },
+ {
+  "question": "få napp",
+  "alternatives": [
+   "få svar",
+   "få erbjudande",
+   "få kritik",
+   "få problem",
+   "få motstånd"
+  ],
+  "hint": "Fiske: napp betyder träff",
+  "answer": "lyckas"
+ },
+ {
+  "question": "få på tafsen",
+  "alternatives": [
+   "bli belönad",
+   "bli ignorerad",
+   "bli förstådd",
+   "bli uppskattad",
+   "bli varnad"
+  ],
+  "hint": "Barnspråk: få på fingrarna",
+  "answer": "bli tillrättavisad"
+ },
+ {
+  "question": "få smaka sin egen medicin",
+  "alternatives": [
+   "bli sjuk",
+   "bli botad",
+   "bli straffad",
+   "bli testad",
+   "bli ifrågasatt"
+  ],
+  "hint": "Egen medicin tillbaka",
+  "answer": "behandlas likadant"
+ },
+ {
+  "question": "få tummen ur",
+  "alternatives": [
+   "avsluta",
+   "besluta",
+   "slappna av",
+   "hålla igen",
+   "vänta lite till"
+  ],
+  "hint": "Ur vägen: börja agera",
+  "answer": "komma igång"
+ },
+ {
+  "question": "få vatten på sin kvarn",
+  "alternatives": [
+   "få kritik",
+   "få motstånd",
+   "få betalt",
+   "få resurser",
+   "få idéer"
+  ],
+  "hint": "Mer vatten driver din argumentkvarn.",
+  "answer": "få bekräftelse"
+ },
+ {
+  "question": "föra någon bakom ljuset",
+  "alternatives": [
+   "upplysa",
+   "leda rätt",
+   "missta sig",
+   "förhala",
+   "förvirra"
+  ],
+  "hint": "Hålla i mörker, borta från ljuset.",
+  "answer": "lura"
+ },
+ {
+  "question": "gjuta olja på vågorna",
+  "alternatives": [
+   "smörja",
+   "försköna",
+   "försena",
+   "dölja",
+   "förneka"
+  ],
+  "hint": "Olja lugnar krusiga vågor",
+  "answer": "dämpa konflikten"
+ },
+ {
+  "question": "gräva ner stridsyxan",
+  "alternatives": [
+   "förbereda krig",
+   "eskalera",
+   "ladda om",
+   "gå i försvar",
+   "ta paus"
+  ],
+  "hint": "Yxan grävs ner som fredssymbol.",
+  "answer": "sluta fred"
+ },
+ {
+  "question": "gå av stapeln",
+  "alternatives": [
+   "starta sent",
+   "ställas in",
+   "flyttas",
+   "vara populär",
+   "bli dyr"
+  ],
+  "hint": "Skepp lämnar stapelbädd",
+  "answer": "äga rum"
+ },
+ {
+  "question": "gå bet",
+  "alternatives": [
+   "få betalt",
+   "bli biten",
+   "bli godkänd",
+   "byta bana",
+   "bli bestraffad"
+  ],
+  "hint": "Äldre skolslang: misslyckas på fråga",
+  "answer": "inte klara av"
+ },
+ {
+  "question": "gå i bräschen",
+  "alternatives": [
+   "protestera",
+   "leda anfall",
+   "stå tillbaka",
+   "assistera",
+   "representera"
+  ],
+  "hint": "Bräsch: öppning i mur",
+  "answer": "föregå"
+ },
+ {
+  "question": "gå i god för",
+  "alternatives": [
+   "klaga på",
+   "ta avstånd från",
+   "försäkra sig om",
+   "protestera",
+   "granska"
+  ],
+  "hint": "Juridiskt: borga för någon",
+  "answer": "garantera"
+ },
+ {
+  "question": "gå i land med",
+  "alternatives": [
+   "påbörja",
+   "fördröja",
+   "avråda",
+   "bortförklara",
+   "planera"
+  ],
+  "hint": "Sjöbild: ta sig iland med lasten",
+  "answer": "genomföra"
+ },
+ {
+  "question": "gå i lås",
+  "alternatives": [
+   "låsa sig",
+   "köras fast",
+   "börja om",
+   "gå i stöpet",
+   "låsa upp"
+  ],
+  "hint": "Låset klickar: planen fungerar.",
+  "answer": "lyckas"
+ },
+ {
+  "question": "gå i stöpet",
+  "alternatives": [
+   "lyckas",
+   "bli försenat",
+   "förbättras",
+   "gå i lås",
+   "stjälpa andra"
+  ],
+  "hint": "Misslyckad gjutning: stöpet.",
+  "answer": "misslyckas"
+ },
+ {
+  "question": "gå i taket",
+  "alternatives": [
+   "bli överlycklig",
+   "ge upp",
+   "sätta fart",
+   "trötta ut",
+   "bli överraskad"
+  ],
+  "hint": "Explosiv ilska, som upp i taket",
+  "answer": "bli rasande"
+ },
+ {
+  "question": "gå ner för räkning",
+  "alternatives": [
+   "förlora",
+   "ge upp",
+   "räknas ut",
+   "tappa sugen",
+   "stupa"
+  ],
+  "hint": "Boxning: domaren räknar",
+  "answer": "bli nedslagen"
+ },
+ {
+  "question": "gå på knäna",
+  "alternatives": [
+   "be om hjälp",
+   "vara underlägsen",
+   "vara sjuk",
+   "vara sårbar",
+   "vara stressad"
+  ],
+  "hint": "Så trött att knäna tar",
+  "answer": "vara utmattad"
+ },
+ {
+  "question": "gå på pumpen",
+  "alternatives": [
+   "bli lurad",
+   "bli trött",
+   "tappa modet",
+   "komma igång",
+   "hamna i skuld"
+  ],
+  "hint": "Gammalt: misslyckas vid vattenpumpen",
+  "answer": "misslyckas"
+ },
+ {
+  "question": "gå på tomgång",
+  "alternatives": [
+   "inte komma vidare",
+   "snurra runt",
+   "slösa tid",
+   "stå still",
+   "gå långsamt"
+  ],
+  "hint": "Motor utan växel i",
+  "answer": "vara ineffektiv"
+ },
+ {
+  "question": "gå som katten kring het gröt",
+  "alternatives": [
+   "smyga",
+   "välja omväg",
+   "snoka",
+   "ånga på",
+   "vänta på rätt tillfälle"
+  ],
+  "hint": "Katten tassar runt varm gröt.",
+  "answer": "tveka"
+ },
+ {
+  "question": "gå som på räls",
+  "alternatives": [
+   "gå av sig själv",
+   "gå långsamt",
+   "gå snett",
+   "gå trögt",
+   "följa planen"
+  ],
+  "hint": "Tågräls: rak, stabil färd.",
+  "answer": "fungera smidigt"
+ },
+ {
+  "question": "gå som smort",
+  "alternatives": [
+   "gå fort",
+   "gå runt",
+   "gå trögt",
+   "låta illa",
+   "skena iväg"
+  ],
+  "hint": "Maskineri som smorts går lätt",
+  "answer": "fungera bra"
+ },
+ {
+  "question": "gå som tåget",
+  "alternatives": [
+   "gå fort",
+   "gå långsamt",
+   "gå trögt",
+   "gå stabilt",
+   "gå sällan"
+  ],
+  "hint": "Tåg: snabbt och punktligt",
+  "answer": "gå mycket bra"
+ },
+ {
+  "question": "gå under jorden",
+  "alternatives": [
+   "resa bort",
+   "försvinna",
+   "pausa",
+   "sluta",
+   "flytta"
+  ],
+  "hint": "Under jord: otillgänglig",
+  "answer": "gömma sig"
+ },
+ {
+  "question": "gå upp i limningen",
+  "alternatives": [
+   "ge upp",
+   "oroa sig",
+   "tappa tråden",
+   "ramla ihop",
+   "bryta ihop"
+  ],
+  "hint": "Limfog spricker under tryck",
+  "answer": "bli rasande"
+ },
+ {
+  "question": "gå upp i rök",
+  "alternatives": [
+   "lyckas",
+   "misslyckas",
+   "förflyttas",
+   "förintas",
+   "förklara"
+  ],
+  "hint": "Som rök: spårlöst borta",
+  "answer": "försvinna"
+ },
+ {
+  "question": "gå åt skogen",
+  "alternatives": [
+   "lyckas",
+   "gå vilse",
+   "fira",
+   "resignera",
+   "bli bättre"
+  ],
+  "hint": "Eufemism för 'gå åt helvete'.",
+  "answer": "misslyckas"
+ },
+ {
+  "question": "gå över lik",
+  "alternatives": [
+   "vara målmedveten",
+   "visa empati",
+   "bry sig om",
+   "ta genvägar",
+   "vara samarbetsvillig"
+  ],
+  "hint": "Bokstavsbild över lik, ingen hänsyn",
+  "answer": "vara hänsynslös"
+ },
+ {
+  "question": "gå över styr",
+  "alternatives": [
+   "bli bättre",
+   "vända uppåt",
+   "stanna",
+   "sakta ner",
+   "lugna sig"
+  ],
+  "hint": "Fartyget överstyr: okontrollerbart",
+  "answer": "spåra ur"
+ },
+ {
+  "question": "gå över ån efter vatten",
+  "alternatives": [
+   "spara kraft",
+   "följa genväg",
+   "vara beslutsam",
+   "skjuta upp",
+   "göra dubbelarbete"
+  ],
+  "hint": "Varför gå över ån för vatten?",
+  "answer": "krångla till"
+ },
+ {
+  "question": "göra en höna av en fjäder",
+  "alternatives": [
+   "förminska",
+   "skämta",
+   "missförstå",
+   "spetsa till",
+   "ta lätt på"
+  ],
+  "hint": "Liten fjäder blir stor höna.",
+  "answer": "överdriva"
+ },
+ {
+  "question": "göra slag i saken",
+  "alternatives": [
+   "planera",
+   "överväga",
+   "skjuta upp",
+   "avslå",
+   "delegera"
+  ],
+  "hint": "Slag: avgörande handling",
+  "answer": "genomföra"
+ },
+ {
+  "question": "ha en fot inne",
+  "alternatives": [
+   "ha försprång",
+   "ha hjälp",
+   "ha tur",
+   "ha inflytande",
+   "ha kontakter"
+  ],
+  "hint": "En fot över tröskeln",
+  "answer": "ha chans"
+ },
+ {
+  "question": "ha en hållhake på",
+  "alternatives": [
+   "känna till",
+   "lita på",
+   "stötta",
+   "förolämpa",
+   "kontrollera"
+  ],
+  "hint": "Hake att hålla fast någon.",
+  "answer": "kunna pressa"
+ },
+ {
+  "question": "ha en räv bakom örat",
+  "alternatives": [
+   "vara feg",
+   "vara ärlig",
+   "vara glömsk",
+   "vara snål",
+   "vara nyfiken"
+  ],
+  "hint": "Dold räv: list och slughet.",
+  "answer": "vara slug"
+ },
+ {
+  "question": "ha ett horn i sidan till",
+  "alternatives": [
+   "vara förälskad i",
+   "vara avundsjuk på",
+   "respektera",
+   "undvika",
+   "beskydda"
+  ],
+  "hint": "Biblisk tagg i sidan, bestående agg.",
+  "answer": "hysa agg mot"
+ },
+ {
+  "question": "ha fingrarna i syltburken",
+  "alternatives": [
+   "vara sugen",
+   "vara girig",
+   "vara slarvig",
+   "vara nyfiken",
+   "vara kladdig"
+  ],
+  "hint": "Upptäckt med fingrar i burk",
+  "answer": "vara ertappad"
+ },
+ {
+  "question": "ha fria tyglar",
+  "alternatives": [
+   "vara fri",
+   "vara självständig",
+   "vara ohämmad",
+   "vara lättsam",
+   "vara lössläppt"
+  ],
+  "hint": "Tyglar släppta: fri styrning",
+  "answer": "vara obunden"
+ },
+ {
+  "question": "ha gröna fingrar",
+  "alternatives": [
+   "vara snål",
+   "vara avundsjuk",
+   "vara oerfaren",
+   "vara skicklig",
+   "vara konstnärlig"
+  ],
+  "hint": "Gröna fingrar: växter trivs",
+  "answer": "vara trädgårdskunnig"
+ },
+ {
+  "question": "ha huvudet på skaft",
+  "alternatives": [
+   "vara envis",
+   "vara listig",
+   "vara realist",
+   "vara känslig",
+   "vara snabb"
+  ],
+  "hint": "Huvud sitter stadigt: skärpa",
+  "answer": "vara skärpt"
+ },
+ {
+  "question": "ha is i magen",
+  "alternatives": [
+   "vara kallhjärtad",
+   "vara likgiltig",
+   "vara modig",
+   "vara rädd",
+   "vara trög"
+  ],
+  "hint": "Kylig mage: behålla lugnet",
+  "answer": "vara lugn"
+ },
+ {
+  "question": "ha långa fingrar",
+  "alternatives": [
+   "ta för sig",
+   "låna",
+   "be om",
+   "samla",
+   "gömma"
+  ],
+  "hint": "Långa fingrar når andras saker",
+  "answer": "stjäla"
+ },
+ {
+  "question": "ha många järn i elden",
+  "alternatives": [
+   "vara splittrad",
+   "vara effektiv",
+   "vara lat",
+   "vara stressad",
+   "vara planerad"
+  ],
+  "hint": "Smed: flera järn värms samtidigt",
+  "answer": "vara sysselsatt"
+ },
+ {
+  "question": "ha på fötter",
+  "alternatives": [
+   "ha tur",
+   "ha bråttom",
+   "ha rätt",
+   "ha försprång",
+   "ha is i magen"
+  ],
+  "hint": "Stå stadigt: fakta som skor.",
+  "answer": "ha belägg"
+ },
+ {
+  "question": "ha rent mjöl i påsen",
+  "alternatives": [
+   "vara naiv",
+   "vara snål",
+   "vara korrekt",
+   "vara renlig",
+   "vara noggrann"
+  ],
+  "hint": "Mjölet rent: inget fusk",
+  "answer": "vara hederlig"
+ },
+ {
+  "question": "ha skinn på näsan",
+  "alternatives": [
+   "vara hänsynslös",
+   "vara modig",
+   "vara hård",
+   "vara självsäker",
+   "vara ståndaktig"
+  ],
+  "hint": "Tålig näsa: tuffhet",
+  "answer": "vara tuff"
+ },
+ {
+  "question": "ha tomtar på loftet",
+  "alternatives": [
+   "vara kreativ",
+   "vara disträ",
+   "vara snurrig",
+   "vara skämtsam",
+   "vara vidskeplig"
+  ],
+  "hint": "Skämt: tomtar i huvudet",
+  "answer": "vara knäpp"
+ },
+ {
+  "question": "halka in på ett bananskal",
+  "alternatives": [
+   "ha tur",
+   "komma billigt undan",
+   "komma lätt in",
+   "glida rätt",
+   "slippa svårigheter"
+  ],
+  "hint": "Slumpens bananskal",
+  "answer": "lyckas lätt"
+ },
+ {
+  "question": "hamna i klistret",
+  "alternatives": [
+   "bli rik",
+   "bli populär",
+   "fastna",
+   "bli påkommen",
+   "ha otur"
+  ],
+  "hint": "Klister metafor: fast i besvär.",
+  "answer": "få problem"
+ },
+ {
+  "question": "hitta nålen i höstacken",
+  "alternatives": [
+   "mycket svårt",
+   "osannolikt",
+   "knappt görbart",
+   "nära omöjligt",
+   "extremt svårt"
+  ],
+  "hint": "Nål gömd i hö",
+  "answer": "nästan omöjligt"
+ },
+ {
+  "question": "hålla fanan högt",
+  "alternatives": [
+   "ödmjuka sig",
+   "dölja sig",
+   "stå tillbaka",
+   "kompromissa",
+   "tiga"
+  ],
+  "hint": "Fana högt: stolthet och ära",
+  "answer": "visa stolthet"
+ },
+ {
+  "question": "hålla god min",
+  "alternatives": [
+   "visa glädje",
+   "vara likgiltig",
+   "bevara lugnet",
+   "låtsas lyssna",
+   "försöka skratta"
+  ],
+  "hint": "Ansiktsuttryck trots dåliga kort",
+  "answer": "dölja missnöje"
+ },
+ {
+  "question": "hålla huvudet kallt",
+  "alternatives": [
+   "vara kall",
+   "vara rationell",
+   "vara tyst",
+   "vara hård",
+   "vara slö"
+  ],
+  "hint": "Kyligt huvud: sansad",
+  "answer": "vara lugn"
+ },
+ {
+  "question": "hålla i tyglarna",
+  "alternatives": [
+   "inspirera",
+   "motivera",
+   "försvara",
+   "avvakta",
+   "stödja"
+  ],
+  "hint": "Kusk håller tyglar",
+  "answer": "kontrollera"
+ },
+ {
+  "question": "hålla låda",
+  "alternatives": [
+   "tiga",
+   "hålla tal",
+   "leda möte",
+   "skryta",
+   "berätta kort"
+  ],
+  "hint": "Tal från låda, som på torg",
+  "answer": "prata länge"
+ },
+ {
+  "question": "hålla låg profil",
+  "alternatives": [
+   "vara hemlig",
+   "vara tyst",
+   "vara feg",
+   "vara effektiv",
+   "vara inaktiv"
+  ],
+  "hint": "Profil hålls låg, osynlig",
+  "answer": "inte sticka ut"
+ },
+ {
+  "question": "hålla masken",
+  "alternatives": [
+   "klä ut sig",
+   "se glad ut",
+   "undvika folk",
+   "tappa ansiktet",
+   "bita ihop"
+  ],
+  "hint": "Teatermasken hålls på plats",
+  "answer": "dölja känslor"
+ },
+ {
+  "question": "hålla någon kort",
+  "alternatives": [
+   "stötta",
+   "uppmuntra",
+   "försumma",
+   "frigöra",
+   "misstro"
+  ],
+  "hint": "Kort koppel: begränsad frihet",
+  "answer": "kontrollera"
+ },
+ {
+  "question": "hålla någon om ryggen",
+  "alternatives": [
+   "stödja",
+   "ursäkta",
+   "frikänna",
+   "gömma",
+   "försvara"
+  ],
+  "hint": "Skydda ryggen från angrepp",
+  "answer": "skydda"
+ },
+ {
+  "question": "hålla någon på halster",
+  "alternatives": [
+   "lura",
+   "förvåna",
+   "uppmuntra",
+   "pressa",
+   "förhala"
+  ],
+  "hint": "Fisk på halster hålls över glöd.",
+  "answer": "låta vänta"
+ },
+ {
+  "question": "hålla rent hus",
+  "alternatives": [
+   "städa fint",
+   "hålla sig undan",
+   "göra det minsta",
+   "hålla god ton",
+   "skärpa reglerna"
+  ],
+  "hint": "Variant av uttrycket göra rent hus",
+  "answer": "rensa ut"
+ },
+ {
+  "question": "hålla skenet uppe",
+  "alternatives": [
+   "avslöja",
+   "förklara",
+   "skryta",
+   "förneka",
+   "bekräfta"
+  ],
+  "hint": "Fasaden hålls intakt",
+  "answer": "låtsas"
+ },
+ {
+  "question": "hålla stånd",
+  "alternatives": [
+   "stå still",
+   "stå ut",
+   "stå vakt",
+   "stå upp",
+   "stå över"
+  ],
+  "hint": "Militärbild: försvara positionen, ge inte efter",
+  "answer": "motstå"
+ },
+ {
+  "question": "hålla tungan rätt i mun",
+  "alternatives": [
+   "vara tystlåten",
+   "vara artig",
+   "vara försiktig",
+   "vara kritisk",
+   "vara ärlig"
+  ],
+  "hint": "Precision kräver tungkontroll",
+  "answer": "vara noggrann"
+ },
+ {
+  "question": "i elfte timmen",
+  "alternatives": [
+   "i sista hand",
+   "i nödfall",
+   "i sista led",
+   "i sista raden",
+   "i sista minuten"
+  ],
+  "hint": "Biblisk: strax före slutet",
+  "answer": "i sista stund"
+ },
+ {
+  "question": "i sin linda",
+  "alternatives": [
+   "i slutet",
+   "i ro",
+   "i smyg",
+   "i olag",
+   "i teorin"
+  ],
+  "hint": "Spädbarn lindat från start",
+  "answer": "i början"
+ },
+ {
+  "question": "kasta in en brandfackla",
+  "alternatives": [
+   "lugna",
+   "förtydliga",
+   "övertala",
+   "försvara",
+   "omdirigera"
+  ],
+  "hint": "Tända konflikt med fackla",
+  "answer": "provocera"
+ },
+ {
+  "question": "kasta in handduken",
+  "alternatives": [
+   "byta spår",
+   "ta en paus",
+   "se över planen",
+   "bromsa",
+   "samla kraft"
+  ],
+  "hint": "Boxning: tränaren kastar in handduken",
+  "answer": "ge upp"
+ },
+ {
+  "question": "kasta pärlor för svin",
+  "alternatives": [
+   "dela rättvist",
+   "spara till bättre",
+   "ge bort dyrt",
+   "inspirera",
+   "förlora ansiktet"
+  ],
+  "hint": "Bibliskt råd: inte pärlor till svin.",
+  "answer": "slösa på ovärdiga"
+ },
+ {
+  "question": "kasta yxan i sjön",
+  "alternatives": [
+   "pausa",
+   "byta spår",
+   "försöka igen",
+   "delegera",
+   "vänta"
+  ],
+  "hint": "Verktyget bortkastat: uppgiven",
+  "answer": "ge upp"
+ },
+ {
+  "question": "komma på fötter",
+  "alternatives": [
+   "sätta igång",
+   "vakna",
+   "resa sig fysiskt",
+   "bli frisk",
+   "samla kraft"
+  ],
+  "hint": "Stå upp igen efter fall",
+  "answer": "återhämta sig"
+ },
+ {
+  "question": "komma på grön kvist",
+  "alternatives": [
+   "bli frisk",
+   "bli rik",
+   "bli nöjd",
+   "bli lugn",
+   "bli stark"
+  ],
+  "hint": "Grön kvist: välstånd och tillväxt",
+  "answer": "bli välmående"
+ },
+ {
+  "question": "komma på skam",
+  "alternatives": [
+   "bestridas",
+   "underminera",
+   "bevisas",
+   "ifrågasättas",
+   "försvinna"
+  ],
+  "hint": "Skam: bli tillbakavisad",
+  "answer": "motbevisas"
+ },
+ {
+  "question": "komma till korta",
+  "alternatives": [
+   "ge upp",
+   "lyckas halvt",
+   "tappa bort sig",
+   "glömma",
+   "sluta i tid"
+  ],
+  "hint": "Kort om något: otillräcklig",
+  "answer": "inte räcka till"
+ },
+ {
+  "question": "komma till skott",
+  "alternatives": [
+   "sluta",
+   "besluta",
+   "skjuta upp",
+   "förbereda",
+   "avvakta"
+  ],
+  "hint": "Startsignal: skottet går",
+  "answer": "börja"
+ },
+ {
+  "question": "köpa grisen i säcken",
+  "alternatives": [
+   "köpa dyrt",
+   "köpa billigt",
+   "köpa impulsivt",
+   "köpa begagnat",
+   "köpa på nätet"
+  ],
+  "hint": "Dold gris i säck",
+  "answer": "köpa blint"
+ },
+ {
+  "question": "leva rövare",
+  "alternatives": [
+   "festa",
+   "skämta",
+   "ståka",
+   "skryta",
+   "busköra"
+  ],
+  "hint": "Rövare härjar och förstör",
+  "answer": "härja"
+ },
+ {
+  "question": "ligga i luften",
+  "alternatives": [
+   "undviks",
+   "förbises",
+   "försenas",
+   "förkastas",
+   "förbjuds"
+  ],
+  "hint": "Stämning som känns i luften",
+  "answer": "förväntas"
+ },
+ {
+  "question": "ligga i lä",
+  "alternatives": [
+   "vara skyddad",
+   "ligga lågt",
+   "ha medvind",
+   "tappa fart",
+   "ha övertaget"
+  ],
+  "hint": "Segling: ligga i lä om någon",
+  "answer": "vara underlägsen"
+ },
+ {
+  "question": "ligga i startgroparna",
+  "alternatives": [
+   "vara tveksam",
+   "vara sen",
+   "vara upptagen",
+   "vara trött",
+   "vara avvaktande"
+  ],
+  "hint": "Löparstart: i groparna",
+  "answer": "vara redo"
+ },
+ {
+  "question": "ligga lågt",
+  "alternatives": [
+   "hålla tyst",
+   "gömma sig",
+   "planera",
+   "ge upp",
+   "backa undan"
+  ],
+  "hint": "Håll låg profil, avvakta",
+  "answer": "avvakta"
+ },
+ {
+  "question": "lägga band på sig",
+  "alternatives": [
+   "hålla tyst",
+   "spara pengar",
+   "vara rädd",
+   "gå vidare",
+   "byta åsikt"
+  ],
+  "hint": "Som tygel: lägga band, tygla sig.",
+  "answer": "behärska sig"
+ },
+ {
+  "question": "lägga beslag på",
+  "alternatives": [
+   "beslagta",
+   "låna",
+   "låsa in",
+   "ta över",
+   "förfoga över"
+  ],
+  "hint": "Beslag: ta i anspråk",
+  "answer": "tillskansa sig"
+ },
+ {
+  "question": "lägga korten på bordet",
+  "alternatives": [
+   "hålla masken",
+   "hymla",
+   "spela högt",
+   "blanda korten",
+   "gömma trumfkort"
+  ],
+  "hint": "Kortspel: visa handen öppet.",
+  "answer": "vara uppriktig"
+ },
+ {
+  "question": "lägga lök på laxen",
+  "alternatives": [
+   "förbättra",
+   "försköna",
+   "förstärka smaken",
+   "komplicera",
+   "fördyra"
+  ],
+  "hint": "Matbild: extra lök på redan dyr lax.",
+  "answer": "förvärra"
+ },
+ {
+  "question": "lägga näsan i blöt",
+  "alternatives": [
+   "vara nyfiken",
+   "vara vaksam",
+   "snoka",
+   "dra sig undan",
+   "ta reda på fakta"
+  ],
+  "hint": "Stoppa näsan där den inte hör hemma",
+  "answer": "lägga sig i"
+ },
+ {
+  "question": "lägga pannan i djupa veck",
+  "alternatives": [
+   "bekymra sig",
+   "skämmas",
+   "tänka",
+   "sörja",
+   "förvånas"
+  ],
+  "hint": "Rynkad panna vid grubbel",
+  "answer": "grubbla"
+ },
+ {
+  "question": "lägga rabarber på",
+  "alternatives": [
+   "så frön",
+   "förstöra",
+   "skörda",
+   "kräva tillbaka",
+   "skryta om"
+  ],
+  "hint": "Talspråk från embargo via rabarber",
+  "answer": "lägga beslag på"
+ },
+ {
+  "question": "lägga ribban högt",
+  "alternatives": [
+   "öka tempot",
+   "sänka kraven",
+   "sätta mål",
+   "höja status",
+   "ta i för mycket"
+  ],
+  "hint": "Hopp: ribba placeras högt",
+  "answer": "ställa höga krav"
+ },
+ {
+  "question": "lägga sig i selen",
+  "alternatives": [
+   "ta det lugnt",
+   "sätta sig på tvären",
+   "ge upp",
+   "ta tyglarna",
+   "hänga med"
+  ],
+  "hint": "Sele på: börja dra hårt.",
+  "answer": "anstränga sig"
+ },
+ {
+  "question": "lägga sig platt",
+  "alternatives": [
+   "be om ursäkt",
+   "ge upp",
+   "anpassa sig",
+   "urskulda sig",
+   "överlämna"
+  ],
+  "hint": "Platt: utan motstånd",
+  "answer": "ge efter"
+ },
+ {
+  "question": "lägga sig vinn om",
+  "alternatives": [
+   "satsa",
+   "planera",
+   "prioritera",
+   "försöka",
+   "lägga manken till"
+  ],
+  "hint": "Vinna kräver extra ansträngning",
+  "answer": "anstränga sig"
+ },
+ {
+  "question": "lägga sista handen vid",
+  "alternatives": [
+   "påbörja",
+   "avbryta",
+   "förbättra",
+   "korrigera",
+   "granska"
+  ],
+  "hint": "Sista handpåläggningen",
+  "answer": "färdigställa"
+ },
+ {
+  "question": "lägga sten på börda",
+  "alternatives": [
+   "förtydliga",
+   "förstärka",
+   "förbättra",
+   "försumma",
+   "förhala"
+  ],
+  "hint": "Tyngre börda med extra sten",
+  "answer": "förvärra"
+ },
+ {
+  "question": "lägga ut texten",
+  "alternatives": [
+   "överdriva",
+   "skriva långt",
+   "skryta",
+   "tydliggöra kort",
+   "läsa innantill"
+  ],
+  "hint": "Text läggs ut i detalj",
+  "answer": "förklara utförligt"
+ },
+ {
+  "question": "lägga örat mot marken",
+  "alternatives": [
+   "avlyssna",
+   "spionera",
+   "lyssna noga",
+   "sondera",
+   "känna av"
+  ],
+  "hint": "Scoutmetafor: höra vibrationer",
+  "answer": "lyssna av"
+ },
+ {
+  "question": "lätta sitt hjärta",
+  "alternatives": [
+   "landa",
+   "lugna sig",
+   "förlåta",
+   "erkänna",
+   "förklara"
+  ],
+  "hint": "Tala ut, bördan lättas",
+  "answer": "anförtro sig"
+ },
+ {
+  "question": "putsa fjädrarna",
+  "alternatives": [
+   "skryta",
+   "förbereda flykt",
+   "ta igen sig",
+   "städa",
+   "byta kläder"
+  ],
+  "hint": "Fågeln putsar fjädrar, blir prydlig.",
+  "answer": "göra sig fin"
+ },
+ {
+  "question": "rinna ut i sanden",
+  "alternatives": [
+   "accelerera",
+   "försvinna",
+   "fördröjas",
+   "omdirigeras",
+   "missförstås"
+  ],
+  "hint": "Vatten försvinner i sand",
+  "answer": "avstanna"
+ },
+ {
+  "question": "ro i land",
+  "alternatives": [
+   "genomföra",
+   "avsluta",
+   "fixa",
+   "landa projekt",
+   "göra klart"
+  ],
+  "hint": "Rodda båten i land",
+  "answer": "lyckas"
+ },
+ {
+  "question": "röra upp himmel och jord",
+  "alternatives": [
+   "överdriva",
+   "protestera",
+   "vända på allt",
+   "bråka",
+   "försöka hårt"
+  ],
+  "hint": "Rubba allt för målet",
+  "answer": "anstränga sig"
+ },
+ {
+  "question": "segla i medvind",
+  "alternatives": [
+   "ha tur",
+   "ha medgång",
+   "ha lätt",
+   "ha flyt",
+   "ha överläge"
+  ],
+  "hint": "Medvind ger fart",
+  "answer": "gynnas"
+ },
+ {
+  "question": "segla nära vinden",
+  "alternatives": [
+   "riskera",
+   "utmana gränser",
+   "bryta lite",
+   "balansera",
+   "chansa"
+  ],
+  "hint": "Vind: precis på gränsen",
+  "answer": "tänja på regler"
+ },
+ {
+  "question": "sitta i samma båt",
+  "alternatives": [
+   "resa ihop",
+   "samarbeta",
+   "ha gemensam åsikt",
+   "bo nära",
+   "vara släkt"
+  ],
+  "hint": "Samma båt: samma förutsättningar",
+  "answer": "dela öde"
+ },
+ {
+  "question": "sitta i sjön",
+  "alternatives": [
+   "ha tur",
+   "ha semester",
+   "ha fullt upp",
+   "ha flyt",
+   "ha stöd"
+  ],
+  "hint": "Båten sjunker: bekymmer",
+  "answer": "ha problem"
+ },
+ {
+  "question": "sitta inne med",
+  "alternatives": [
+   "inneha",
+   "hålla tyst om",
+   "veta",
+   "dölja",
+   "bevara"
+  ],
+  "hint": "Sitta inne med kunskap",
+  "answer": "besitta"
+ },
+ {
+  "question": "sitta på pottkanten",
+  "alternatives": [
+   "bli utskälld",
+   "bli fast",
+   "bli blyg",
+   "bli generad",
+   "bli arg"
+  ],
+  "hint": "Obekväm sits: överraskad",
+  "answer": "bli överrumplad"
+ },
+ {
+  "question": "sitta still i båten",
+  "alternatives": [
+   "hålla tyst",
+   "vänta",
+   "inte agera",
+   "lugna ner",
+   "väga för och emot"
+  ],
+  "hint": "Rör inte båten: vänta",
+  "answer": "avvakta"
+ },
+ {
+  "question": "skjuta från höften",
+  "alternatives": [
+   "slarva",
+   "överreagera",
+   "agera snabbt",
+   "planera dåligt",
+   "ta risker"
+  ],
+  "hint": "Cowboyskott utan sikte",
+  "answer": "improvisera"
+ },
+ {
+  "question": "slå bakut",
+  "alternatives": [
+   "ånga på",
+   "ge upp",
+   "tappa fokus",
+   "svara vresigt",
+   "backa undan"
+  ],
+  "hint": "Häst stegrar: bakut",
+  "answer": "göra motstånd"
+ },
+ {
+  "question": "slå blå dunster",
+  "alternatives": [
+   "försköna",
+   "skämta",
+   "överdriva",
+   "skrämma",
+   "trösta"
+  ],
+  "hint": "Blå rök i ögonen, dölja verkligheten",
+  "answer": "vilseleda"
+ },
+ {
+  "question": "slå dank",
+  "alternatives": [
+   "driva runt",
+   "slösa tid",
+   "vila",
+   "arbeta lite",
+   "ta paus"
+  ],
+  "hint": "Äldre: gå sysslolös",
+  "answer": "lata sig"
+ },
+ {
+  "question": "slå dövörat till",
+  "alternatives": [
+   "lyssna noga",
+   "tala högt",
+   "bli döv",
+   "misstolka",
+   "svara undvikande"
+  ],
+  "hint": "Låtsas vara döv.",
+  "answer": "ignorera"
+ },
+ {
+  "question": "slå huvudet på spiken",
+  "alternatives": [
+   "ta i för mycket",
+   "snubbla på målsnöret",
+   "överdriva",
+   "peka ut",
+   "prova sig fram"
+  ],
+  "hint": "Snickarbild: träffa spikens huvud exakt",
+  "answer": "träffa rätt"
+ },
+ {
+  "question": "slå knut på sig själv",
+  "alternatives": [
+   "ge upp",
+   "förenkla",
+   "förhala",
+   "prioritera",
+   "göra sitt bästa"
+  ],
+  "hint": "Kropp i knut, överdriven ansträngning",
+  "answer": "anstränga sig överdrivet"
+ },
+ {
+  "question": "slå på stora trumman",
+  "alternatives": [
+   "skryta",
+   "annonsera",
+   "överdriva",
+   "sprida budskap",
+   "loba"
+  ],
+  "hint": "Stora trumman: mycket oväsen",
+  "answer": "göra reklam"
+ },
+ {
+  "question": "slå på stort",
+  "alternatives": [
+   "överdra",
+   "kosta på sig",
+   "skryta",
+   "överraska",
+   "förbruka"
+  ],
+  "hint": "Storslagna satsningar",
+  "answer": "lyxa"
+ },
+ {
+  "question": "slå sig för bröstet",
+  "alternatives": [
+   "ångra sig",
+   "bedja",
+   "försvara sig",
+   "sörja",
+   "förklara"
+  ],
+  "hint": "Gammal segergest: bröstslag",
+  "answer": "skryta"
+ },
+ {
+  "question": "slå sig lös",
+  "alternatives": [
+   "slappna av",
+   "unvf",
+   "släppa loss",
+   "leka",
+   "ha kul"
+  ],
+  "hint": "Lös från tyglar: festa",
+  "answer": "festa"
+ },
+ {
+  "question": "slå två flugor i en smäll",
+  "alternatives": [
+   "misslyckas dubbelt",
+   "ta en genväg",
+   "tura sig om",
+   "dela på vinsten",
+   "hinna i tid"
+  ],
+  "hint": "Två träffar, en smäll.",
+  "answer": "uppnå två mål"
+ },
+ {
+  "question": "slå vakt om",
+  "alternatives": [
+   "attackera",
+   "beivra",
+   "tävla om",
+   "hålla utkik efter",
+   "märka ut"
+  ],
+  "hint": "Som vakt: skydda det du värderar",
+  "answer": "värna"
+ },
+ {
+  "question": "smida medan järnet är varmt",
+  "alternatives": [
+   "vänta in",
+   "spara kraft",
+   "sakta ner",
+   "efterhandsplanera",
+   "förbereda mer"
+  ],
+  "hint": "Smed: forma varmt järn nu",
+  "answer": "passa på"
+ },
+ {
+  "question": "smörja kråset",
+  "alternatives": [
+   "äta gott",
+   "göra sig till",
+   "smickra",
+   "muta",
+   "bjuda"
+  ],
+  "hint": "Äldre: smörja kräset gomsegel",
+  "answer": "frossa"
+ },
+ {
+  "question": "snubbla på målsnöret",
+  "alternatives": [
+   "vinna knappt",
+   "komma tvåa",
+   "vara nära",
+   "ge upp",
+   "tappa fart"
+  ],
+  "hint": "Falla vid upploppets snöre",
+  "answer": "missa precis"
+ },
+ {
+  "question": "sopa banan för",
+  "alternatives": [
+   "hindra",
+   "förhala",
+   "försvåra",
+   "förbereda halvt",
+   "vägleda"
+  ],
+  "hint": "Banans yta ren: lätt passage",
+  "answer": "underlätta"
+ },
+ {
+  "question": "sopa under mattan",
+  "alternatives": [
+   "städa ordentligt",
+   "avslöja",
+   "glömma",
+   "förminska",
+   "ignorera"
+  ],
+  "hint": "Gömma skräp under mattkanten.",
+  "answer": "dölja"
+ },
+ {
+  "question": "spara på krutet",
+  "alternatives": [
+   "spara",
+   "vakta resurser",
+   "inte ta i",
+   "minimera",
+   "bromsa"
+  ],
+  "hint": "Krut sparas till rätt läge",
+  "answer": "hålla igen"
+ },
+ {
+  "question": "spela Allan",
+  "alternatives": [
+   "spela teater",
+   "spela dum",
+   "spela överraskad",
+   "spela cool",
+   "spela svår"
+  ],
+  "hint": "Allan som typ av skrytmåns",
+  "answer": "uppträda kaxigt"
+ },
+ {
+  "question": "spela andrafiol",
+  "alternatives": [
+   "spela sämre",
+   "vara reserv",
+   "vara sidofigur",
+   "vara understöd",
+   "vara delaktig"
+  ],
+  "hint": "Orkestermetafor: inte förstafiol",
+  "answer": "vara underordnad"
+ },
+ {
+  "question": "springa gatlopp",
+  "alternatives": [
+   "springa långt",
+   "fly",
+   "förnedras",
+   "pressas",
+   "grillas av media"
+  ],
+  "hint": "Historiskt straff: löpa mellan slag",
+  "answer": "utsättas för kritik"
+ },
+ {
+  "question": "sticka näsan i blöt",
+  "alternatives": [
+   "vara nyfiken",
+   "vara vaksam",
+   "titta noga",
+   "detaljgranska",
+   "dra sig undan"
+  ],
+  "hint": "Näsan där den ej hör hemma",
+  "answer": "lägga sig i"
+ },
+ {
+  "question": "sticka under stol med",
+  "alternatives": [
+   "erkänna",
+   "förminska",
+   "överdriva",
+   "förklara",
+   "dementera"
+  ],
+  "hint": "Gömma något under en stol.",
+  "answer": "dölja"
+ },
+ {
+  "question": "sticka ut hakan",
+  "alternatives": [
+   "skryta",
+   "vara modig",
+   "protestera",
+   "ifrågasätta",
+   "utmana"
+  ],
+  "hint": "Hakan fram: risk för slag",
+  "answer": "riskera kritik"
+ },
+ {
+  "question": "stryka medhårs",
+  "alternatives": [
+   "kritiserar",
+   "ignorera",
+   "avråda",
+   "underminera",
+   "övervaka"
+  ],
+  "hint": "Päls medhårs: behaglig riktning",
+  "answer": "smickra"
+ },
+ {
+  "question": "strö salt i såren",
+  "alternatives": [
+   "förbittra",
+   "provocera",
+   "påminna",
+   "förklara",
+   "försvara"
+  ],
+  "hint": "Salt i sår gör ont",
+  "answer": "förvärra"
+ },
+ {
+  "question": "stå för fiolerna",
+  "alternatives": [
+   "planera",
+   "styra",
+   "spela förstafiol",
+   "ansvara",
+   "garantera"
+  ],
+  "hint": "Betala orkesterns fioler",
+  "answer": "betala"
+ },
+ {
+  "question": "stå med mössan i hand",
+  "alternatives": [
+   "be om ursäkt",
+   "be om hjälp",
+   "vara blyg",
+   "vara artig",
+   "vara respektfull"
+  ],
+  "hint": "Gammal sed: mössan i hand",
+  "answer": "vara underdånig"
+ },
+ {
+  "question": "stå med skägget i brevlådan",
+  "alternatives": [
+   "bli utskälld",
+   "bli lurad",
+   "bli förbisedd",
+   "bli förlåten",
+   "bli klandrad"
+  ],
+  "hint": "Komiskt fast, överraskad på bar gärning",
+  "answer": "bli ertappad"
+ },
+ {
+  "question": "stå pall",
+  "alternatives": [
+   "vägra",
+   "ge upp",
+   "tveka",
+   "fly",
+   "klara delvis"
+  ],
+  "hint": "Pall bär tyngd",
+  "answer": "orka"
+ },
+ {
+  "question": "stå sig slätt",
+  "alternatives": [
+   "vara oklar",
+   "vara passiv",
+   "vara tveksam",
+   "vara överlägsen",
+   "vara uträknad"
+  ],
+  "hint": "Inget att sätta emot",
+  "answer": "vara chanslös"
+ },
+ {
+  "question": "stå vid sitt ord",
+  "alternatives": [
+   "stå emot",
+   "stå på sig",
+   "stå över",
+   "stå fast",
+   "stå till svars"
+  ],
+  "hint": "Löfte hålls oförändrat",
+  "answer": "hålla löfte"
+ },
+ {
+  "question": "svära sig fri",
+  "alternatives": [
+   "erkänna",
+   "förklara",
+   "ursäkta sig",
+   "anklaga andra",
+   "överklaga"
+  ],
+  "hint": "Ed: fri från skuld",
+  "answer": "neka ansvar"
+ },
+ {
+  "question": "sätta färg på",
+  "alternatives": [
+   "förtydliga",
+   "måla om",
+   "avdramatisera",
+   "försämra",
+   "mörklägga"
+  ],
+  "hint": "Färg tillsätter liv och energi",
+  "answer": "pigga upp"
+ },
+ {
+  "question": "sätta guldkant på",
+  "alternatives": [
+   "förbättra",
+   "förstärka",
+   "försköna",
+   "förmera",
+   "fördyrar"
+  ],
+  "hint": "Guldkant: extra lyx",
+  "answer": "förgylla"
+ },
+ {
+  "question": "sätta kniven på strupen",
+  "alternatives": [
+   "hotar",
+   "tvinga",
+   "ställa krav",
+   "övertala",
+   "föreslå"
+  ],
+  "hint": "Kniv mot strupe: ultimatum",
+  "answer": "pressa"
+ },
+ {
+  "question": "sätta krokben för",
+  "alternatives": [
+   "hindra",
+   "försvåra",
+   "fälla",
+   "fördröja",
+   "vägleda"
+  ],
+  "hint": "Fälla någon med krokben",
+  "answer": "sabotera"
+ },
+ {
+  "question": "sätta käppar i hjulet",
+  "alternatives": [
+   "underlätta",
+   "uppmuntra",
+   "förtydliga",
+   "försena",
+   "avleda"
+  ],
+  "hint": "Bild: käppar stoppar ett hjul",
+  "answer": "hindra"
+ },
+ {
+  "question": "sätta punkt",
+  "alternatives": [
+   "börja om",
+   "avvakta",
+   "dra ut på",
+   "inleda",
+   "upprepa"
+  ],
+  "hint": "Interpunktion: punkt markerar slut",
+  "answer": "avsluta"
+ },
+ {
+  "question": "sätta sig på tvären",
+  "alternatives": [
+   "samarbeta",
+   "stödja",
+   "tveka",
+   "reagera starkt",
+   "vägra"
+  ],
+  "hint": "Sitta tvärs över vägen, stoppa.",
+  "answer": "opponera sig"
+ },
+ {
+  "question": "sätta sprätt på",
+  "alternatives": [
+   "sätta fart på",
+   "sätta punkt för",
+   "sätta stopp för",
+   "sätta igång",
+   "sätta undan"
+  ],
+  "hint": "Pengar sprätter iväg",
+  "answer": "slösa"
+ },
+ {
+  "question": "sätta tänderna i",
+  "alternatives": [
+   "kritiserar",
+   "avnjuta",
+   "analysera",
+   "skynda på",
+   "dela upp"
+  ],
+  "hint": "Bita tag i uppgiften",
+  "answer": "ta itu med"
+ },
+ {
+  "question": "ta bladet från munnen",
+  "alternatives": [
+   "skvallra",
+   "viska",
+   "tala i gåtor",
+   "tala över huvudet",
+   "hålla tyst"
+  ],
+  "hint": "Bildligt blad tas bort från munnen",
+  "answer": "tala klarspråk"
+ },
+ {
+  "question": "ta fasta på",
+  "alternatives": [
+   "beakta",
+   "fokusera på",
+   "bygga vidare på",
+   "gripa tag i",
+   "använda"
+  ],
+  "hint": "Fatta tag i något",
+  "answer": "utnyttja"
+ },
+ {
+  "question": "ta i med hårdhandskarna",
+  "alternatives": [
+   "agera strängt",
+   "gå hårt fram",
+   "vara bestämd",
+   "vara strikt",
+   "vara orubblig"
+  ],
+  "hint": "Hårdhandskar: krafttag",
+  "answer": "vara hård"
+ },
+ {
+  "question": "ta något med en nypa salt",
+  "alternatives": [
+   "acceptera",
+   "överdriva",
+   "missförstå",
+   "förlöjliga",
+   "avdramatisera"
+  ],
+  "hint": "Antik medicin: salt lindrade sanning",
+  "answer": "tvivla"
+ },
+ {
+  "question": "ta sig vatten över huvudet",
+  "alternatives": [
+   "ge upp",
+   "tveka",
+   "be om hjälp",
+   "överskatta andra",
+   "planera fel"
+  ],
+  "hint": "Vatten över huvudet: drunkningsrisk",
+  "answer": "åta sig för mycket"
+ },
+ {
+  "question": "ta sin Mats ur skolan",
+  "alternatives": [
+   "återkalla",
+   "ursäkta sig",
+   "hoppa av",
+   "avsäga sig",
+   "bryta upp"
+  ],
+  "hint": "Äldre uttryck, dra sig ur",
+  "answer": "retirera"
+ },
+ {
+  "question": "ta skeden i vacker hand",
+  "alternatives": [
+   "ta initiativ",
+   "sätta fart",
+   "invända",
+   "hålla god ton",
+   "sörpla soppa"
+  ],
+  "hint": "Uppfostrande uttryck: håll skeden ordentligt",
+  "answer": "acceptera läget"
+ },
+ {
+  "question": "ta till orda",
+  "alternatives": [
+   "ta ordet",
+   "avbryta",
+   "svara",
+   "läsa upp",
+   "förklara"
+  ],
+  "hint": "Samtalsstart: tar ordet",
+  "answer": "börja tala"
+ },
+ {
+  "question": "ta tillfället i akt",
+  "alternatives": [
+   "agera nu",
+   "ta chansen",
+   "handla snabbt",
+   "hugga läget",
+   "gripa tillfället"
+  ],
+  "hint": "Akt på tillfället",
+  "answer": "passa på"
+ },
+ {
+  "question": "ta tjuren vid hornen",
+  "alternatives": [
+   "omväga",
+   "tveka",
+   "delegera",
+   "förneka",
+   "fördröja"
+  ],
+  "hint": "Greppa hornen: möt problemet",
+  "answer": "konfrontera"
+ },
+ {
+  "question": "ta ton",
+  "alternatives": [
+   "höja rösten",
+   "ta ordet",
+   "ställa in sig",
+   "svara i telefon",
+   "ställa in volymen"
+  ],
+  "hint": "Musikstart: första tonen tas",
+  "answer": "börja sjunga"
+ },
+ {
+  "question": "ta udden av",
+  "alternatives": [
+   "slipa av",
+   "dämpa",
+   "ta ner",
+   "försvaga",
+   "avtrubba"
+  ],
+  "hint": "Trubbig udd: mindre skarp",
+  "answer": "mildra"
+ },
+ {
+  "question": "ta vid",
+  "alternatives": [
+   "ta över",
+   "börja",
+   "påbörja",
+   "övertaga",
+   "följas åt"
+  ],
+  "hint": "Ta vid där andra slutat",
+  "answer": "fortsätta"
+ },
+ {
+  "question": "tala för döva öron",
+  "alternatives": [
+   "övertala",
+   "tala högt",
+   "tala tyst",
+   "ignorera någon",
+   "bli uppmärksammad"
+  ],
+  "hint": "Ingen lyssnar, hur du än talar.",
+  "answer": "bli ohörd"
+ },
+ {
+  "question": "tala i nattmössan",
+  "alternatives": [
+   "tala i sömnen",
+   "viska",
+   "tala gammaldags",
+   "skämta",
+   "tala tyst"
+  ],
+  "hint": "Sömndrucken, nattmössa på.",
+  "answer": "prata dumheter"
+ },
+ {
+  "question": "tala sig varm för",
+  "alternatives": [
+   "övertala",
+   "förklara",
+   "försvara",
+   "berömma",
+   "plädera"
+  ],
+  "hint": "Prata ivrigt till stöd",
+  "answer": "förespråka"
+ },
+ {
+  "question": "tappa ansiktet",
+  "alternatives": [
+   "bli generad",
+   "bli arg",
+   "bli lugn",
+   "förlora talan",
+   "förlora pengar"
+  ],
+  "hint": "Asiatisk metafor för heder",
+  "answer": "förlora anseende"
+ },
+ {
+  "question": "tåla dagens ljus",
+  "alternatives": [
+   "vara laglig",
+   "vara rumsren",
+   "vara godtagbar",
+   "vara officiell",
+   "vara tydlig"
+  ],
+  "hint": "Klarar att visas öppet",
+  "answer": "vara acceptabel"
+ },
+ {
+  "question": "vara i skottgluggen",
+  "alternatives": [
+   "vara skyddad",
+   "vara obemärkt",
+   "vara förberedd",
+   "vara överlägsen",
+   "vara otillgänglig"
+  ],
+  "hint": "Sikte: i gluggen för skott",
+  "answer": "vara utsatt"
+ },
+ {
+  "question": "vara någon till lags",
+  "alternatives": [
+   "tillfredsställa",
+   "stödja",
+   "hjälpa",
+   "lyda",
+   "bejaka"
+  ],
+  "hint": "Göra någon till lags",
+  "answer": "tillmötesgå"
+ },
+ {
+  "question": "vara på bettet",
+  "alternatives": [
+   "vara nervös",
+   "vara trött",
+   "vara skeptisk",
+   "vara ointresserad",
+   "vara övermodig"
+  ],
+  "hint": "Ryttarbild: bett, redo och skärpt",
+  "answer": "vara alert"
+ },
+ {
+  "question": "vara på fallrepet",
+  "alternatives": [
+   "under omstrukturering",
+   "på uppgång",
+   "i balans",
+   "på paus",
+   "på dekis"
+  ],
+  "hint": "Cirkusens fallrep: nära rasa",
+  "answer": "nära konkurs"
+ },
+ {
+  "question": "vara på tapeten",
+  "alternatives": [
+   "vara omodern",
+   "vara hemlig",
+   "vara över",
+   "vara på gång",
+   "vara planerad"
+  ],
+  "hint": "Tapet som anslagstavla: ämnet uppe.",
+  "answer": "vara aktuell"
+ },
+ {
+  "question": "vara ur gängorna",
+  "alternatives": [
+   "i balans",
+   "i tid",
+   "i ro",
+   "i otakt",
+   "i upplösning"
+  ],
+  "hint": "Gångjärn ur gängor: skevt",
+  "answer": "i oordning"
+ },
+ {
+  "question": "vara ute i ogjort väder",
+  "alternatives": [
+   "för sent",
+   "för ofta",
+   "för öppet",
+   "för riskabelt",
+   "för ivrigt"
+  ],
+  "hint": "Ut innan vädret ordnat sig",
+  "answer": "för tidigt"
+ },
+ {
+  "question": "vara ute med håven",
+  "alternatives": [
+   "tigga",
+   "leta jobb",
+   "spana nyheter",
+   "fråga runt",
+   "söka stöd"
+  ],
+  "hint": "Håv för att fånga beröm",
+  "answer": "fiska beröm"
+ },
+ {
+  "question": "vara ute på hal is",
+  "alternatives": [
+   "vara trygg",
+   "åka skridskor",
+   "vara rädd",
+   "ta det lugnt",
+   "våga lite"
+  ],
+  "hint": "Hal is: lätt att halka.",
+  "answer": "riskera"
+ },
+ {
+  "question": "vända blad",
+  "alternatives": [
+   "glömma",
+   "börja om",
+   "avsluta",
+   "släppa taget",
+   "byta kapitel"
+  ],
+  "hint": "Nytt blad: ny fas",
+  "answer": "gå vidare"
+ },
+ {
+  "question": "vända kappan efter vinden",
+  "alternatives": [
+   "vara flexibel",
+   "vara försiktig",
+   "vara konsekvent",
+   "vara envis",
+   "vara läraktig"
+  ],
+  "hint": "Kappa vrids efter vind",
+  "answer": "vara opportunistisk"
+ },
+ {
+  "question": "vända på varje sten",
+  "alternatives": [
+   "leta noga",
+   "granska",
+   "spana",
+   "kontrollera",
+   "ifrågasätta"
+  ],
+  "hint": "Varje sten vänds",
+  "answer": "undersöka allt"
+ }
+]
