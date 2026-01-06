@@ -126,16 +126,28 @@ function cacheDom() {
   dom.body = document.body;
 }
 
+function getSelectedRadioValue(container, name) {
+  if (!container) return null;
+  const input = container.querySelector(`input[name="${name}"]:checked`);
+  return input ? input.value : null;
+}
+
 function wireEvents() {
   if (dom.modeSelector) {
     dom.modeSelector.addEventListener('change', () => {
-      savePreference(STORAGE_KEYS.MODE, dom.modeSelector.value);
+      const value = getSelectedRadioValue(dom.modeSelector, 'mode');
+      if (value) {
+        savePreference(STORAGE_KEYS.MODE, value);
+      }
     });
   }
 
   if (dom.listTypeSelector) {
     dom.listTypeSelector.addEventListener('change', () => {
-      savePreference(STORAGE_KEYS.LIST_TYPE, dom.listTypeSelector.value);
+      const value = getSelectedRadioValue(dom.listTypeSelector, 'listType');
+      if (value) {
+        savePreference(STORAGE_KEYS.LIST_TYPE, value);
+      }
       updateHomeListTypeVisibility();
     });
   }
@@ -214,24 +226,42 @@ function loadPreferences() {
   }
   hapticsEnabled = dom.toggleHaptics ? dom.toggleHaptics.checked : false;
 
+  // Restore mode radio
   if (dom.modeSelector && mode) {
-    dom.modeSelector.value = mode;
+    const input = dom.modeSelector.querySelector(
+      `input[name="mode"][value="${mode}"]`
+    );
+    if (input) {
+      input.checked = true;
+    }
   }
 
+  // Restore listType radio
   if (dom.listTypeSelector && listType) {
-    dom.listTypeSelector.value = listType;
+    const input = dom.listTypeSelector.querySelector(
+      `input[name="listType"][value="${listType}"]`
+    );
+    if (input) {
+      input.checked = true;
+    }
   }
 
   if (dom.randomCountInput && randomCount) {
     dom.randomCountInput.value = parseInt(randomCount, 10) || 30;
   }
 
-  // Default fixed list letter based on daysSinceEpoch
-  if (dom.fixedListPicker && !dom.fixedListPicker.value) {
-    const daysSinceEpoch = Math.floor(Date.now() / (1000 * 60 * 60 * 24));
-    const index = daysSinceEpoch % 26;
-    const letter = String.fromCharCode('A'.charCodeAt(0) + index);
-    dom.fixedListPicker.value = letter;
+  // Default fixed list index based on daysSinceEpoch (0–25)
+  if (dom.fixedListPicker) {
+    const storedIndex = loadPreference('ord.fixedLetterIndex');
+    if (storedIndex != null) {
+      dom.fixedListPicker.value = String(
+        Math.max(0, Math.min(25, parseInt(storedIndex, 10) || 0))
+      );
+    } else {
+      const daysSinceEpoch = Math.floor(Date.now() / (1000 * 60 * 60 * 24));
+      const index = daysSinceEpoch % 26;
+      dom.fixedListPicker.value = String(index);
+    }
   }
 
   updateHomeListTypeVisibility();
@@ -349,22 +379,45 @@ function renderHome() {
 
 function updateHomeListTypeVisibility() {
   if (!dom.listTypeSelector) return;
-  const type = dom.listTypeSelector.value;
+  const type =
+    getSelectedRadioValue(dom.listTypeSelector, 'listType') ||
+    LIST_TYPES.FIXED;
+
+  const fixedContainer = document.getElementById('fixedListContainer');
+  const randomContainer = document.getElementById('randomCountContainer');
+
   if (type === LIST_TYPES.RANDOM) {
-    if (dom.randomCountInput) dom.randomCountInput.closest('.random-settings')?.classList.remove('hidden');
-    if (dom.fixedListPicker) dom.fixedListPicker.closest('.fixed-settings')?.classList.add('hidden');
+    if (fixedContainer) fixedContainer.classList.add('hidden');
+    if (randomContainer) randomContainer.classList.remove('hidden');
   } else {
-    if (dom.randomCountInput) dom.randomCountInput.closest('.random-settings')?.classList.add('hidden');
-    if (dom.fixedListPicker) dom.fixedListPicker.closest('.fixed-settings')?.classList.remove('hidden');
+    if (fixedContainer) fixedContainer.classList.remove('hidden');
+    if (randomContainer) randomContainer.classList.add('hidden');
   }
 }
 
 function readHomeSettings() {
-  const mode = dom.modeSelector ? dom.modeSelector.value : MODES.BOTH;
-  const listType = dom.listTypeSelector ? dom.listTypeSelector.value : LIST_TYPES.FIXED;
-  const randomCount = dom.randomCountInput ? parseInt(dom.randomCountInput.value, 10) || 30 : 30;
-  const fixedLetter = dom.fixedListPicker ? dom.fixedListPicker.value || 'A' : 'A';
-  const fixedLetterIndex = fixedLetter.toUpperCase().charCodeAt(0) - 'A'.charCodeAt(0);
+  const mode = dom.modeSelector
+    ? getSelectedRadioValue(dom.modeSelector, 'mode') || MODES.BOTH
+    : MODES.BOTH;
+
+  const listType = dom.listTypeSelector
+    ? getSelectedRadioValue(dom.listTypeSelector, 'listType') ||
+      LIST_TYPES.FIXED
+    : LIST_TYPES.FIXED;
+
+  const randomCount = dom.randomCountInput
+    ? parseInt(dom.randomCountInput.value, 10) || 30
+    : 30;
+
+  const fixedLetterIndex = dom.fixedListPicker
+    ? Math.max(
+        0,
+        Math.min(25, parseInt(dom.fixedListPicker.value, 10) || 0)
+      )
+    : 0;
+
+  // Persist fixed letter index for next time
+  savePreference('ord.fixedLetterIndex', fixedLetterIndex);
 
   return {
     mode,
