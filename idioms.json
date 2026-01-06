@@ -512,7 +512,7 @@
    "byta bana",
    "bli bestraffad"
   ],
-  "hint": "Äldre skolslang: misslyckas på fråga",
+  "hint": "Skolslang: klarar inte uppgiften.",
   "answer": "inte klara av"
  },
  {
@@ -525,7 +525,7 @@
    "följa efter"
   ],
   "hint": "Bräsch: öppning i mur",
-  "answer": "föregå"
+  "answer": "gå i spetsen"
  },
  {
   "question": "gå i god för",
@@ -597,7 +597,7 @@
    "stupa"
   ],
   "hint": "Boxning: domaren räknar",
-  "answer": "bli nedslagen"
+  "answer": "bli tillfälligt utslagen"
  },
  {
   "question": "gå på knäna",
@@ -674,11 +674,11 @@
  {
   "question": "gå som tåget",
   "incorrect": [
-   "gå långsamt",
-   "gå trögt",
-   "gå sällan",
-   "gå snett",
-   "gå bakåt"
+   "gå fort",
+   "gå punktligt",
+   "gå stabilt",
+   "gå enligt plan",
+   "gå utan hinder"
   ],
   "hint": "Tåg: snabbt och punktligt",
   "answer": "gå mycket bra"
@@ -728,7 +728,7 @@
    "resignera",
    "bli bättre"
   ],
-  "hint": "Eufemism för 'gå åt helvete'.",
+  "hint": "Mildare uttryck för att något går riktigt illa.",
   "answer": "misslyckas"
  },
  {
@@ -762,7 +762,7 @@
    "följa genväg",
    "vara beslutsam",
    "skjuta upp",
-   "göra dubbelarbete"
+   "optimera insatsen"
   ],
   "hint": "Varför gå över ån för vatten?",
   "answer": "krångla till"
@@ -963,10 +963,10 @@
   "question": "ha tomtar på loftet",
   "incorrect": [
    "vara kreativ",
-   "vara disträ",
-   "vara snurrig",
+   "vara tankspridd",
    "vara skämtsam",
-   "vara vidskeplig"
+   "vara vidskeplig",
+   "vara lättroad"
   ],
   "hint": "Skämt: tomtar i huvudet",
   "answer": "vara knäpp"
@@ -1322,11 +1322,11 @@
  {
   "question": "leva rövare",
   "incorrect": [
-   "festa",
    "skämta",
    "ståka",
    "skryta",
-   "busköra"
+   "busköra",
+   "skrika"
   ],
   "hint": "Rövare härjar och förstör",
   "answer": "härja"
@@ -1694,13 +1694,13 @@
  {
   "question": "sitta still i båten",
   "incorrect": [
-   "hålla tyst",
-   "vänta",
-   "inte agera",
-   "lugna ner",
-   "väga för och emot"
+   "fortsätta som vanligt",
+   "hålla med",
+   "byta strategi",
+   "tala ut",
+   "ta ansvar"
   ],
-  "hint": "Rör inte båten: vänta",
+  "hint": "Båtmetafor: små rörelser kan välta.",
   "answer": "avvakta"
  },
  {
@@ -1922,11 +1922,11 @@
  {
   "question": "spara på krutet",
   "incorrect": [
-   "spara",
-   "vakta resurser",
-   "inte ta i",
-   "minimera",
-   "bromsa"
+   "prioritera om",
+   "fördela smart",
+   "samordna insatser",
+   "effektivisera",
+   "förbereda sig"
   ],
   "hint": "Krut sparas till rätt läge",
   "answer": "hålla igen"
@@ -2246,14 +2246,14 @@
  {
   "question": "ta i med hårdhandskarna",
   "incorrect": [
-   "agera strängt",
-   "gå hårt fram",
-   "vara bestämd",
-   "vara strikt",
-   "vara orubblig"
+   "agera effektivt",
+   "agera snabbt",
+   "agera formellt",
+   "agera proaktivt",
+   "agera konsekvent"
   ],
   "hint": "Hårdhandskar: krafttag",
-  "answer": "vara hård"
+  "answer": "tillgripa stränga metoder"
  },
  {
   "question": "ta något med en nypa salt",
