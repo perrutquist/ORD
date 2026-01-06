@@ -177,7 +177,7 @@
    "bokföra"
   ],
   "hint": "Bokföringsbild: streck markerar att något inte räknas längre.",
-  "answer": "glömma"
+  "answer": "avskriva"
  },
  {
   "question": "dra i trådarna",
@@ -1610,14 +1610,14 @@
  {
   "question": "röra upp himmel och jord",
   "incorrect": [
-   "överdriva",
    "protestera",
-   "vända på allt",
-   "bråka",
-   "skvallra"
+   "brusa upp",
+   "överdriva",
+   "skvallra",
+   "agera impulsivt"
   ],
-  "hint": "Rubba allt för att nå målet",
-  "answer": "anstränga sig"
+  "hint": "Sätta allt i rörelse för att åstadkomma något",
+  "answer": "göra allt"
  },
  {
   "question": "segla i medvind",
@@ -2006,7 +2006,7 @@
  {
   "question": "stryka medhårs",
   "incorrect": [
-   "kritiserar",
+   "kritisera",
    "ignorera",
    "avråda",
    "underminera",
@@ -2130,7 +2130,7 @@
    "förstärka",
    "försköna",
    "förmera",
-   "fördyrar"
+   "fördyra"
   ],
   "hint": "Guldkant: extra lyx",
   "answer": "förgylla"
@@ -2187,10 +2187,10 @@
   "question": "sätta sig på tvären",
   "incorrect": [
    "samarbeta",
-   "stödja",
-   "tveka",
-   "reagera starkt",
-   "vägra"
+   "kompromissa",
+   "förhala",
+   "ta initiativ",
+   "stödja"
   ],
   "hint": "Sitta tvärs över vägen, stoppa.",
   "answer": "opponera sig"
@@ -2450,11 +2450,11 @@
  {
   "question": "vara någon till lags",
   "incorrect": [
-   "tillfredsställa",
-   "stödja",
-   "hjälpa",
    "lyda",
-   "bejaka"
+   "smickra",
+   "hjälpa",
+   "stödja",
+   "förbarma sig"
   ],
   "hint": "Göra någon till lags",
   "answer": "tillmötesgå"
