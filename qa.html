@@ -110,7 +110,7 @@
       <ul class="muted">
         <li>Duplicerade frågor (inom och mellan filer)</li>
         <li>För korta ledtrådar (hint)</li>
-        <li>Distraktorer som är identiska med något svar</li>
+        <li>Distraktorer som är identiska med rätt svar eller med varandra</li>
       </ul>
       <p class="muted">
         Öppna den här filen via <code>qa.html</code> i samma katalog som
@@ -137,7 +137,7 @@
       <h2>För korta ledtrådar</h2>
       <p class="muted">
         Poster där <code>hint</code> är kortare än
-        <code><span id="hintThresholdLabel">15</span></code> tecken.
+        <code><span id="hintThresholdLabel">3</span></code> tecken.
       </p>
       <pre id="shortHints">Laddar…</pre>
     </section>
@@ -145,8 +145,8 @@
     <section class="section">
       <h2>Dåliga distraktorer</h2>
       <p class="muted">
-        Distraktorer (<code>incorrect</code>) som är identiska med något
-        <code>answer</code> i samma fil.
+        Distraktorer (<code>incorrect</code>) som är identiska med
+        <code>answer</code> eller med en annan distraktor i samma fråga.
       </p>
       <pre id="badDistractors">Laddar…</pre>
     </section>
@@ -154,7 +154,7 @@
 
   <script>
     (function () {
-      const HINT_MIN_LENGTH = 15;
+      const HINT_MIN_LENGTH = 3;
 
       const summaryEl = document.getElementById("summary");
       const duplicatesEl = document.getElementById("duplicates");
@@ -218,28 +218,51 @@
         );
       }
 
+      // Distractors are bad if:
+      // - identical to the answer for that item, OR
+      // - identical to another distractor within the same item.
       function findBadDistractors(items) {
-        const answers = new Set(
-          items
-            .map((i) => i.answer.toLowerCase())
-            .filter((a) => a && a.length > 0)
-        );
-
         const issues = [];
+
         for (const item of items) {
+          const answerLower = item.answer.toLowerCase();
+          const seenDistractors = new Map(); // lowercased -> original text
+
           for (const inc of item.incorrect) {
             if (!inc) continue;
-            if (answers.has(inc.toLowerCase())) {
+            const incLower = inc.toLowerCase();
+
+            // Same as answer?
+            if (answerLower && incLower === answerLower) {
               issues.push({
                 source: item.source,
                 index: item.index,
                 question: item.question,
                 answer: item.answer,
                 distractor: inc,
+                reason: "matchar answer",
               });
+              continue;
+            }
+
+            // Duplicate distractor within the same question?
+            if (seenDistractors.has(incLower)) {
+              issues.push({
+                source: item.source,
+                index: item.index,
+                question: item.question,
+                answer: item.answer,
+                distractor: inc,
+                reason: `duplicerad distraktor (också "${seenDistractors.get(
+                  incLower
+                )}")`,
+              });
+            } else {
+              seenDistractors.set(incLower, inc);
             }
           }
         }
+
         return issues;
       }
 
@@ -358,7 +381,7 @@
 
         if (!all.length) {
           badDistractorsEl.textContent =
-            "Inga distraktorer som matchar svar hittades.";
+            "Inga dåliga distraktorer hittades.";
           badDistractorsEl.className = "ok";
           return;
         }
@@ -366,9 +389,10 @@
         const lines = all.map(
           (i) =>
             `${i.file} ${i.source}[${i.index}]\n` +
-            `  question: "${i.question}"\n` +
-            `  answer:   "${i.answer}"\n` +
-            `  distractor: "${i.distractor}"`
+            `  question:   "${i.question}"\n` +
+            `  answer:     "${i.answer}"\n` +
+            `  distractor: "${i.distractor}"\n` +
+            (i.reason ? `  orsak:      ${i.reason}` : "")
         );
         badDistractorsEl.textContent = formatList(lines);
         badDistractorsEl.className = "warn";
