@@ -149,7 +149,7 @@
    "ha tur",
    "få vinst",
    "bli utvald",
-   "ha medvind",
+   "få tröstpris",
    "träffa rätt"
   ],
   "hint": "Lotteri: nitlott ger ingenting",
@@ -197,7 +197,7 @@
    "dela lika",
    "skiljas åt",
    "vara sist",
-   "vara jämngod",
+   "följa samma tempo",
    "lunka på"
   ],
   "hint": "Lika drag ger balans, inga gräl",
@@ -592,7 +592,7 @@
   "incorrect": [
    "förlora",
    "ge upp",
-   "räknas ut",
+   "räkna fel",
    "tappa sugen",
    "stupa"
   ],
@@ -629,7 +629,7 @@
    "inte komma vidare",
    "snurra runt",
    "slösa tid",
-   "stå still",
+   "arbeta utan resultat",
    "gå långsamt"
   ],
   "hint": "Motor utan växel i",
@@ -640,7 +640,7 @@
   "incorrect": [
    "smyga",
    "välja omväg",
-   "snoka",
+   "trampa runt",
    "ånga på",
    "vänta på rätt tillfälle"
   ],
@@ -651,7 +651,7 @@
   "question": "gå som på räls",
   "incorrect": [
    "gå av sig själv",
-   "gå långsamt",
+   "gå ljudlöst",
    "gå snett",
    "gå trögt",
    "följa planen"
@@ -662,7 +662,7 @@
  {
   "question": "gå som smort",
   "incorrect": [
-   "gå fort",
+   "gå tyst",
    "gå runt",
    "gå trögt",
    "låta illa",
@@ -701,7 +701,7 @@
    "ge upp",
    "oroa sig",
    "tappa tråden",
-   "ramla ihop",
+   "tappa hakan",
    "bryta ihop"
   ],
   "hint": "Limfog spricker under tryck",
@@ -758,7 +758,7 @@
  {
   "question": "gå över ån efter vatten",
   "incorrect": [
-   "spara kraft",
+   "ta en omväg",
    "följa genväg",
    "vara beslutsam",
    "skjuta upp",
@@ -891,7 +891,7 @@
   "question": "ha is i magen",
   "incorrect": [
    "vara kallhjärtad",
-   "vara likgiltig",
+   "vara försiktig",
    "vara modig",
    "vara rädd",
    "vara trög"
@@ -1026,7 +1026,7 @@
    "vara likgiltig",
    "tänka positivt",
    "låtsas lyssna",
-   "försöka skratta"
+   "bita ihop"
   ],
   "hint": "Ansiktsuttryck trots dåliga kort",
   "answer": "dölja missnöje"
@@ -1071,7 +1071,7 @@
   "question": "hålla låg profil",
   "incorrect": [
    "vara hemlig",
-   "vara tyst",
+   "vara blyg",
    "vara feg",
    "vara effektiv",
    "vara inaktiv"
@@ -1086,7 +1086,7 @@
    "se glad ut",
    "undvika folk",
    "tappa ansiktet",
-   "bita ihop"
+   "sätta ord på känslor"
   ],
   "hint": "Teatermasken hålls på plats",
   "answer": "dölja känslor"
@@ -1095,7 +1095,7 @@
   "question": "hålla någon kort",
   "incorrect": [
    "stötta",
-   "uppmuntra",
+   "överse med",
    "försumma",
    "frigöra",
    "misstro"
@@ -1106,11 +1106,11 @@
  {
   "question": "hålla någon om ryggen",
   "incorrect": [
-   "stödja",
+   "övervaka",
    "ursäkta",
-   "frikänna",
-   "gömma",
-   "försvara"
+   "sätta press på",
+   "göra sig osynlig",
+   "skryta om"
   ],
   "hint": "Skydda ryggen från angrepp",
   "answer": "skydda"
@@ -1302,7 +1302,7 @@
    "besluta",
    "skjuta upp",
    "förbereda",
-   "avvakta"
+   "ladda upp"
   ],
   "hint": "Startsignal: skottet går",
   "answer": "börja"
@@ -1588,7 +1588,7 @@
   "incorrect": [
    "accelerera",
    "spåra ur",
-   "eskalera",
+   "sippra bort",
    "nå målet",
    "slå igenom"
   ],
@@ -1611,7 +1611,7 @@
   "question": "röra upp himmel och jord",
   "incorrect": [
    "protestera",
-   "brusa upp",
+   "mobilisera resurser",
    "överdriva",
    "skvallra",
    "agera impulsivt"
@@ -1622,11 +1622,11 @@
  {
   "question": "segla i medvind",
   "incorrect": [
-   "ha tur",
-   "ha medgång",
-   "ha lätt",
-   "ha flyt",
-   "ha överläge"
+   "gå snabbt",
+   "segla rakt",
+   "ha jämn sjö",
+   "ha överläge",
+   "ha stor besättning"
   ],
   "hint": "Medvind ger fart",
   "answer": "gynnas"
@@ -1634,11 +1634,11 @@
  {
   "question": "segla nära vinden",
   "incorrect": [
-   "riskera",
-   "utmana gränser",
-   "bryta lite",
+   "segla snabbt",
    "balansera",
-   "chansa"
+   "hålla kursen",
+   "chansa",
+   "ta täten"
   ],
   "hint": "Vind: precis på gränsen",
   "answer": "tänja på regler"
@@ -1709,7 +1709,7 @@
    "slarva",
    "överreagera",
    "agera snabbt",
-   "planera dåligt",
+   "gissa vilt",
    "ta risker"
   ],
   "hint": "Cowboyskott utan sikte",
@@ -1792,7 +1792,7 @@
   "incorrect": [
    "skryta",
    "annonsera",
-   "överdriva",
+   "fira stort",
    "sprida budskap",
    "loba"
   ],
@@ -1899,10 +1899,10 @@
   "question": "sopa banan för",
   "incorrect": [
    "hindra",
-   "förhala",
-   "försvåra",
-   "förbereda halvt",
-   "vägleda"
+   "värma upp",
+   "leda vägen",
+   "trumma igång",
+   "förvarna"
   ],
   "hint": "Banans yta ren: lätt passage",
   "answer": "underlätta"
@@ -1922,11 +1922,11 @@
  {
   "question": "spara på krutet",
   "incorrect": [
-   "prioritera om",
    "fördela smart",
-   "samordna insatser",
-   "effektivisera",
-   "förbereda sig"
+   "samla trupper",
+   "mäta noggrant",
+   "öva mer",
+   "lägga om strategi"
   ],
   "hint": "Krut sparas till rätt läge",
   "answer": "hålla igen"
@@ -1949,7 +1949,7 @@
    "spela sämre",
    "vara reserv",
    "vara sidofigur",
-   "vara understöd",
+   "vara vikarie",
    "vara delaktig"
   ],
   "hint": "Orkestermetafor: inte förstafiol",
@@ -2093,7 +2093,7 @@
    "stå emot",
    "stå på sig",
    "stå över",
-   "stå fast",
+   "stå till tjänst",
    "stå till svars"
   ],
   "hint": "Löfte hålls oförändrat",
@@ -2198,11 +2198,11 @@
  {
   "question": "sätta sprätt på",
   "incorrect": [
-   "sätta fart på",
-   "sätta punkt för",
    "sätta stopp för",
-   "sätta igång",
-   "sätta undan"
+   "sätta upp mål",
+   "sätta spår",
+   "sätta i system",
+   "sätta på hög"
   ],
   "hint": "Pengar sprätter iväg",
   "answer": "slösa"
@@ -2320,7 +2320,7 @@
   "incorrect": [
    "avvakta",
    "tveka",
-   "vänta ut",
+   "ta omvägar",
    "backa",
    "försitta chansen"
   ],
@@ -2394,7 +2394,7 @@
    "viska",
    "tala gammaldags",
    "skämta",
-   "tala tyst"
+   "tala långsamt"
   ],
   "hint": "Sömndrucken, nattmössa på.",
   "answer": "prata dumheter"
@@ -2406,7 +2406,7 @@
    "förklara",
    "försvara",
    "berömma",
-   "plädera"
+   "debattera"
   ],
   "hint": "Prata ivrigt till stöd",
   "answer": "förespråka"
