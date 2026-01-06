@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <title>ORD – Öva ordförståelse</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="description" content="ORD – träna ORD-delen på Högskoleprovet direkt i mobilen." />
+
+  <!-- PWA basics -->
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#ffffff" />
+
+  <!-- iOS PWA hints -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="ORD" />
+
+  <!-- Icons (filnamn matchar README-beskrivningen; byt vid behov) -->
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="512x512" href="icons/icon-512.png" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <!-- HOME SCREEN -->
+    <section id="homeScreen" class="screen">
+      <header class="app-header">
+        <h1>ORD</h1>
+        <p class="subtitle">Träna ORD-delen på Högskoleprovet</p>
+      </header>
+
+      <main class="screen-body">
+        <section class="card">
+          <h2>Typ av lista</h2>
+          <div class="field-group" id="modeSelector">
+            <label>
+              <input type="radio" name="mode" value="both" checked />
+              Ord + idiom
+            </label>
+            <label>
+              <input type="radio" name="mode" value="words" />
+              Bara ord
+            </label>
+            <label>
+              <input type="radio" name="mode" value="idioms" />
+              Bara idiom
+            </label>
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>Urval</h2>
+          <div class="field-group" id="listTypeSelector">
+            <label>
+              <input type="radio" name="listType" value="fixed" checked />
+              Fast lista (A–Z)
+            </label>
+            <label>
+              <input type="radio" name="listType" value="random" />
+              Slumpad lista
+            </label>
+          </div>
+
+          <div class="field-group" id="fixedListContainer">
+            <label for="fixedListPicker">Bokstav</label>
+            <select id="fixedListPicker">
+              <option value="0">A</option>
+              <option value="1">B</option>
+              <option value="2">C</option>
+              <option value="3">D</option>
+              <option value="4">E</option>
+              <option value="5">F</option>
+              <option value="6">G</option>
+              <option value="7">H</option>
+              <option value="8">I</option>
+              <option value="9">J</option>
+              <option value="10">K</option>
+              <option value="11">L</option>
+              <option value="12">M</option>
+              <option value="13">N</option>
+              <option value="14">O</option>
+              <option value="15">P</option>
+              <option value="16">Q</option>
+              <option value="17">R</option>
+              <option value="18">S</option>
+              <option value="19">T</option>
+              <option value="20">U</option>
+              <option value="21">V</option>
+              <option value="22">W</option>
+              <option value="23">X</option>
+              <option value="24">Y</option>
+              <option value="25">Z</option>
+            </select>
+          </div>
+
+          <div class="field-group hidden" id="randomCountContainer">
+            <label for="randomCount">Antal ord</label>
+            <input
+              id="randomCount"
+              type="number"
+              min="5"
+              max="200"
+              step="5"
+              value="30"
+              inputmode="numeric"
+            />
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>Inställningar</h2>
+          <div class="toggles">
+            <label class="toggle">
+              <span>Mörkt läge</span>
+              <input id="toggleDark" type="checkbox" />
+            </label>
+            <label class="toggle">
+              <span>Haptik vid fel svar</span>
+              <input id="toggleHaptics" type="checkbox" />
+            </label>
+          </div>
+        </section>
+      </main>
+
+      <footer class="screen-footer">
+        <button id="btnStart" class="primary">Starta</button>
+      </footer>
+    </section>
+
+    <!-- EXERCISE SCREEN -->
+    <section id="exerciseScreen" class="screen hidden">
+      <header class="app-header">
+        <h1>ORD</h1>
+        <p id="remainingLabel" class="subtitle">
+          Återstår: <span id="remainingCount">0</span>
+        </p>
+      </header>
+
+      <main class="screen-body">
+        <section class="card question-card">
+          <div id="question" class="question-text">Laddar…</div>
+
+          <ul id="options" class="options-list">
+            <!-- Alternativ skapas dynamiskt av script.js -->
+          </ul>
+
+          <div id="hint" class="hint hidden"></div>
+        </section>
+      </main>
+
+      <footer class="screen-footer">
+        <div class="progress-row">
+          <div class="progress-bar">
+            <div id="progressBar" class="progress-bar-fill"></div>
+          </div>
+          <div class="exercise-actions">
+            <button id="btnMark" type="button" class="secondary">
+              Markera för repetition
+            </button>
+            <button id="btnEnd" type="button" class="ghost">
+              Avsluta
+            </button>
+          </div>
+        </div>
+      </footer>
+    </section>
+
+    <!-- STATS SCREEN -->
+    <section id="statsScreen" class="screen hidden">
+      <header class="app-header">
+        <h1>Resultat</h1>
+      </header>
+
+      <main class="screen-body">
+        <section class="card">
+          <div id="statsSummary">
+            <!-- Fylls i av script.js med Intl.NumberFormat('sv-SE') -->
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>Repetition</h2>
+          <p id="reviewEmpty" class="muted hidden">
+            Inga markerade ord den här gången.
+          </p>
+          <ul id="reviewList" class="review-list">
+            <!-- Fylls i av script.js: länkar till Google-sökningar -->
+          </ul>
+        </section>
+      </main>
+
+      <footer class="screen-footer">
+        <button id="btnOk" class="primary">OK</button>
+      </footer>
+    </section>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
