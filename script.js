@@ -584,9 +584,20 @@ function renderOptions() {
   currentChoices.forEach((choice, index) => {
     const li = document.createElement('li');
     li.className = 'option';
-    li.textContent = choice.text;
+
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'option-button';
+
+    const labelSpan = document.createElement('span');
+    labelSpan.className = 'option-label';
+    labelSpan.textContent = choice.text;
+
+    button.appendChild(labelSpan);
+    button.addEventListener('click', () => handleOptionClick(index, li));
+
     li.dataset.index = String(index);
-    li.addEventListener('click', () => handleOptionClick(index, li));
+    li.appendChild(button);
     dom.options.appendChild(li);
   });
 }
@@ -666,32 +677,34 @@ function moveCurrentDownQueue() {
 
 function showCorrectFeedback(liElement) {
   if (!liElement) return;
-  liElement.classList.add('correct');
+  const button = liElement.querySelector('.option-button') || liElement;
+  button.classList.add('correct');
 
   // Add star element
   const star = document.createElement('span');
   star.className = 'star';
   star.textContent = '★';
-  liElement.appendChild(star);
+  button.appendChild(star);
 
   // Remove star after animation
   setTimeout(() => {
     if (star.parentNode) {
       star.parentNode.removeChild(star);
     }
-    liElement.classList.remove('correct');
+    button.classList.remove('correct');
   }, 500);
 }
 
 function showWrongFeedback(liElement) {
   if (!liElement) return;
 
-  liElement.classList.add('shake');
+  const button = liElement.querySelector('.option-button') || liElement;
+  button.classList.add('shake');
   liElement.classList.add('strike');
 
   // Remove shake class after animation duration
   setTimeout(() => {
-    liElement.classList.remove('shake');
+    button.classList.remove('shake');
   }, 500);
 }
 

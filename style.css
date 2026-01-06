@@ -132,9 +132,11 @@ body {
 }
 
 .question-text {
-  font-size: 1.2rem;
+  font-size: 1.35rem;
   font-weight: 600;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
+  text-align: center;
+  line-height: 1.5;
 }
 
 /* Form controls */
@@ -307,7 +309,8 @@ button:disabled {
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 12px;
+  align-items: stretch;
 }
 
 .options-list li {
@@ -317,12 +320,13 @@ button:disabled {
 .option-button {
   width: 100%;
   text-align: left;
-  padding: 10px 12px;
+  padding: 12px 14px;
   border-radius: 12px;
   border: 1px solid var(--border-subtle);
   background: var(--bg-elevated-soft);
   color: var(--text);
-  font-size: 0.98rem;
+  font-size: 1.02rem;
+  line-height: 1.5;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -417,6 +421,10 @@ button:disabled {
 }
 
 /* Strikeout for eliminated options */
+.strike {
+  opacity: 0.7;
+}
+
 .strike .option-label {
   position: relative;
   color: var(--text-muted);
