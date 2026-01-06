@@ -338,11 +338,11 @@
  {
   "question": "få det hett om öronen",
   "incorrect": [
-   "bli stressad",
-   "bli pressad",
+   "känna sig pressad",
    "bli generad",
-   "bli arg",
-   "bli avslöjad"
+   "mötas av ilska",
+   "råka avslöjas",
+   "bli stressad"
   ],
   "hint": "Hetta nära öron: pressat läge",
   "answer": "hamna i trubbel"
@@ -350,8 +350,8 @@
  {
   "question": "få en släng av sleven",
   "incorrect": [
-   "få lite pengar",
-   "få komplimang",
+   "komma över lite pengar",
+   "ta emot en komplimang",
    "få skulden",
    "få smakprov",
    "få avdrag"
@@ -386,11 +386,11 @@
  {
   "question": "få luft under vingarna",
   "incorrect": [
-   "få kritik",
-   "få bakslag",
+   "möta kritik",
+   "råka ut för bakslag",
    "få mothugg",
    "få kalla fötter",
-   "få problem"
+   "stöta på problem"
   ],
   "hint": "Vingarna bär, något börjar lyfta",
   "answer": "ta fart"
@@ -422,10 +422,10 @@
  {
   "question": "få smaka sin egen medicin",
   "incorrect": [
-   "bli sjuk",
+   "drabbas av sjukdom",
    "bli botad",
-   "bli straffad",
-   "bli testad",
+   "straffas",
+   "testas",
    "bli ifrågasatt"
   ],
   "hint": "Egen medicin tillbaka",
@@ -1422,7 +1422,7 @@
    "försköna",
    "förstärka smaken",
    "komplicera",
-   "fördyra"
+   "förlänga"
   ],
   "hint": "Matbild: extra lök på redan dyr lax.",
   "answer": "förvärra"
@@ -2198,11 +2198,11 @@
  {
   "question": "sätta sprätt på",
   "incorrect": [
-   "sätta stopp för",
+   "stoppa",
    "sätta upp mål",
-   "sätta spår",
-   "sätta i system",
-   "sätta på hög"
+   "lämna spår",
+   "göra till rutin",
+   "lägga på hög"
   ],
   "hint": "Pengar sprätter iväg",
   "answer": "slösa"
