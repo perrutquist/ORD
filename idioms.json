@@ -626,11 +626,11 @@
  {
   "question": "gå på tomgång",
   "incorrect": [
-   "inte komma vidare",
-   "snurra runt",
-   "slösa tid",
-   "arbeta utan resultat",
-   "gå långsamt"
+   "stå still",
+   "gå långsamt",
+   "värma upp",
+   "vänta in",
+   "kylas ner"
   ],
   "hint": "Motor utan växel i",
   "answer": "vara ineffektiv"
