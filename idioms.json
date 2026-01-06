@@ -172,7 +172,7 @@
   "incorrect": [
    "förkorta",
    "förtydliga",
-   "förlåta",
+   "markera",
    "sammanfatta",
    "bokföra"
   ],
@@ -654,7 +654,7 @@
    "gå ljudlöst",
    "gå snett",
    "gå trögt",
-   "följa planen"
+   "gå spikrakt"
   ],
   "hint": "Tågräls: rak, stabil färd.",
   "answer": "fungera smidigt"
@@ -676,9 +676,9 @@
   "incorrect": [
    "gå fort",
    "gå punktligt",
-   "gå stabilt",
-   "gå enligt plan",
-   "gå utan hinder"
+   "gå spikrakt",
+   "gå regelbundet",
+   "gå i rätt riktning"
   ],
   "hint": "Tåg: snabbt och punktligt",
   "answer": "gå mycket bra"
@@ -758,7 +758,7 @@
  {
   "question": "gå över ån efter vatten",
   "incorrect": [
-   "ta en omväg",
+   "ta omstart",
    "följa genväg",
    "vara beslutsam",
    "skjuta upp",
@@ -977,8 +977,8 @@
    "planera väl",
    "jobba hårt",
    "förhandla skickligt",
-   "följa planen",
-   "ställa in siktet"
+   "ligga lågt",
+   "sätta upp mål"
   ],
   "hint": "Slumpens bananskal",
   "answer": "lyckas lätt"
@@ -2046,7 +2046,7 @@
    "be om hjälp",
    "vara blyg",
    "vara artig",
-   "vara respektfull"
+   "vara tystlåten"
   ],
   "hint": "Gammal sed: mössan i hand",
   "answer": "vara underdånig"
@@ -2150,11 +2150,11 @@
  {
   "question": "sätta krokben för",
   "incorrect": [
-   "hindra",
-   "försvåra",
-   "fälla",
-   "fördröja",
-   "vägleda"
+   "överraska",
+   "utmana",
+   "leda fel",
+   "rikta om",
+   "väcka oro"
   ],
   "hint": "Fälla någon med krokben",
   "answer": "sabotera"
