@@ -879,7 +879,7 @@
     "incorrect": [
       "grov",
       "orolig",
-      "osymmetrisk",
+      "melodisk",
       "skrovlig",
       "hård"
     ],
@@ -1193,7 +1193,7 @@
       "entydig",
       "rätlinjig",
       "banal",
-      "odifferentierad"
+      "kompakt"
     ],
     "question": "komplex",
     "hint": "Lat. complexus = sammanflätad.",
@@ -1299,7 +1299,7 @@
     "incorrect": [
       "likgiltig",
       "perifer",
-      "oväsentlig",
+      "skeptisk",
       "passiv",
       "försonlig"
     ],
@@ -1324,8 +1324,8 @@
       "godtycklig",
       "tvivelaktig",
       "falsk",
-      "oauktoriserad",
-      "obehörig"
+      "formell",
+      "auktoritativ"
     ],
     "question": "legitim",
     "hint": "Lat. legitimus = laglig.",
@@ -1453,9 +1453,9 @@
   },
   {
     "incorrect": [
-      "amoralsk",
-      "oetisk",
-      "oskrupulös",
+      "normativ",
+      "didaktisk",
+      "ortodox",
       "nihilistisk",
       "laglös"
     ],
@@ -1813,10 +1813,10 @@
   },
   {
     "incorrect": [
-      "ofarlig",
+      "svår",
       "trygg",
       "säker",
-      "oförarglig",
+      "besvärlig",
       "harmlös"
     ],
     "question": "riskabel",
@@ -1900,7 +1900,7 @@
       "primitiv",
       "enkel",
       "rå",
-      "oförädlad",
+      "teoretisk",
       "okomplicerad"
     ],
     "question": "sofistikerad",
@@ -1913,7 +1913,7 @@
       "egennyttig",
       "likgiltig",
       "kall",
-      "osolidarisk"
+      "kollektiv"
     ],
     "question": "solidarisk",
     "hint": "Lat. solidum = förbundna skyldigheter.",
@@ -1933,7 +1933,7 @@
   },
   {
     "incorrect": [
-      "instabil",
+      "statisk",
       "vinglig",
       "skakig",
       "labil",
@@ -2045,7 +2045,7 @@
       "spretig",
       "godtycklig",
       "hastig",
-      "osystematisk"
+      "mekanisk"
     ],
     "question": "systematisk",
     "hint": "Grek. systema = ordnat helt.",
@@ -2077,11 +2077,11 @@
   },
   {
     "incorrect": [
-      "opålitlig",
+      "plausibel",
       "svajig",
       "tveksam",
       "lösaktig",
-      "osäker"
+      "konsekvent"
     ],
     "question": "tillförlitlig",
     "hint": "Svensk: går att lita på.",
@@ -2269,10 +2269,10 @@
   },
   {
     "incorrect": [
-      "oviktig",
+      "materiell",
       "marginell",
       "bisak",
-      "obetydlig",
+      "ordinär",
       "sidoordnad"
     ],
     "question": "väsentlig",
@@ -2392,7 +2392,7 @@
       "svajig",
       "tveksam",
       "vag",
-      "osannolik",
+      "logisk",
       "inkonsekvent"
     ],
     "question": "övertygande",
