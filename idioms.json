@@ -147,10 +147,10 @@
   "question": "dra en nitlott",
   " incorrect": [
    "ha tur",
-   "ha oflyt",
-   "ha chans",
-   "ha läge",
-   "ha marginal"
+   "få vinst",
+   "bli utvald",
+   "ha medvind",
+   "träffa rätt"
   ],
   "hint": "Lotteri: nitlott ger ingenting",
   "answer": "ha otur"
@@ -246,7 +246,7 @@
    "ge igen",
    "dra ut på tiden",
    "dra slutsats",
-   "dra vidare"
+   "stanna kvar"
   ],
   "hint": "Kosa: hemväg, dra iväg",
   "answer": "ge sig av"
@@ -290,11 +290,11 @@
  {
   "question": "falla i god jord",
   " incorrect": [
-   "bli förstått",
-   "bli accepterat",
-   "bli populärt",
-   "bli hyllat",
-   "bli effektivt"
+   "möta motstånd",
+   "väcka irritation",
+   "bli kritiserat",
+   "missförstås",
+   "förkastas"
   ],
   "hint": "Som frö i god jord",
   "answer": "bli uppskattat"
@@ -302,11 +302,11 @@
  {
   "question": "falla någon på läppen",
   " incorrect": [
-   "smaka bra",
-   "tilltala",
-   "glädja",
-   "passa",
-   "tillfredsställa"
+   "smaka illa",
+   "gå emot",
+   "väcka anstöt",
+   "bekymra",
+   "lämna likgiltig"
   ],
   "hint": "Smak: läppars gillande",
   "answer": "behaga"
@@ -518,11 +518,11 @@
  {
   "question": "gå i bräschen",
   " incorrect": [
-   "protestera",
-   "leda anfall",
+   "tveka",
+   "hålla igen",
    "stå tillbaka",
-   "assistera",
-   "representera"
+   "vänta ut",
+   "följa efter"
   ],
   "hint": "Bräsch: öppning i mur",
   "answer": "föregå"
@@ -674,11 +674,11 @@
  {
   "question": "gå som tåget",
   " incorrect": [
-   "gå fort",
    "gå långsamt",
    "gå trögt",
-   "gå stabilt",
-   "gå sällan"
+   "gå sällan",
+   "gå snett",
+   "gå bakåt"
   ],
   "hint": "Tåg: snabbt och punktligt",
   "answer": "gå mycket bra"
@@ -687,7 +687,7 @@
   "question": "gå under jorden",
   " incorrect": [
    "resa bort",
-   "försvinna",
+   "byta identitet",
    "pausa",
    "sluta",
    "flytta"
@@ -928,7 +928,7 @@
   " incorrect": [
    "ha tur",
    "ha bråttom",
-   "ha rätt",
+   "ha inflytande",
    "ha försprång",
    "ha is i magen"
   ],
@@ -974,11 +974,11 @@
  {
   "question": "halka in på ett bananskal",
   " incorrect": [
-   "ha tur",
-   "komma billigt undan",
-   "komma lätt in",
-   "glida rätt",
-   "slippa svårigheter"
+   "planera väl",
+   "jobba hårt",
+   "förhandla skickligt",
+   "följa planen",
+   "ställa in siktet"
   ],
   "hint": "Slumpens bananskal",
   "answer": "lyckas lätt"
@@ -1024,7 +1024,7 @@
   " incorrect": [
    "visa glädje",
    "vara likgiltig",
-   "bevara lugnet",
+   "tänka positivt",
    "låtsas lyssna",
    "försöka skratta"
   ],
@@ -1253,8 +1253,8 @@
    "sätta igång",
    "vakna",
    "resa sig fysiskt",
-   "bli frisk",
-   "samla kraft"
+   "få applåder",
+   "byta jobb"
   ],
   "hint": "Stå upp igen efter fall",
   "answer": "återhämta sig"
@@ -1263,10 +1263,10 @@
   "question": "komma på grön kvist",
   " incorrect": [
    "bli frisk",
-   "bli rik",
    "bli nöjd",
    "bli lugn",
-   "bli stark"
+   "bli stark",
+   "bli omskriven"
   ],
   "hint": "Grön kvist: välstånd och tillväxt",
   "answer": "bli välmående"
@@ -1587,10 +1587,10 @@
   "question": "rinna ut i sanden",
   " incorrect": [
    "accelerera",
-   "försvinna",
-   "fördröjas",
-   "omdirigeras",
-   "missförstås"
+   "spåra ur",
+   "eskalera",
+   "nå målet",
+   "slå igenom"
   ],
   "hint": "Vatten försvinner i sand",
   "answer": "avstanna"
@@ -1598,11 +1598,11 @@
  {
   "question": "ro i land",
   " incorrect": [
-   "genomföra",
-   "avsluta",
-   "fixa",
-   "landa projekt",
-   "göra klart"
+   "påbörja",
+   "kasta loss",
+   "agera impulsivt",
+   "skjuta upp",
+   "förhala"
   ],
   "hint": "Rodda båten i land",
   "answer": "lyckas"
@@ -1670,13 +1670,13 @@
  {
   "question": "sitta inne med",
   " incorrect": [
-   "inneha",
-   "hålla tyst om",
-   "veta",
-   "dölja",
-   "bevara"
+   "vara frihetsberövad",
+   "vara passiv",
+   "vara upptagen",
+   "vara bekväm",
+   "vara på kontoret"
   ],
-  "hint": "Sitta inne med kunskap",
+  "hint": "Att ha något som andra vill åt",
   "answer": "besitta"
  },
  {
@@ -1874,8 +1874,8 @@
  {
   "question": "smörja kråset",
   " incorrect": [
-   "äta gott",
-   "göra sig till",
+   "spara pengar",
+   "motionera",
    "smickra",
    "muta",
    "bjuda"
@@ -1960,9 +1960,9 @@
   " incorrect": [
    "springa långt",
    "fly",
-   "förnedras",
-   "pressas",
-   "grillas av media"
+   "träna intervaller",
+   "ta en omväg",
+   "byta riktning"
   ],
   "hint": "Historiskt straff: löpa mellan slag",
   "answer": "utsättas för kritik"
@@ -2055,7 +2055,7 @@
   "question": "stå med skägget i brevlådan",
   " incorrect": [
    "bli utskälld",
-   "bli lurad",
+   "bli bortvald",
    "bli förbisedd",
    "bli förlåten",
    "bli klandrad"
@@ -2234,11 +2234,11 @@
  {
   "question": "ta fasta på",
   " incorrect": [
-   "beakta",
-   "fokusera på",
-   "bygga vidare på",
-   "gripa tag i",
-   "använda"
+   "ignorera",
+   "avfärda",
+   "förkasta",
+   "missförstå",
+   "överse med"
   ],
   "hint": "Fatta tag i något",
   "answer": "utnyttja"
@@ -2366,11 +2366,11 @@
  {
   "question": "ta vid",
   " incorrect": [
-   "ta över",
-   "börja",
-   "påbörja",
-   "övertaga",
-   "följas åt"
+   "avvakta",
+   "avsluta",
+   "starta om",
+   "ta paus",
+   "gå i mål"
   ],
   "hint": "Ta vid där andra slutat",
   "answer": "fortsätta"
