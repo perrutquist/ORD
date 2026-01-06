@@ -1677,7 +1677,7 @@
    "vara på kontoret"
   ],
   "hint": "Att ha något som andra vill åt",
-  "answer": "besitta"
+  "answer": "ha information"
  },
  {
   "question": "sitta på pottkanten",
@@ -2343,13 +2343,13 @@
   "question": "ta ton",
   "incorrect": [
    "höja rösten",
-   "ta ordet",
+   "börja sjunga",
    "ställa in sig",
    "svara i telefon",
    "ställa in volymen"
   ],
   "hint": "Musikstart: första tonen tas",
-  "answer": "börja sjunga"
+  "answer": "börja tala"
  },
  {
   "question": "ta udden av",
