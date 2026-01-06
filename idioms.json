@@ -1,7 +1,7 @@
 [
  {
   "question": "ana ugglor i mossen",
-  "alternatives": [
+  " incorrect": [
    "bli rädd",
    "vara vidskeplig",
    "överdriva risker",
@@ -13,7 +13,7 @@
  },
  {
   "question": "barka åt skogen",
-  "alternatives": [
+  " incorrect": [
    "gå fort",
    "gå bakåt",
    "gå runt",
@@ -25,7 +25,7 @@
  },
  {
   "question": "bita i det sura äpplet",
-  "alternatives": [
+  " incorrect": [
    "vägra",
    "vänta ut",
    "välja bort",
@@ -37,7 +37,7 @@
  },
  {
   "question": "bränna sina broar",
-  "alternatives": [
+  " incorrect": [
    "avsluta snyggt",
    "göra upp eld",
    "ta ett avgörande steg",
@@ -49,7 +49,7 @@
  },
  {
   "question": "bära frukt",
-  "alternatives": [
+  " incorrect": [
    "misslyckas",
    "dröja",
    "mogna",
@@ -61,7 +61,7 @@
  },
  {
   "question": "bära hundhuvudet",
-  "alternatives": [
+  " incorrect": [
    "dela ansvaret",
    "stå som vinnare",
    "ta kommandot",
@@ -73,7 +73,7 @@
  },
  {
   "question": "börja om på ny kula",
-  "alternatives": [
+  " incorrect": [
    "börja sent",
    "börja hårt",
    "avsluta",
@@ -85,7 +85,7 @@
  },
  {
   "question": "dansa efter någons pipa",
-  "alternatives": [
+  " incorrect": [
    "följa",
    "härma",
    "uppvakta",
@@ -97,7 +97,7 @@
  },
  {
   "question": "dra alla över en kam",
-  "alternatives": [
+  " incorrect": [
    "behandla rättvist",
    "diskriminera",
    "försvara",
@@ -109,7 +109,7 @@
  },
  {
   "question": "dra bort ridån",
-  "alternatives": [
+  " incorrect": [
    "introducera",
    "försköna",
    "förklara",
@@ -121,7 +121,7 @@
  },
  {
   "question": "dra det kortaste strået",
-  "alternatives": [
+  " incorrect": [
    "vinna",
    "dela lika",
    "avstå",
@@ -133,7 +133,7 @@
  },
  {
   "question": "dra en lans för",
-  "alternatives": [
+  " incorrect": [
    "föreslå",
    "berömma",
    "förklara",
@@ -145,7 +145,7 @@
  },
  {
   "question": "dra en nitlott",
-  "alternatives": [
+  " incorrect": [
    "ha tur",
    "ha oflyt",
    "ha chans",
@@ -157,7 +157,7 @@
  },
  {
   "question": "dra en vals",
-  "alternatives": [
+  " incorrect": [
    "improvisera",
    "berätta sanning",
    "växla ämne",
@@ -169,7 +169,7 @@
  },
  {
   "question": "dra ett streck över",
-  "alternatives": [
+  " incorrect": [
    "förkorta",
    "avsluta",
    "förneka",
@@ -181,7 +181,7 @@
  },
  {
   "question": "dra i trådarna",
-  "alternatives": [
+  " incorrect": [
    "inspirera",
    "tilldela",
    "initiera",
@@ -193,7 +193,7 @@
  },
  {
   "question": "dra jämnt",
-  "alternatives": [
+  " incorrect": [
    "dela lika",
    "skiljas åt",
    "vara sist",
@@ -205,7 +205,7 @@
  },
  {
   "question": "dra på smilbanden",
-  "alternatives": [
+  " incorrect": [
    "skratta",
    "håna",
    "sucka",
@@ -217,7 +217,7 @@
  },
  {
   "question": "dra sig till minnes",
-  "alternatives": [
+  " incorrect": [
    "föreställa sig",
    "tänka ut",
    "gissa",
@@ -229,7 +229,7 @@
  },
  {
   "question": "dra sig ur leken",
-  "alternatives": [
+  " incorrect": [
    "förlora",
    "vinna",
    "fuska",
@@ -241,7 +241,7 @@
  },
  {
   "question": "dra sin kos",
-  "alternatives": [
+  " incorrect": [
    "ge upp",
    "ge igen",
    "dra ut på tiden",
@@ -253,7 +253,7 @@
  },
  {
   "question": "dra sitt strå till stacken",
-  "alternatives": [
+  " incorrect": [
    "leda",
    "ta åt sig äran",
    "sätta sig på tvären",
@@ -265,7 +265,7 @@
  },
  {
   "question": "dra åt svångremmen",
-  "alternatives": [
+  " incorrect": [
    "öka takten",
    "skärpa tonen",
    "öppna plånboken",
@@ -277,7 +277,7 @@
  },
  {
   "question": "dra öronen åt sig",
-  "alternatives": [
+  " incorrect": [
    "glömma bort",
    "bli rädd",
    "bli arg",
@@ -289,7 +289,7 @@
  },
  {
   "question": "falla i god jord",
-  "alternatives": [
+  " incorrect": [
    "bli förstått",
    "bli accepterat",
    "bli populärt",
@@ -301,7 +301,7 @@
  },
  {
   "question": "falla någon på läppen",
-  "alternatives": [
+  " incorrect": [
    "smaka bra",
    "tilltala",
    "glädja",
@@ -313,7 +313,7 @@
  },
  {
   "question": "falla på eget grepp",
-  "alternatives": [
+  " incorrect": [
    "bli överlistad",
    "vinna",
    "göra självmål",
@@ -325,7 +325,7 @@
  },
  {
   "question": "få blodad tand",
-  "alternatives": [
+  " incorrect": [
    "tappa sugen",
    "bli mätt",
    "bli äcklad",
@@ -337,7 +337,7 @@
  },
  {
   "question": "få det hett om öronen",
-  "alternatives": [
+  " incorrect": [
    "bli stressad",
    "bli pressad",
    "bli generad",
@@ -349,7 +349,7 @@
  },
  {
   "question": "få en släng av sleven",
-  "alternatives": [
+  " incorrect": [
    "få lite pengar",
    "få komplimang",
    "få skulden",
@@ -361,7 +361,7 @@
  },
  {
   "question": "få fotfäste",
-  "alternatives": [
+  " incorrect": [
    "hitta jobb",
    "få vänner",
    "bli accepterad",
@@ -373,7 +373,7 @@
  },
  {
   "question": "få kalla handen",
-  "alternatives": [
+  " incorrect": [
    "bli ignorerad",
    "få kritik",
    "få vänta",
@@ -385,7 +385,7 @@
  },
  {
   "question": "få luft under vingarna",
-  "alternatives": [
+  " incorrect": [
    "få framgång",
    "få hjälp",
    "få idéer",
@@ -397,7 +397,7 @@
  },
  {
   "question": "få napp",
-  "alternatives": [
+  " incorrect": [
    "få svar",
    "få erbjudande",
    "få kritik",
@@ -409,7 +409,7 @@
  },
  {
   "question": "få på tafsen",
-  "alternatives": [
+  " incorrect": [
    "bli belönad",
    "bli ignorerad",
    "bli förstådd",
@@ -421,7 +421,7 @@
  },
  {
   "question": "få smaka sin egen medicin",
-  "alternatives": [
+  " incorrect": [
    "bli sjuk",
    "bli botad",
    "bli straffad",
@@ -433,7 +433,7 @@
  },
  {
   "question": "få tummen ur",
-  "alternatives": [
+  " incorrect": [
    "avsluta",
    "besluta",
    "slappna av",
@@ -445,7 +445,7 @@
  },
  {
   "question": "få vatten på sin kvarn",
-  "alternatives": [
+  " incorrect": [
    "få kritik",
    "få motstånd",
    "få betalt",
@@ -457,7 +457,7 @@
  },
  {
   "question": "föra någon bakom ljuset",
-  "alternatives": [
+  " incorrect": [
    "upplysa",
    "leda rätt",
    "missta sig",
@@ -469,7 +469,7 @@
  },
  {
   "question": "gjuta olja på vågorna",
-  "alternatives": [
+  " incorrect": [
    "smörja",
    "försköna",
    "försena",
@@ -481,7 +481,7 @@
  },
  {
   "question": "gräva ner stridsyxan",
-  "alternatives": [
+  " incorrect": [
    "förbereda krig",
    "eskalera",
    "ladda om",
@@ -493,7 +493,7 @@
  },
  {
   "question": "gå av stapeln",
-  "alternatives": [
+  " incorrect": [
    "starta sent",
    "ställas in",
    "flyttas",
@@ -505,7 +505,7 @@
  },
  {
   "question": "gå bet",
-  "alternatives": [
+  " incorrect": [
    "få betalt",
    "bli biten",
    "bli godkänd",
@@ -517,7 +517,7 @@
  },
  {
   "question": "gå i bräschen",
-  "alternatives": [
+  " incorrect": [
    "protestera",
    "leda anfall",
    "stå tillbaka",
@@ -529,7 +529,7 @@
  },
  {
   "question": "gå i god för",
-  "alternatives": [
+  " incorrect": [
    "klaga på",
    "ta avstånd från",
    "försäkra sig om",
@@ -541,7 +541,7 @@
  },
  {
   "question": "gå i land med",
-  "alternatives": [
+  " incorrect": [
    "påbörja",
    "fördröja",
    "avråda",
@@ -553,7 +553,7 @@
  },
  {
   "question": "gå i lås",
-  "alternatives": [
+  " incorrect": [
    "låsa sig",
    "köras fast",
    "börja om",
@@ -565,7 +565,7 @@
  },
  {
   "question": "gå i stöpet",
-  "alternatives": [
+  " incorrect": [
    "lyckas",
    "bli försenat",
    "förbättras",
@@ -577,7 +577,7 @@
  },
  {
   "question": "gå i taket",
-  "alternatives": [
+  " incorrect": [
    "bli överlycklig",
    "ge upp",
    "sätta fart",
@@ -589,7 +589,7 @@
  },
  {
   "question": "gå ner för räkning",
-  "alternatives": [
+  " incorrect": [
    "förlora",
    "ge upp",
    "räknas ut",
@@ -601,7 +601,7 @@
  },
  {
   "question": "gå på knäna",
-  "alternatives": [
+  " incorrect": [
    "be om hjälp",
    "vara underlägsen",
    "vara sjuk",
@@ -613,7 +613,7 @@
  },
  {
   "question": "gå på pumpen",
-  "alternatives": [
+  " incorrect": [
    "bli lurad",
    "bli trött",
    "tappa modet",
@@ -625,7 +625,7 @@
  },
  {
   "question": "gå på tomgång",
-  "alternatives": [
+  " incorrect": [
    "inte komma vidare",
    "snurra runt",
    "slösa tid",
@@ -637,7 +637,7 @@
  },
  {
   "question": "gå som katten kring het gröt",
-  "alternatives": [
+  " incorrect": [
    "smyga",
    "välja omväg",
    "snoka",
@@ -649,7 +649,7 @@
  },
  {
   "question": "gå som på räls",
-  "alternatives": [
+  " incorrect": [
    "gå av sig själv",
    "gå långsamt",
    "gå snett",
@@ -661,7 +661,7 @@
  },
  {
   "question": "gå som smort",
-  "alternatives": [
+  " incorrect": [
    "gå fort",
    "gå runt",
    "gå trögt",
@@ -673,7 +673,7 @@
  },
  {
   "question": "gå som tåget",
-  "alternatives": [
+  " incorrect": [
    "gå fort",
    "gå långsamt",
    "gå trögt",
@@ -685,7 +685,7 @@
  },
  {
   "question": "gå under jorden",
-  "alternatives": [
+  " incorrect": [
    "resa bort",
    "försvinna",
    "pausa",
@@ -697,7 +697,7 @@
  },
  {
   "question": "gå upp i limningen",
-  "alternatives": [
+  " incorrect": [
    "ge upp",
    "oroa sig",
    "tappa tråden",
@@ -709,7 +709,7 @@
  },
  {
   "question": "gå upp i rök",
-  "alternatives": [
+  " incorrect": [
    "lyckas",
    "misslyckas",
    "förflyttas",
@@ -721,7 +721,7 @@
  },
  {
   "question": "gå åt skogen",
-  "alternatives": [
+  " incorrect": [
    "lyckas",
    "gå vilse",
    "fira",
@@ -733,7 +733,7 @@
  },
  {
   "question": "gå över lik",
-  "alternatives": [
+  " incorrect": [
    "vara målmedveten",
    "visa empati",
    "bry sig om",
@@ -745,7 +745,7 @@
  },
  {
   "question": "gå över styr",
-  "alternatives": [
+  " incorrect": [
    "gå över gränsen",
    "ta över",
    "gå över tiden",
@@ -757,7 +757,7 @@
  },
  {
   "question": "gå över ån efter vatten",
-  "alternatives": [
+  " incorrect": [
    "spara kraft",
    "följa genväg",
    "vara beslutsam",
@@ -769,7 +769,7 @@
  },
  {
   "question": "göra en höna av en fjäder",
-  "alternatives": [
+  " incorrect": [
    "förminska",
    "skämta",
    "missförstå",
@@ -781,7 +781,7 @@
  },
  {
   "question": "göra slag i saken",
-  "alternatives": [
+  " incorrect": [
    "planera",
    "överväga",
    "skjuta upp",
@@ -793,7 +793,7 @@
  },
  {
   "question": "ha en fot inne",
-  "alternatives": [
+  " incorrect": [
    "ha försprång",
    "ha hjälp",
    "ha tur",
@@ -805,7 +805,7 @@
  },
  {
   "question": "ha en hållhake på",
-  "alternatives": [
+  " incorrect": [
    "känna till",
    "lita på",
    "stötta",
@@ -817,7 +817,7 @@
  },
  {
   "question": "ha en räv bakom örat",
-  "alternatives": [
+  " incorrect": [
    "vara feg",
    "vara ärlig",
    "vara glömsk",
@@ -829,7 +829,7 @@
  },
  {
   "question": "ha ett horn i sidan till",
-  "alternatives": [
+  " incorrect": [
    "vara förälskad i",
    "vara avundsjuk på",
    "respektera",
@@ -841,7 +841,7 @@
  },
  {
   "question": "ha fingrarna i syltburken",
-  "alternatives": [
+  " incorrect": [
    "vara sugen",
    "vara girig",
    "vara slarvig",
@@ -853,7 +853,7 @@
  },
  {
   "question": "ha fria tyglar",
-  "alternatives": [
+  " incorrect": [
    "vara fri",
    "vara självständig",
    "vara ohämmad",
@@ -865,7 +865,7 @@
  },
  {
   "question": "ha gröna fingrar",
-  "alternatives": [
+  " incorrect": [
    "vara snål",
    "vara avundsjuk",
    "vara oerfaren",
@@ -877,7 +877,7 @@
  },
  {
   "question": "ha huvudet på skaft",
-  "alternatives": [
+  " incorrect": [
    "vara envis",
    "vara listig",
    "vara realist",
@@ -889,7 +889,7 @@
  },
  {
   "question": "ha is i magen",
-  "alternatives": [
+  " incorrect": [
    "vara kallhjärtad",
    "vara likgiltig",
    "vara modig",
@@ -901,7 +901,7 @@
  },
  {
   "question": "ha långa fingrar",
-  "alternatives": [
+  " incorrect": [
    "ta för sig",
    "låna",
    "be om",
@@ -913,7 +913,7 @@
  },
  {
   "question": "ha många järn i elden",
-  "alternatives": [
+  " incorrect": [
    "vara splittrad",
    "vara effektiv",
    "vara lat",
@@ -925,7 +925,7 @@
  },
  {
   "question": "ha på fötter",
-  "alternatives": [
+  " incorrect": [
    "ha tur",
    "ha bråttom",
    "ha rätt",
@@ -937,7 +937,7 @@
  },
  {
   "question": "ha rent mjöl i påsen",
-  "alternatives": [
+  " incorrect": [
    "vara naiv",
    "vara snål",
    "vara korrekt",
@@ -949,7 +949,7 @@
  },
  {
   "question": "ha skinn på näsan",
-  "alternatives": [
+  " incorrect": [
    "vara hänsynslös",
    "vara modig",
    "vara hård",
@@ -961,7 +961,7 @@
  },
  {
   "question": "ha tomtar på loftet",
-  "alternatives": [
+  " incorrect": [
    "vara kreativ",
    "vara disträ",
    "vara snurrig",
@@ -973,7 +973,7 @@
  },
  {
   "question": "halka in på ett bananskal",
-  "alternatives": [
+  " incorrect": [
    "ha tur",
    "komma billigt undan",
    "komma lätt in",
@@ -985,7 +985,7 @@
  },
  {
   "question": "hamna i klistret",
-  "alternatives": [
+  " incorrect": [
    "bli rik",
    "bli populär",
    "fastna",
@@ -997,7 +997,7 @@
  },
  {
   "question": "hitta nålen i höstacken",
-  "alternatives": [
+  " incorrect": [
    "mycket svårt",
    "osannolikt",
    "knappt görbart",
@@ -1009,7 +1009,7 @@
  },
  {
   "question": "hålla fanan högt",
-  "alternatives": [
+  " incorrect": [
    "ödmjuka sig",
    "dölja sig",
    "stå tillbaka",
@@ -1021,7 +1021,7 @@
  },
  {
   "question": "hålla god min",
-  "alternatives": [
+  " incorrect": [
    "visa glädje",
    "vara likgiltig",
    "bevara lugnet",
@@ -1033,7 +1033,7 @@
  },
  {
   "question": "hålla huvudet kallt",
-  "alternatives": [
+  " incorrect": [
    "vara kall",
    "vara rationell",
    "vara tyst",
@@ -1045,7 +1045,7 @@
  },
  {
   "question": "hålla i tyglarna",
-  "alternatives": [
+  " incorrect": [
    "inspirera",
    "motivera",
    "försvara",
@@ -1057,7 +1057,7 @@
  },
  {
   "question": "hålla låda",
-  "alternatives": [
+  " incorrect": [
    "tiga",
    "hålla tal",
    "leda möte",
@@ -1069,7 +1069,7 @@
  },
  {
   "question": "hålla låg profil",
-  "alternatives": [
+  " incorrect": [
    "vara hemlig",
    "vara tyst",
    "vara feg",
@@ -1081,7 +1081,7 @@
  },
  {
   "question": "hålla masken",
-  "alternatives": [
+  " incorrect": [
    "klä ut sig",
    "se glad ut",
    "undvika folk",
@@ -1093,7 +1093,7 @@
  },
  {
   "question": "hålla någon kort",
-  "alternatives": [
+  " incorrect": [
    "stötta",
    "uppmuntra",
    "försumma",
@@ -1105,7 +1105,7 @@
  },
  {
   "question": "hålla någon om ryggen",
-  "alternatives": [
+  " incorrect": [
    "stödja",
    "ursäkta",
    "frikänna",
@@ -1117,7 +1117,7 @@
  },
  {
   "question": "hålla någon på halster",
-  "alternatives": [
+  " incorrect": [
    "lura",
    "förvåna",
    "uppmuntra",
@@ -1129,7 +1129,7 @@
  },
  {
   "question": "hålla rent hus",
-  "alternatives": [
+  " incorrect": [
    "städa fint",
    "hålla sig undan",
    "göra det minsta",
@@ -1141,7 +1141,7 @@
  },
  {
   "question": "hålla skenet uppe",
-  "alternatives": [
+  " incorrect": [
    "avslöja",
    "förklara",
    "skryta",
@@ -1153,7 +1153,7 @@
  },
  {
   "question": "hålla stånd",
-  "alternatives": [
+  " incorrect": [
    "stå still",
    "stå ut",
    "stå vakt",
@@ -1165,7 +1165,7 @@
  },
  {
   "question": "hålla tungan rätt i mun",
-  "alternatives": [
+  " incorrect": [
    "vara tystlåten",
    "vara artig",
    "vara försiktig",
@@ -1177,7 +1177,7 @@
  },
  {
   "question": "i elfte timmen",
-  "alternatives": [
+  " incorrect": [
    "i sista hand",
    "i nödfall",
    "i sista led",
@@ -1189,7 +1189,7 @@
  },
  {
   "question": "i sin linda",
-  "alternatives": [
+  " incorrect": [
    "i slutet",
    "i ro",
    "i smyg",
@@ -1201,7 +1201,7 @@
  },
  {
   "question": "kasta in en brandfackla",
-  "alternatives": [
+  " incorrect": [
    "lugna",
    "förtydliga",
    "övertala",
@@ -1213,7 +1213,7 @@
  },
  {
   "question": "kasta in handduken",
-  "alternatives": [
+  " incorrect": [
    "byta spår",
    "ta en paus",
    "se över planen",
@@ -1225,7 +1225,7 @@
  },
  {
   "question": "kasta pärlor för svin",
-  "alternatives": [
+  " incorrect": [
    "dela rättvist",
    "spara till bättre",
    "ge bort dyrt",
@@ -1237,7 +1237,7 @@
  },
  {
   "question": "kasta yxan i sjön",
-  "alternatives": [
+  " incorrect": [
    "pausa",
    "byta spår",
    "försöka igen",
@@ -1249,7 +1249,7 @@
  },
  {
   "question": "komma på fötter",
-  "alternatives": [
+  " incorrect": [
    "sätta igång",
    "vakna",
    "resa sig fysiskt",
@@ -1261,7 +1261,7 @@
  },
  {
   "question": "komma på grön kvist",
-  "alternatives": [
+  " incorrect": [
    "bli frisk",
    "bli rik",
    "bli nöjd",
@@ -1273,7 +1273,7 @@
  },
  {
   "question": "komma på skam",
-  "alternatives": [
+  " incorrect": [
    "bestridas",
    "underminera",
    "bevisas",
@@ -1285,7 +1285,7 @@
  },
  {
   "question": "komma till korta",
-  "alternatives": [
+  " incorrect": [
    "ge upp",
    "lyckas halvt",
    "tappa bort sig",
@@ -1297,7 +1297,7 @@
  },
  {
   "question": "komma till skott",
-  "alternatives": [
+  " incorrect": [
    "sluta",
    "besluta",
    "skjuta upp",
@@ -1309,7 +1309,7 @@
  },
  {
   "question": "köpa grisen i säcken",
-  "alternatives": [
+  " incorrect": [
    "köpa dyrt",
    "köpa billigt",
    "köpa impulsivt",
@@ -1321,7 +1321,7 @@
  },
  {
   "question": "leva rövare",
-  "alternatives": [
+  " incorrect": [
    "festa",
    "skämta",
    "ståka",
@@ -1333,7 +1333,7 @@
  },
  {
   "question": "ligga i luften",
-  "alternatives": [
+  " incorrect": [
    "undviks",
    "förbises",
    "försenas",
@@ -1345,7 +1345,7 @@
  },
  {
   "question": "ligga i lä",
-  "alternatives": [
+  " incorrect": [
    "vara skyddad",
    "ligga lågt",
    "ha medvind",
@@ -1357,7 +1357,7 @@
  },
  {
   "question": "ligga i startgroparna",
-  "alternatives": [
+  " incorrect": [
    "vara tveksam",
    "vara sen",
    "vara upptagen",
@@ -1369,7 +1369,7 @@
  },
  {
   "question": "ligga lågt",
-  "alternatives": [
+  " incorrect": [
    "hålla tyst",
    "gömma sig",
    "planera",
@@ -1381,7 +1381,7 @@
  },
  {
   "question": "lägga band på sig",
-  "alternatives": [
+  " incorrect": [
    "hålla tyst",
    "spara pengar",
    "vara rädd",
@@ -1393,7 +1393,7 @@
  },
  {
   "question": "lägga beslag på",
-  "alternatives": [
+  " incorrect": [
    "beslagta",
    "låna",
    "låsa in",
@@ -1405,7 +1405,7 @@
  },
  {
   "question": "lägga korten på bordet",
-  "alternatives": [
+  " incorrect": [
    "hålla masken",
    "hymla",
    "spela högt",
@@ -1417,7 +1417,7 @@
  },
  {
   "question": "lägga lök på laxen",
-  "alternatives": [
+  " incorrect": [
    "förbättra",
    "försköna",
    "förstärka smaken",
@@ -1429,7 +1429,7 @@
  },
  {
   "question": "lägga näsan i blöt",
-  "alternatives": [
+  " incorrect": [
    "vara nyfiken",
    "vara vaksam",
    "snoka",
@@ -1441,7 +1441,7 @@
  },
  {
   "question": "lägga pannan i djupa veck",
-  "alternatives": [
+  " incorrect": [
    "bekymra sig",
    "skämmas",
    "tänka",
@@ -1453,7 +1453,7 @@
  },
  {
   "question": "lägga rabarber på",
-  "alternatives": [
+  " incorrect": [
    "så frön",
    "förstöra",
    "skörda",
@@ -1465,7 +1465,7 @@
  },
  {
   "question": "lägga ribban högt",
-  "alternatives": [
+  " incorrect": [
    "öka tempot",
    "sänka kraven",
    "sätta mål",
@@ -1477,7 +1477,7 @@
  },
  {
   "question": "lägga sig i selen",
-  "alternatives": [
+  " incorrect": [
    "ta det lugnt",
    "sätta sig på tvären",
    "ge upp",
@@ -1489,7 +1489,7 @@
  },
  {
   "question": "lägga sig platt",
-  "alternatives": [
+  " incorrect": [
    "be om ursäkt",
    "ge upp",
    "anpassa sig",
@@ -1501,7 +1501,7 @@
  },
  {
   "question": "lägga sig vinn om",
-  "alternatives": [
+  " incorrect": [
    "satsa",
    "planera",
    "prioritera",
@@ -1513,7 +1513,7 @@
  },
  {
   "question": "lägga sista handen vid",
-  "alternatives": [
+  " incorrect": [
    "påbörja",
    "avbryta",
    "förbättra",
@@ -1525,7 +1525,7 @@
  },
  {
   "question": "lägga sten på börda",
-  "alternatives": [
+  " incorrect": [
    "förtydliga",
    "förstärka",
    "förbättra",
@@ -1537,7 +1537,7 @@
  },
  {
   "question": "lägga ut texten",
-  "alternatives": [
+  " incorrect": [
    "överdriva",
    "skriva långt",
    "skryta",
@@ -1549,7 +1549,7 @@
  },
  {
   "question": "lägga örat mot marken",
-  "alternatives": [
+  " incorrect": [
    "avlyssna",
    "spionera",
    "lyssna noga",
@@ -1561,7 +1561,7 @@
  },
  {
   "question": "lätta sitt hjärta",
-  "alternatives": [
+  " incorrect": [
    "landa",
    "lugna sig",
    "förlåta",
@@ -1573,7 +1573,7 @@
  },
  {
   "question": "putsa fjädrarna",
-  "alternatives": [
+  " incorrect": [
    "skryta",
    "förbereda flykt",
    "ta igen sig",
@@ -1585,7 +1585,7 @@
  },
  {
   "question": "rinna ut i sanden",
-  "alternatives": [
+  " incorrect": [
    "accelerera",
    "försvinna",
    "fördröjas",
@@ -1597,7 +1597,7 @@
  },
  {
   "question": "ro i land",
-  "alternatives": [
+  " incorrect": [
    "genomföra",
    "avsluta",
    "fixa",
@@ -1609,7 +1609,7 @@
  },
  {
   "question": "röra upp himmel och jord",
-  "alternatives": [
+  " incorrect": [
    "överdriva",
    "protestera",
    "vända på allt",
@@ -1621,7 +1621,7 @@
  },
  {
   "question": "segla i medvind",
-  "alternatives": [
+  " incorrect": [
    "ha tur",
    "ha medgång",
    "ha lätt",
@@ -1633,7 +1633,7 @@
  },
  {
   "question": "segla nära vinden",
-  "alternatives": [
+  " incorrect": [
    "riskera",
    "utmana gränser",
    "bryta lite",
@@ -1645,7 +1645,7 @@
  },
  {
   "question": "sitta i samma båt",
-  "alternatives": [
+  " incorrect": [
    "resa ihop",
    "samarbeta",
    "ha gemensam åsikt",
@@ -1657,7 +1657,7 @@
  },
  {
   "question": "sitta i sjön",
-  "alternatives": [
+  " incorrect": [
    "ha tur",
    "ha semester",
    "ha fullt upp",
@@ -1669,7 +1669,7 @@
  },
  {
   "question": "sitta inne med",
-  "alternatives": [
+  " incorrect": [
    "inneha",
    "hålla tyst om",
    "veta",
@@ -1681,7 +1681,7 @@
  },
  {
   "question": "sitta på pottkanten",
-  "alternatives": [
+  " incorrect": [
    "bli utskälld",
    "bli fast",
    "bli blyg",
@@ -1693,7 +1693,7 @@
  },
  {
   "question": "sitta still i båten",
-  "alternatives": [
+  " incorrect": [
    "hålla tyst",
    "vänta",
    "inte agera",
@@ -1705,7 +1705,7 @@
  },
  {
   "question": "skjuta från höften",
-  "alternatives": [
+  " incorrect": [
    "slarva",
    "överreagera",
    "agera snabbt",
@@ -1717,7 +1717,7 @@
  },
  {
   "question": "slå bakut",
-  "alternatives": [
+  " incorrect": [
    "ånga på",
    "ge upp",
    "tappa fokus",
@@ -1729,7 +1729,7 @@
  },
  {
   "question": "slå blå dunster",
-  "alternatives": [
+  " incorrect": [
    "försköna",
    "skämta",
    "överdriva",
@@ -1741,7 +1741,7 @@
  },
  {
   "question": "slå dank",
-  "alternatives": [
+  " incorrect": [
    "driva runt",
    "slösa tid",
    "vila",
@@ -1753,7 +1753,7 @@
  },
  {
   "question": "slå dövörat till",
-  "alternatives": [
+  " incorrect": [
    "lyssna noga",
    "tala högt",
    "bli döv",
@@ -1765,7 +1765,7 @@
  },
  {
   "question": "slå huvudet på spiken",
-  "alternatives": [
+  " incorrect": [
    "ta i för mycket",
    "snubbla på målsnöret",
    "överdriva",
@@ -1777,7 +1777,7 @@
  },
  {
   "question": "slå knut på sig själv",
-  "alternatives": [
+  " incorrect": [
    "ge upp",
    "förenkla",
    "förhala",
@@ -1789,7 +1789,7 @@
  },
  {
   "question": "slå på stora trumman",
-  "alternatives": [
+  " incorrect": [
    "skryta",
    "annonsera",
    "överdriva",
@@ -1801,7 +1801,7 @@
  },
  {
   "question": "slå på stort",
-  "alternatives": [
+  " incorrect": [
    "överdra",
    "kosta på sig",
    "skryta",
@@ -1813,7 +1813,7 @@
  },
  {
   "question": "slå sig för bröstet",
-  "alternatives": [
+  " incorrect": [
    "ångra sig",
    "bedja",
    "försvara sig",
@@ -1825,8 +1825,8 @@
  },
  {
   "question": "slå sig lös",
-  "alternatives": [
-   "festa",
+  " incorrect": [
+   "skada sig",
    "slappna av",
    "skärpa sig",
    "gå hem tidigt",
@@ -1837,7 +1837,7 @@
  },
  {
   "question": "slå två flugor i en smäll",
-  "alternatives": [
+  " incorrect": [
    "misslyckas dubbelt",
    "ta en genväg",
    "tura sig om",
@@ -1849,7 +1849,7 @@
  },
  {
   "question": "slå vakt om",
-  "alternatives": [
+  " incorrect": [
    "attackera",
    "beivra",
    "tävla om",
@@ -1861,7 +1861,7 @@
  },
  {
   "question": "smida medan järnet är varmt",
-  "alternatives": [
+  " incorrect": [
    "vänta in",
    "spara kraft",
    "sakta ner",
@@ -1873,7 +1873,7 @@
  },
  {
   "question": "smörja kråset",
-  "alternatives": [
+  " incorrect": [
    "äta gott",
    "göra sig till",
    "smickra",
@@ -1885,7 +1885,7 @@
  },
  {
   "question": "snubbla på målsnöret",
-  "alternatives": [
+  " incorrect": [
    "vinna knappt",
    "komma tvåa",
    "vara nära",
@@ -1897,7 +1897,7 @@
  },
  {
   "question": "sopa banan för",
-  "alternatives": [
+  " incorrect": [
    "hindra",
    "förhala",
    "försvåra",
@@ -1909,7 +1909,7 @@
  },
  {
   "question": "sopa under mattan",
-  "alternatives": [
+  " incorrect": [
    "städa ordentligt",
    "avslöja",
    "glömma",
@@ -1921,7 +1921,7 @@
  },
  {
   "question": "spara på krutet",
-  "alternatives": [
+  " incorrect": [
    "spara",
    "vakta resurser",
    "inte ta i",
@@ -1933,7 +1933,7 @@
  },
  {
   "question": "spela Allan",
-  "alternatives": [
+  " incorrect": [
    "spela teater",
    "spela dum",
    "spela överraskad",
@@ -1945,7 +1945,7 @@
  },
  {
   "question": "spela andrafiol",
-  "alternatives": [
+  " incorrect": [
    "spela sämre",
    "vara reserv",
    "vara sidofigur",
@@ -1957,7 +1957,7 @@
  },
  {
   "question": "springa gatlopp",
-  "alternatives": [
+  " incorrect": [
    "springa långt",
    "fly",
    "förnedras",
@@ -1969,7 +1969,7 @@
  },
  {
   "question": "sticka näsan i blöt",
-  "alternatives": [
+  " incorrect": [
    "vara nyfiken",
    "vara vaksam",
    "titta noga",
@@ -1981,7 +1981,7 @@
  },
  {
   "question": "sticka under stol med",
-  "alternatives": [
+  " incorrect": [
    "erkänna",
    "förminska",
    "överdriva",
@@ -1993,7 +1993,7 @@
  },
  {
   "question": "sticka ut hakan",
-  "alternatives": [
+  " incorrect": [
    "skryta",
    "vara modig",
    "protestera",
@@ -2005,7 +2005,7 @@
  },
  {
   "question": "stryka medhårs",
-  "alternatives": [
+  " incorrect": [
    "kritiserar",
    "ignorera",
    "avråda",
@@ -2017,7 +2017,7 @@
  },
  {
   "question": "strö salt i såren",
-  "alternatives": [
+  " incorrect": [
    "förbittra",
    "provocera",
    "påminna",
@@ -2029,7 +2029,7 @@
  },
  {
   "question": "stå för fiolerna",
-  "alternatives": [
+  " incorrect": [
    "planera",
    "styra",
    "spela förstafiol",
@@ -2041,7 +2041,7 @@
  },
  {
   "question": "stå med mössan i hand",
-  "alternatives": [
+  " incorrect": [
    "be om ursäkt",
    "be om hjälp",
    "vara blyg",
@@ -2053,7 +2053,7 @@
  },
  {
   "question": "stå med skägget i brevlådan",
-  "alternatives": [
+  " incorrect": [
    "bli utskälld",
    "bli lurad",
    "bli förbisedd",
@@ -2065,7 +2065,7 @@
  },
  {
   "question": "stå pall",
-  "alternatives": [
+  " incorrect": [
    "vägra",
    "ge upp",
    "tveka",
@@ -2077,7 +2077,7 @@
  },
  {
   "question": "stå sig slätt",
-  "alternatives": [
+  " incorrect": [
    "vara oklar",
    "vara passiv",
    "vara tveksam",
@@ -2089,7 +2089,7 @@
  },
  {
   "question": "stå vid sitt ord",
-  "alternatives": [
+  " incorrect": [
    "stå emot",
    "stå på sig",
    "stå över",
@@ -2101,7 +2101,7 @@
  },
  {
   "question": "svära sig fri",
-  "alternatives": [
+  " incorrect": [
    "erkänna",
    "förklara",
    "ursäkta sig",
@@ -2113,7 +2113,7 @@
  },
  {
   "question": "sätta färg på",
-  "alternatives": [
+  " incorrect": [
    "förtydliga",
    "måla om",
    "avdramatisera",
@@ -2125,7 +2125,7 @@
  },
  {
   "question": "sätta guldkant på",
-  "alternatives": [
+  " incorrect": [
    "förbättra",
    "förstärka",
    "försköna",
@@ -2137,7 +2137,7 @@
  },
  {
   "question": "sätta kniven på strupen",
-  "alternatives": [
+  " incorrect": [
    "hotar",
    "tvinga",
    "ställa krav",
@@ -2149,7 +2149,7 @@
  },
  {
   "question": "sätta krokben för",
-  "alternatives": [
+  " incorrect": [
    "hindra",
    "försvåra",
    "fälla",
@@ -2161,7 +2161,7 @@
  },
  {
   "question": "sätta käppar i hjulet",
-  "alternatives": [
+  " incorrect": [
    "underlätta",
    "uppmuntra",
    "förtydliga",
@@ -2173,7 +2173,7 @@
  },
  {
   "question": "sätta punkt",
-  "alternatives": [
+  " incorrect": [
    "börja om",
    "avvakta",
    "dra ut på",
@@ -2185,7 +2185,7 @@
  },
  {
   "question": "sätta sig på tvären",
-  "alternatives": [
+  " incorrect": [
    "samarbeta",
    "stödja",
    "tveka",
@@ -2197,7 +2197,7 @@
  },
  {
   "question": "sätta sprätt på",
-  "alternatives": [
+  " incorrect": [
    "sätta fart på",
    "sätta punkt för",
    "sätta stopp för",
@@ -2209,7 +2209,7 @@
  },
  {
   "question": "sätta tänderna i",
-  "alternatives": [
+  " incorrect": [
    "kritiserar",
    "avnjuta",
    "analysera",
@@ -2221,7 +2221,7 @@
  },
  {
   "question": "ta bladet från munnen",
-  "alternatives": [
+  " incorrect": [
    "skvallra",
    "viska",
    "tala i gåtor",
@@ -2233,7 +2233,7 @@
  },
  {
   "question": "ta fasta på",
-  "alternatives": [
+  " incorrect": [
    "beakta",
    "fokusera på",
    "bygga vidare på",
@@ -2245,7 +2245,7 @@
  },
  {
   "question": "ta i med hårdhandskarna",
-  "alternatives": [
+  " incorrect": [
    "agera strängt",
    "gå hårt fram",
    "vara bestämd",
@@ -2257,7 +2257,7 @@
  },
  {
   "question": "ta något med en nypa salt",
-  "alternatives": [
+  " incorrect": [
    "acceptera",
    "överdriva",
    "missförstå",
@@ -2269,7 +2269,7 @@
  },
  {
   "question": "ta sig vatten över huvudet",
-  "alternatives": [
+  " incorrect": [
    "ge upp",
    "tveka",
    "be om hjälp",
@@ -2281,7 +2281,7 @@
  },
  {
   "question": "ta sin Mats ur skolan",
-  "alternatives": [
+  " incorrect": [
    "återkalla",
    "ursäkta sig",
    "hoppa av",
@@ -2293,7 +2293,7 @@
  },
  {
   "question": "ta skeden i vacker hand",
-  "alternatives": [
+  " incorrect": [
    "ta initiativ",
    "sätta fart",
    "invända",
@@ -2305,7 +2305,7 @@
  },
  {
   "question": "ta till orda",
-  "alternatives": [
+  " incorrect": [
    "ta ordet",
    "avbryta",
    "svara",
@@ -2317,7 +2317,7 @@
  },
  {
   "question": "ta tillfället i akt",
-  "alternatives": [
+  " incorrect": [
    "agera nu",
    "ta chansen",
    "handla snabbt",
@@ -2329,7 +2329,7 @@
  },
  {
   "question": "ta tjuren vid hornen",
-  "alternatives": [
+  " incorrect": [
    "omväga",
    "tveka",
    "delegera",
@@ -2341,7 +2341,7 @@
  },
  {
   "question": "ta ton",
-  "alternatives": [
+  " incorrect": [
    "höja rösten",
    "ta ordet",
    "ställa in sig",
@@ -2353,7 +2353,7 @@
  },
  {
   "question": "ta udden av",
-  "alternatives": [
+  " incorrect": [
    "slipa av",
    "dämpa",
    "ta ner",
@@ -2365,7 +2365,7 @@
  },
  {
   "question": "ta vid",
-  "alternatives": [
+  " incorrect": [
    "ta över",
    "börja",
    "påbörja",
@@ -2377,7 +2377,7 @@
  },
  {
   "question": "tala för döva öron",
-  "alternatives": [
+  " incorrect": [
    "övertala",
    "tala högt",
    "tala tyst",
@@ -2389,7 +2389,7 @@
  },
  {
   "question": "tala i nattmössan",
-  "alternatives": [
+  " incorrect": [
    "tala i sömnen",
    "viska",
    "tala gammaldags",
@@ -2401,7 +2401,7 @@
  },
  {
   "question": "tala sig varm för",
-  "alternatives": [
+  " incorrect": [
    "övertala",
    "förklara",
    "försvara",
@@ -2413,7 +2413,7 @@
  },
  {
   "question": "tappa ansiktet",
-  "alternatives": [
+  " incorrect": [
    "bli generad",
    "bli arg",
    "bli lugn",
@@ -2425,7 +2425,7 @@
  },
  {
   "question": "tåla dagens ljus",
-  "alternatives": [
+  " incorrect": [
    "vara laglig",
    "vara rumsren",
    "vara godtagbar",
@@ -2437,7 +2437,7 @@
  },
  {
   "question": "vara i skottgluggen",
-  "alternatives": [
+  " incorrect": [
    "vara skyddad",
    "vara obemärkt",
    "vara förberedd",
@@ -2449,7 +2449,7 @@
  },
  {
   "question": "vara någon till lags",
-  "alternatives": [
+  " incorrect": [
    "tillfredsställa",
    "stödja",
    "hjälpa",
@@ -2461,7 +2461,7 @@
  },
  {
   "question": "vara på bettet",
-  "alternatives": [
+  " incorrect": [
    "vara nervös",
    "vara trött",
    "vara skeptisk",
@@ -2473,7 +2473,7 @@
  },
  {
   "question": "vara på fallrepet",
-  "alternatives": [
+  " incorrect": [
    "under omstrukturering",
    "på uppgång",
    "i balans",
@@ -2485,7 +2485,7 @@
  },
  {
   "question": "vara på tapeten",
-  "alternatives": [
+  " incorrect": [
    "vara omodern",
    "vara hemlig",
    "vara över",
@@ -2497,7 +2497,7 @@
  },
  {
   "question": "vara ur gängorna",
-  "alternatives": [
+  " incorrect": [
    "i balans",
    "i tid",
    "i ro",
@@ -2509,7 +2509,7 @@
  },
  {
   "question": "vara ute i ogjort väder",
-  "alternatives": [
+  " incorrect": [
    "för sent",
    "för ofta",
    "för öppet",
@@ -2521,7 +2521,7 @@
  },
  {
   "question": "vara ute med håven",
-  "alternatives": [
+  " incorrect": [
    "tigga",
    "leta jobb",
    "spana nyheter",
@@ -2533,7 +2533,7 @@
  },
  {
   "question": "vara ute på hal is",
-  "alternatives": [
+  " incorrect": [
    "vara trygg",
    "åka skridskor",
    "vara rädd",
@@ -2545,7 +2545,7 @@
  },
  {
   "question": "vända blad",
-  "alternatives": [
+  " incorrect": [
    "glömma",
    "börja om",
    "avsluta",
@@ -2557,7 +2557,7 @@
  },
  {
   "question": "vända kappan efter vinden",
-  "alternatives": [
+  " incorrect": [
    "vara flexibel",
    "vara försiktig",
    "vara konsekvent",
@@ -2569,7 +2569,7 @@
  },
  {
   "question": "vända på varje sten",
-  "alternatives": [
+  " incorrect": [
    "leta noga",
    "granska",
    "spana",
