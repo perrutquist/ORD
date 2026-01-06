@@ -648,8 +648,11 @@ function handleOptionClick(index, liElement) {
 
     // Show hint
     if (dom.hint) {
-      dom.hint.textContent = currentItem.hint || '';
-      dom.hint.classList.remove('hidden');
+      const hintText = currentItem.hint || '';
+      dom.hint.innerHTML = hintText
+        ? `Ledtråd: <em>${hintText}</em>`
+        : '';
+      dom.hint.classList.toggle('hidden', !hintText);
     }
 
     // Move current item down the queue if this is the first wrong attempt
