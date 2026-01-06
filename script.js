@@ -86,6 +86,7 @@ async function initApp() {
   applyPreferencesToUI();
   applyTheme();
   await loadData();
+  updateModeCounts();
   renderHome();
   appInitialized = true;
 }
@@ -104,6 +105,11 @@ function cacheDom() {
   dom.listTypeSelector = document.getElementById('listTypeSelector');
   dom.randomCountInput = document.getElementById('randomCount');
   dom.fixedListPicker = document.getElementById('fixedListPicker');
+
+  // Mode counts
+  dom.modeCountBoth = document.getElementById('modeCountBoth');
+  dom.modeCountWords = document.getElementById('modeCountWords');
+  dom.modeCountIdioms = document.getElementById('modeCountIdioms');
   dom.toggleDark = document.getElementById('toggleDark');
   dom.toggleHaptics = document.getElementById('toggleHaptics');
   dom.btnStart = document.getElementById('btnStart');
@@ -352,6 +358,31 @@ function normalizeData(data, type) {
     hint: item.hint || '',
     answer: item.answer,
   }));
+}
+
+function updateModeCounts() {
+  if (!dom.modeCountBoth && !dom.modeCountWords && !dom.modeCountIdioms) return;
+
+  const nf = new Intl.NumberFormat('sv-SE');
+  const wordsCount = wordsPool.length;
+  const idiomsCount = idiomsPool.length;
+  const bothCount = wordsCount + idiomsCount;
+
+  if (dom.modeCountBoth) {
+    dom.modeCountBoth.textContent = bothCount
+      ? `(${nf.format(bothCount)})`
+      : '';
+  }
+  if (dom.modeCountWords) {
+    dom.modeCountWords.textContent = wordsCount
+      ? `(${nf.format(wordsCount)})`
+      : '';
+  }
+  if (dom.modeCountIdioms) {
+    dom.modeCountIdioms.textContent = idiomsCount
+      ? `(${nf.format(idiomsCount)})`
+      : '';
+  }
 }
 
 /* -----------------------------
