@@ -102,7 +102,7 @@
    "diskriminera",
    "försvara",
    "se nyanser",
-   "förenkla"
+   "göra undantag"
   ],
   "hint": "Samma kam för alla, inga skillnader.",
   "answer": "generalisera"
@@ -171,10 +171,10 @@
   "question": "dra ett streck över",
   "incorrect": [
    "förkorta",
-   "avsluta",
-   "förneka",
+   "förtydliga",
    "förlåta",
-   "sammanfatta"
+   "sammanfatta",
+   "bokföra"
   ],
   "hint": "Bokföringsbild: streck markerar att något inte räknas längre.",
   "answer": "glömma"
@@ -210,7 +210,7 @@
    "håna",
    "sucka",
    "fnysa",
-   "flina"
+   "grimasera"
   ],
   "hint": "Smilbanden spänns",
   "answer": "le"
@@ -386,26 +386,26 @@
  {
   "question": "få luft under vingarna",
   "incorrect": [
-   "få framgång",
-   "få hjälp",
-   "få idéer",
-   "få mod",
-   "få frihet"
+   "få kritik",
+   "få bakslag",
+   "få mothugg",
+   "få kalla fötter",
+   "få problem"
   ],
-  "hint": "Vingarna bär, lyfter",
-  "answer": "få skjuts"
+  "hint": "Vingarna bär, något börjar lyfta",
+  "answer": "ta fart"
  },
  {
   "question": "få napp",
   "incorrect": [
-   "få svar",
-   "få erbjudande",
-   "få kritik",
-   "få problem",
+   "få avslag",
+   "få kalla handen",
+   "få bakslag",
+   "få mothugg",
    "få motstånd"
   ],
   "hint": "Fiske: napp betyder träff",
-  "answer": "lyckas"
+  "answer": "få gensvar"
  },
  {
   "question": "få på tafsen",
@@ -854,11 +854,11 @@
  {
   "question": "ha fria tyglar",
   "incorrect": [
-   "vara fri",
-   "vara självständig",
-   "vara ohämmad",
-   "vara lättsam",
-   "vara lössläppt"
+   "vara styrd",
+   "vara övervakad",
+   "vara hämmad",
+   "vara begränsad",
+   "vara hänsynsfull"
   ],
   "hint": "Tyglar släppta: fri styrning",
   "answer": "vara obunden"
@@ -998,13 +998,13 @@
  {
   "question": "hitta nålen i höstacken",
   "incorrect": [
-   "mycket svårt",
-   "osannolikt",
-   "knappt görbart",
-   "nära omöjligt",
-   "extremt svårt"
+   "gå lätt",
+   "ta tid",
+   "kräva tålamod",
+   "ge snabbt resultat",
+   "vara slump"
   ],
-  "hint": "Nål gömd i hö",
+  "hint": "Bilden antyder något mycket svårt att hitta",
   "answer": "nästan omöjligt"
  },
  {
@@ -1178,13 +1178,13 @@
  {
   "question": "i elfte timmen",
   "incorrect": [
-   "i sista hand",
-   "i nödfall",
-   "i sista led",
-   "i sista raden",
-   "i sista minuten"
+   "i god tid",
+   "i efterhand",
+   "i början",
+   "i första hand",
+   "i sinom tid"
   ],
-  "hint": "Biblisk: strax före slutet",
+  "hint": "Strax före slutet",
   "answer": "i sista stund"
  },
  {
@@ -1614,9 +1614,9 @@
    "protestera",
    "vända på allt",
    "bråka",
-   "försöka hårt"
+   "skvallra"
   ],
-  "hint": "Rubba allt för målet",
+  "hint": "Rubba allt för att nå målet",
   "answer": "anstränga sig"
  },
  {
@@ -2138,13 +2138,13 @@
  {
   "question": "sätta kniven på strupen",
   "incorrect": [
-   "hotar",
-   "tvinga",
-   "ställa krav",
-   "övertala",
-   "föreslå"
+   "locka",
+   "uppmuntra",
+   "förklara",
+   "föreslå",
+   "varna"
   ],
-  "hint": "Kniv mot strupe: ultimatum",
+  "hint": "Kniv mot strupe signalerar hårt tryck",
   "answer": "pressa"
  },
  {
@@ -2306,25 +2306,25 @@
  {
   "question": "ta till orda",
   "incorrect": [
-   "ta ordet",
-   "avbryta",
-   "svara",
-   "läsa upp",
-   "förklara"
+   "hålla tyst",
+   "tala i gåtor",
+   "tala i mun",
+   "vända blad",
+   "sväva på målet"
   ],
-  "hint": "Samtalsstart: tar ordet",
+  "hint": "Inleder att tala",
   "answer": "börja tala"
  },
  {
   "question": "ta tillfället i akt",
   "incorrect": [
-   "agera nu",
-   "ta chansen",
-   "handla snabbt",
-   "hugga läget",
-   "gripa tillfället"
+   "avvakta",
+   "tveka",
+   "vänta ut",
+   "backa",
+   "försitta chansen"
   ],
-  "hint": "Akt på tillfället",
+  "hint": "När läget är gynnsamt: inte tveka",
   "answer": "passa på"
  },
  {
@@ -2426,13 +2426,13 @@
  {
   "question": "tåla dagens ljus",
   "incorrect": [
-   "vara laglig",
-   "vara rumsren",
-   "vara godtagbar",
-   "vara officiell",
-   "vara tydlig"
+   "vara hemlig",
+   "vara förtäckt",
+   "vara under locket",
+   "vara förbjuden",
+   "vara dold"
   ],
-  "hint": "Klarar att visas öppet",
+  "hint": "Klarar offentlig granskning",
   "answer": "vara acceptabel"
  },
  {
@@ -2489,10 +2489,10 @@
    "vara omodern",
    "vara hemlig",
    "vara över",
-   "vara på gång",
-   "vara planerad"
+   "vara avfärdad",
+   "vara långt borta"
   ],
-  "hint": "Tapet som anslagstavla: ämnet uppe.",
+  "hint": "Tapet som anslagstavla: ämnet är uppe",
   "answer": "vara aktuell"
  },
  {
