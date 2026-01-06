@@ -14,10 +14,10 @@
   {
     "incorrect": [
       "slapphet",
-      "vårdslöshet",
-      "nonchalans",
-      "försummelse",
-      "slentrian"
+      "hastverk",
+      "ytlighet",
+      "improvisation",
+      "överslätning"
     ],
     "question": "ackuratess",
     "hint": "Lat. accuratus = noggrann.",
@@ -97,11 +97,11 @@
   },
   {
     "incorrect": [
-      "normerande",
-      "förväntad",
       "typisk",
-      "regelbunden",
-      "konform"
+      "stabil",
+      "förutsägbar",
+      "ordinarie",
+      "lagbunden"
     ],
     "question": "anomal",
     "hint": "Avviker från det normala.",
@@ -194,10 +194,10 @@
   {
     "incorrect": [
       "beroende",
-      "underordnad",
-      "styrd",
-      "kontrollerad",
-      "underkastad"
+      "samordnad",
+      "reglerad",
+      "kollektiv",
+      "heteronom"
     ],
     "question": "autonom",
     "hint": "Grekiska rötter för 'egen lag'.",
@@ -242,10 +242,10 @@
   {
     "incorrect": [
       "främmande",
-      "motsatt",
-      "isolerad",
-      "olikartad",
-      "osläkt"
+      "antagonistisk",
+      "slumpmässig",
+      "skild",
+      "oavhängig"
     ],
     "question": "befryndad",
     "hint": "Tyskt släktskap: frände.",
@@ -445,11 +445,11 @@
   },
   {
     "incorrect": [
-      "klen",
-      "tunn",
       "liten",
-      "spenslig",
-      "sumprig"
+      "mager",
+      "kortfattad",
+      "anspråkslös",
+      "begränsad"
     ],
     "question": "diger",
     "hint": "Fornd. diger = stor/omfattande.",
@@ -470,10 +470,10 @@
   {
     "incorrect": [
       "skvaller",
-      "pratsamhet",
-      "exponering",
-      "uppståndelse",
-      "oförbehållsamhet"
+      "synlighet",
+      "öppenhjärtighet",
+      "utlevelse",
+      "offentlighet"
     ],
     "question": "diskretion",
     "hint": "Lat. discretio = urskillning.",
@@ -734,10 +734,10 @@
   {
     "incorrect": [
       "löshet",
-      "drift",
       "svaj",
-      "släpp",
-      "ankomst"
+      "tillfällighet",
+      "förskjutning",
+      "överflyttning"
     ],
     "question": "förankring",
     "hint": "Sjöterm: ankare.",
@@ -985,11 +985,11 @@
   },
   {
     "incorrect": [
-      "träffsäker",
-      "ändamålsenlig",
-      "korrekt",
-      "rimlig",
-      "lämplig"
+      "överdriven",
+      "slarvig",
+      "orealistisk",
+      "orimlig",
+      "irrelevant"
     ],
     "question": "inadekvat",
     "hint": "Inte tillräckligt eller lämpligt.",
@@ -998,10 +998,10 @@
   {
     "incorrect": [
       "översiktlig",
-      "ytlig",
-      "summarisk",
-      "skissartad",
-      "kortfattad"
+      "hastig",
+      "allmän",
+      "schematisk",
+      "snäv"
     ],
     "question": "ingående",
     "hint": "Svensk: gå in i detaljer.",
@@ -1119,9 +1119,9 @@
     "incorrect": [
       "överlägsen",
       "underlägsen",
-      "ojämlik",
-      "skev",
-      "ojämförlig"
+      "ensidig",
+      "hierarkisk",
+      "dominant"
     ],
     "question": "jämbördig",
     "hint": "Svensk sammansättning: jämn + bördig (värdig).",
@@ -1130,10 +1130,10 @@
   {
     "incorrect": [
       "spontan",
-      "slumpartad",
-      "intuitiv",
-      "obestämd",
-      "oberäknelig"
+      "impulsiv",
+      "hastig",
+      "oförutsägbar",
+      "tillfällig"
     ],
     "question": "kalkylerad",
     "hint": "Lat. calculare = räkna.",
@@ -1214,10 +1214,10 @@
   {
     "incorrect": [
       "omständlig",
-      "utsvävande",
-      "mångordig",
+      "utförlig",
+      "resonerande",
       "kringgående",
-      "svamlig"
+      "vidlyftig"
     ],
     "question": "koncis",
     "hint": "Lat. concisus = avhuggen.",
@@ -1226,10 +1226,10 @@
   {
     "incorrect": [
       "offentlig",
-      "allmänt",
       "öppen",
       "tillgänglig",
-      "oplacerad"
+      "publik",
+      "allmän"
     ],
     "question": "konfidentiell",
     "hint": "Lat. confidere = anförtro.",
@@ -1237,11 +1237,11 @@
   },
   {
     "incorrect": [
-      "bråk",
       "motsättning",
-      "split",
-      "ordkrig",
-      "polemik"
+      "minoritet",
+      "polemik",
+      "oenighet",
+      "dissens"
     ],
     "question": "konsensus",
     "hint": "Lat. consensus = samtycke.",
@@ -1250,10 +1250,10 @@
   {
     "incorrect": [
       "originell",
-      "nyskapande",
-      "excentrisk",
+      "radikal",
+      "särpräglad",
       "avantgardistisk",
-      "okoventionell"
+      "banbrytande"
     ],
     "question": "konventionell",
     "hint": "Lat. conventio = överenskommelse.",
@@ -1309,11 +1309,11 @@
   },
   {
     "incorrect": [
-      "utbroderad",
-      "vidlyftig",
-      "svamlig",
-      "resonerande",
-      "målerisk"
+      "målande",
+      "berättande",
+      "utförlig",
+      "ordrik",
+      "öppenhjärtig"
     ],
     "question": "lakonisk",
     "hint": "Från Lakonien/Sparta: kort och knapp.",
@@ -1489,11 +1489,11 @@
   },
   {
     "incorrect": [
-      "mainstream",
-      "helhet",
-      "allmänt",
+      "huvudfåra",
+      "bredd",
       "massmarknad",
-      "övergripande"
+      "helhet",
+      "generalism"
     ],
     "question": "nisch",
     "hint": "Fr. niche = fördjupning.",
@@ -1550,10 +1550,10 @@
   {
     "incorrect": [
       "modern",
-      "gångbar",
       "aktuell",
+      "tidsenlig",
       "bruklig",
-      "högst"
+      "nutida"
     ],
     "question": "obsolet",
     "hint": "Lat. obsoletus = föråldrad.",
@@ -1741,11 +1741,11 @@
   },
   {
     "incorrect": [
-      "ogripbar",
-      "osynlig",
-      "osäker",
-      "otydlig",
-      "antydande"
+      "obestyrkt",
+      "hypotetisk",
+      "indirekt",
+      "tvetydig",
+      "tänkbar"
     ],
     "question": "påvisbar",
     "hint": "Svensk: visa att något finns.",
@@ -2209,11 +2209,11 @@
   },
   {
     "incorrect": [
-      "släpplös",
       "hal",
-      "lös",
+      "porös",
       "smulig",
-      "porös"
+      "lösryckt",
+      "avskiljbar"
     ],
     "question": "vedhäftig",
     "hint": "Från vidhäfta = fästa vid.",
@@ -2235,9 +2235,9 @@
     "incorrect": [
       "ovillkorlig",
       "absolut",
-      "fri",
-      "obunden",
-      "ovillkorad"
+      "slutgiltig",
+      "oinskränkt",
+      "självständig"
     ],
     "question": "villkorlig",
     "hint": "Svensk: beroende av villkor.",
@@ -2249,7 +2249,7 @@
       "fysisk",
       "materiell",
       "konkret",
-      "handsken"
+      "handfast"
     ],
     "question": "virtuell",
     "hint": "Lat. virtualis = potentiell.",
@@ -2332,7 +2332,7 @@
       "ensidig",
       "enväg",
       "asymmetrisk",
-      "ensamt",
+      "privat",
       "egenmäktig"
     ],
     "question": "ömsesidig",
