@@ -17,10 +17,10 @@
    "gå fort",
    "gå bakåt",
    "gå runt",
-   "gå överstyr",
-   "gå i lås"
+   "gå i lås",
+   "gå på halvfart"
   ],
-  "hint": "Eufemism för gå åt helvete",
+  "hint": "Bild: kursen bär mot skogen, inte hamn.",
   "answer": "gå fel"
  },
  {
@@ -158,25 +158,25 @@
  {
   "question": "dra en vals",
   "alternatives": [
-   "skämta",
-   "överdriva",
+   "improvisera",
    "berätta sanning",
    "växla ämne",
-   "tala i gåtor"
+   "tala i gåtor",
+   "vara ironisk"
   ],
-  "hint": "Vals som påhittad historia",
+  "hint": "Ordlek: berättelse som inte stämmer.",
   "answer": "ljuga"
  },
  {
   "question": "dra ett streck över",
   "alternatives": [
-   "strunta i",
+   "förkorta",
    "avsluta",
    "förneka",
    "förlåta",
-   "förtränga"
+   "sammanfatta"
   ],
-  "hint": "Streck: markera slut, bortse",
+  "hint": "Bokföringsbild: streck markerar att något inte räknas längre.",
   "answer": "glömma"
  },
  {
@@ -746,13 +746,13 @@
  {
   "question": "gå över styr",
   "alternatives": [
-   "bli bättre",
-   "vända uppåt",
-   "stanna",
-   "sakta ner",
-   "lugna sig"
+   "gå över gränsen",
+   "ta över",
+   "gå över tiden",
+   "få ordning",
+   "vända utvecklingen"
   ],
-  "hint": "Fartyget överstyr: okontrollerbart",
+  "hint": "Sjöterm: när roderverkan uteblir.",
   "answer": "spåra ur"
  },
  {
@@ -1826,13 +1826,13 @@
  {
   "question": "slå sig lös",
   "alternatives": [
+   "festa",
    "slappna av",
-   "unvf",
-   "släppa loss",
-   "leka",
-   "ha kul"
+   "skärpa sig",
+   "gå hem tidigt",
+   "spara pengar"
   ],
-  "hint": "Lös från tyglar: festa",
+  "hint": "Lös från tyglar: utan hämningar.",
   "answer": "festa"
  },
  {
