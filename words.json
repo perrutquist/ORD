@@ -1,0 +1,2402 @@
+[
+  {
+    "incorrect": [
+      "minskning",
+      "spridning",
+      "avyttring",
+      "utjämning",
+      "förbrukning"
+    ],
+    "question": "ackumulation",
+    "hint": "Latin: accumulare = lägga på hög.",
+    "answer": "ansamling"
+  },
+  {
+    "incorrect": [
+      "slapphet",
+      "vårdslöshet",
+      "nonchalans",
+      "försummelse",
+      "slentrian"
+    ],
+    "question": "ackuratess",
+    "hint": "Lat. accuratus = noggrann.",
+    "answer": "noggrannhet"
+  },
+  {
+    "incorrect": [
+      "överdriven",
+      "godtycklig",
+      "tvetydig",
+      "bristfällig",
+      "förskönad"
+    ],
+    "question": "adekvat",
+    "hint": "Används ofta om redskap, svar eller åtgärder som passar syftet.",
+    "answer": "ändamålsenlig"
+  },
+  {
+    "incorrect": [
+      "aversion",
+      "likgiltighet",
+      "friktion",
+      "konkurrens",
+      "dissonans"
+    ],
+    "question": "affinitet",
+    "hint": "Kemi och sociala relationer kan båda sägas ha detta: en inneboende samhörighet.",
+    "answer": "samhörighet"
+  },
+  {
+    "incorrect": [
+      "egenkärlek",
+      "självförverkligande",
+      "tukt",
+      "jäv",
+      "pragmatism"
+    ],
+    "question": "altruism",
+    "hint": "Motsats till egoism.",
+    "answer": "osjälviskhet"
+  },
+  {
+    "incorrect": [
+      "bestämd",
+      "likgiltig",
+      "entusiastisk",
+      "ensidig",
+      "förutsägbar"
+    ],
+    "question": "ambivalent",
+    "hint": "Känslor åt två håll samtidigt.",
+    "answer": "kluven"
+  },
+  {
+    "incorrect": [
+      "paroll",
+      "protokoll",
+      "essä",
+      "krönika",
+      "tes"
+    ],
+    "question": "anekdot",
+    "hint": "Kort, ofta underhållande berättelse.",
+    "answer": "kort berättelse"
+  },
+  {
+    "incorrect": [
+      "klagan",
+      "vädjan",
+      "beröm",
+      "förevändning",
+      "anmärkning"
+    ],
+    "question": "anmodan",
+    "hint": "Fornd. mod = sinne; anmoda = uppmana.",
+    "answer": "uppmaning"
+  },
+  {
+    "incorrect": [
+      "normerande",
+      "förväntad",
+      "typisk",
+      "regelbunden",
+      "konform"
+    ],
+    "question": "anomal",
+    "hint": "Avviker från det normala.",
+    "answer": "avvikande"
+  },
+  {
+    "incorrect": [
+      "ringa",
+      "knapp",
+      "obetydlig",
+      "liten",
+      "skral"
+    ],
+    "question": "ansenlig",
+    "hint": "Svensk: ansenlig = betydande.",
+    "answer": "avsevärd"
+  },
+  {
+    "incorrect": [
+      "påstridig",
+      "kräsen",
+      "extravagant",
+      "offensiv",
+      "självupptagen"
+    ],
+    "question": "anspråkslös",
+    "hint": "Handlar om blygsamhet.",
+    "answer": "ödmjuk"
+  },
+  {
+    "incorrect": [
+      "sympati",
+      "nyfikenhet",
+      "empati",
+      "välvilja",
+      "förtjusning"
+    ],
+    "question": "antipati",
+    "hint": "Känslomässigt motstånd mot någon/något.",
+    "answer": "motvilja"
+  },
+  {
+    "incorrect": [
+      "iver",
+      "hyperaktivitet",
+      "eufori",
+      "rastlöshet",
+      "ängslan"
+    ],
+    "question": "apati",
+    "hint": "Kännetecknas av orkeslöshet inför handling.",
+    "answer": "likgiltighet"
+  },
+  {
+    "incorrect": [
+      "rättvis",
+      "systematisk",
+      "oberoende",
+      "principfast",
+      "lagbunden"
+    ],
+    "question": "arbiträr",
+    "hint": "Beslut utan fast grund eller kriterier.",
+    "answer": "godtycklig"
+  },
+  {
+    "incorrect": [
+      "utåtriktad",
+      "hjälpsam",
+      "kollegial",
+      "socialt kompetent",
+      "gästfri"
+    ],
+    "question": "asocial",
+    "hint": "Avser beteenden i konflikt med samhällsnormer.",
+    "answer": "samhällsfientlig"
+  },
+  {
+    "incorrect": [
+      "demokratisk",
+      "eftergiven",
+      "öppenhjärtig",
+      "medgörlig",
+      "tillmötesgående"
+    ],
+    "question": "auktoritär",
+    "hint": "Styrning med hård kontroll och liten delaktighet.",
+    "answer": "härsklysten"
+  },
+  {
+    "incorrect": [
+      "beroende",
+      "underordnad",
+      "styrd",
+      "kontrollerad",
+      "underkastad"
+    ],
+    "question": "autonom",
+    "hint": "Grekiska rötter för 'egen lag'.",
+    "answer": "självständig"
+  },
+  {
+    "incorrect": [
+      "förtjusning",
+      "dragning",
+      "sympati",
+      "tillgivenhet",
+      "aptit"
+    ],
+    "question": "aversion",
+    "hint": "Lat. aversio = motvilja.",
+    "answer": "motvilja"
+  },
+  {
+    "incorrect": [
+      "originell",
+      "gåtfull",
+      "vittomfattande",
+      "minnesvärd",
+      "sublim"
+    ],
+    "question": "banal",
+    "hint": "Nött och utslitet i uttryck eller idé.",
+    "answer": "intetsägande"
+  },
+  {
+    "incorrect": [
+      "ogrundad",
+      "överflödig",
+      "godtycklig",
+      "slarvig",
+      "oavsiktlig"
+    ],
+    "question": "befogad",
+    "hint": "Har saklig grund.",
+    "answer": "motiverad"
+  },
+  {
+    "incorrect": [
+      "främmande",
+      "motsatt",
+      "isolerad",
+      "olikartad",
+      "osläkt"
+    ],
+    "question": "befryndad",
+    "hint": "Tyskt släktskap: frände.",
+    "answer": "besläktad"
+  },
+  {
+    "incorrect": [
+      "befriad",
+      "förbättrad",
+      "anpassad",
+      "ostridbar",
+      "fullständig"
+    ],
+    "question": "behäftad",
+    "hint": "Ofta följt av 'med fel/brister'.",
+    "answer": "belastad"
+  },
+  {
+    "incorrect": [
+      "ovillig",
+      "tveksam",
+      "avskräckt",
+      "oböjd",
+      "likgiltig"
+    ],
+    "question": "benägen",
+    "hint": "Har en tendens till viss handling.",
+    "answer": "villig"
+  },
+  {
+    "incorrect": [
+      "raseri",
+      "hysteri",
+      "ovilja",
+      "hets",
+      "impuls"
+    ],
+    "question": "besinning",
+    "hint": "Svensk: sinnesnärvaro.",
+    "answer": "självbehärskning"
+  },
+  {
+    "incorrect": [
+      "upplyftande",
+      "obemärkt",
+      "oförarglig",
+      "fördelaktig",
+      "lugnande"
+    ],
+    "question": "besvärande",
+    "hint": "Kan vara komprometterande.",
+    "answer": "komprometterande"
+  },
+  {
+    "incorrect": [
+      "tillstå",
+      "medge",
+      "överlåta",
+      "underminera",
+      "vackla"
+    ],
+    "question": "betvinga",
+    "hint": "Svensk: tvinga till underkastelse.",
+    "answer": "besegra"
+  },
+  {
+    "incorrect": [
+      "försumbar",
+      "ofarlig",
+      "obetydlig",
+      "klarlagd",
+      "oundviklig"
+    ],
+    "question": "betänklig",
+    "hint": "Ger skäl till oro.",
+    "answer": "oroande"
+  },
+  {
+    "incorrect": [
+      "noggrannhet",
+      "saklighet",
+      "neutralitet",
+      "stringens",
+      "objektivitet"
+    ],
+    "question": "bias",
+    "hint": "Engelska för systematisk snedvridning.",
+    "answer": "partiskhet"
+  },
+  {
+    "incorrect": [
+      "stram",
+      "präktig",
+      "pliktrogen",
+      "ordningsam",
+      "konform"
+    ],
+    "question": "bohemisk",
+    "hint": "Fri, okonventionell livsstil.",
+    "answer": "okonventionell"
+  },
+  {
+    "incorrect": [
+      "felfri",
+      "fullständig",
+      "robust",
+      "exakt",
+      "mästerlig"
+    ],
+    "question": "bristfällig",
+    "hint": "Har tydliga luckor eller fel.",
+    "answer": "otillräcklig"
+  },
+  {
+    "incorrect": [
+      "smidig",
+      "transparent",
+      "spontan",
+      "snabbrörlig",
+      "flexibel"
+    ],
+    "question": "byråkratisk",
+    "hint": "Ofta regelstyrt och omständligt.",
+    "answer": "omständlig"
+  },
+  {
+    "incorrect": [
+      "naiv",
+      "empatisk",
+      "idealisk",
+      "förtröstansfull",
+      "välvillig"
+    ],
+    "question": "cynisk",
+    "hint": "Kall, misstroende och ofta hänsynslös.",
+    "answer": "hänsynslös"
+  },
+  {
+    "incorrect": [
+      "kampvilja",
+      "konstruktivitet",
+      "frispråkighet",
+      "nitiskthet",
+      "framåtanda"
+    ],
+    "question": "defaitism",
+    "hint": "Uppgiven tro på nederlag.",
+    "answer": "uppgivenhet"
+  },
+  {
+    "incorrect": [
+      "provisorisk",
+      "preliminär",
+      "villkorlig",
+      "omstridd",
+      "föränderlig"
+    ],
+    "question": "definitiv",
+    "hint": "Slutgiltigt besked.",
+    "answer": "slutgiltig"
+  },
+  {
+    "incorrect": [
+      "okänslig",
+      "vardaglig",
+      "massiv",
+      "otydlig",
+      "plump"
+    ],
+    "question": "delikat",
+    "hint": "Kan betyda fint känslig eller fingrann.",
+    "answer": "känslig"
+  },
+  {
+    "incorrect": [
+      "uppspelt",
+      "föraktfull",
+      "förvånad",
+      "ambitiös",
+      "godtrogen"
+    ],
+    "question": "desillusionerad",
+    "hint": "Har tappat illusioner.",
+    "answer": "illusionlös"
+  },
+  {
+    "incorrect": [
+      "analys",
+      "avhandling",
+      "anekdot",
+      "notis",
+      "statistik"
+    ],
+    "question": "devis",
+    "hint": "Kort sats som leder eller sammanfattar.",
+    "answer": "motto"
+  },
+  {
+    "incorrect": [
+      "klen",
+      "tunn",
+      "liten",
+      "spenslig",
+      "sumprig"
+    ],
+    "question": "diger",
+    "hint": "Fornd. diger = stor/omfattande.",
+    "answer": "omfattande"
+  },
+  {
+    "incorrect": [
+      "upprepning",
+      "fördröjning",
+      "avbrott",
+      "tillgång",
+      "försämring"
+    ],
+    "question": "diskrepans",
+    "hint": "Handlar om skillnad mellan två saker.",
+    "answer": "skillnad"
+  },
+  {
+    "incorrect": [
+      "skvaller",
+      "pratsamhet",
+      "exponering",
+      "uppståndelse",
+      "oförbehållsamhet"
+    ],
+    "question": "diskretion",
+    "hint": "Lat. discretio = urskillning.",
+    "answer": "tystlåtenhet"
+  },
+  {
+    "incorrect": [
+      "familjär",
+      "deltagande",
+      "sprallig",
+      "påflugen",
+      "intim"
+    ],
+    "question": "distanserad",
+    "hint": "Kyligt hållande avstånd.",
+    "answer": "reserverad"
+  },
+  {
+    "incorrect": [
+      "konvergent",
+      "symmetrisk",
+      "enhetlig",
+      "stabil",
+      "reversibel"
+    ],
+    "question": "divergent",
+    "hint": "Rör sig isär snarare än ihop.",
+    "answer": "isärgående"
+  },
+  {
+    "incorrect": [
+      "prövande",
+      "öppen",
+      "skeptisk",
+      "nyanserad",
+      "tillmötesgående"
+    ],
+    "question": "dogmatisk",
+    "hint": "Håller hårt på en lära utan ifrågasättande.",
+    "answer": "tvärsäker"
+  },
+  {
+    "incorrect": [
+      "försiktig",
+      "prydlig",
+      "anspråkslös",
+      "sluten",
+      "marginell"
+    ],
+    "question": "drastisk",
+    "hint": "Kraftfull och genomgripande åtgärd.",
+    "answer": "genomgripande"
+  },
+  {
+    "incorrect": [
+      "enhet",
+      "hierarki",
+      "cirkelgång",
+      "randomisering",
+      "synkretism"
+    ],
+    "question": "dualism",
+    "hint": "Tvådelning av verkligheten.",
+    "answer": "tvådelighet"
+  },
+  {
+    "incorrect": [
+      "nyckfull",
+      "omtänksam",
+      "timid",
+      "systematisk",
+      "stillsam"
+    ],
+    "question": "egensinnig",
+    "hint": "Bestämmer själv, gärna trots invändningar.",
+    "answer": "envis"
+  },
+  {
+    "incorrect": [
+      "radikal",
+      "entydig",
+      "mekanisk",
+      "obenägen",
+      "centraliserad"
+    ],
+    "question": "eklektisk",
+    "hint": "Plockar fritt från olika källor.",
+    "answer": "blandad"
+  },
+  {
+    "incorrect": [
+      "därför",
+      "dessutom",
+      "före",
+      "alldeles",
+      "numera"
+    ],
+    "question": "emellertid",
+    "hint": "Svensk: dock, ändå.",
+    "answer": "dock"
+  },
+  {
+    "incorrect": [
+      "förvirring",
+      "förklaring",
+      "förfining",
+      "föraning",
+      "försiktighet"
+    ],
+    "question": "emfas",
+    "hint": "Särskild tyngd i uttal eller uttryck.",
+    "answer": "betoning"
+  },
+  {
+    "incorrect": [
+      "normativ",
+      "godtycklig",
+      "symbolisk",
+      "metaforisk",
+      "matematisk"
+    ],
+    "question": "empirisk",
+    "hint": "Grundad på erfarenhet och observation.",
+    "answer": "erfarenhetsbaserad"
+  },
+  {
+    "incorrect": [
+      "brusig",
+      "vardaglig",
+      "förnumstig",
+      "öppenhjärtig",
+      "profant"
+    ],
+    "question": "enigmatisk",
+    "hint": "Gåtfull och svårtolkad.",
+    "answer": "gåtfull"
+  },
+  {
+    "incorrect": [
+      "tona ned",
+      "avväpna",
+      "lösa upp",
+      "avstanna",
+      "förena"
+    ],
+    "question": "eskalera",
+    "hint": "Trappas upp, t.ex. konflikt.",
+    "answer": "trappas upp"
+  },
+  {
+    "incorrect": [
+      "estetisk",
+      "juridisk",
+      "ekonomisk",
+      "pedagogisk",
+      "logistisk"
+    ],
+    "question": "etisk",
+    "hint": "Berör rätt och fel i handling.",
+    "answer": "moralisk"
+  },
+  {
+    "incorrect": [
+      "spröd",
+      "tyst",
+      "fragmentarisk",
+      "oväsentlig",
+      "omständlig"
+    ],
+    "question": "explicit",
+    "hint": "Sagt tydligt och uttryckligen.",
+    "answer": "tydlig"
+  },
+  {
+    "incorrect": [
+      "skydda",
+      "skona",
+      "undvika",
+      "främja",
+      "återvinna"
+    ],
+    "question": "exploatera",
+    "hint": "Utnyttja, ofta hänsynslöst.",
+    "answer": "utnyttja"
+  },
+  {
+    "incorrect": [
+      "förtydliga",
+      "förkorta",
+      "förankra",
+      "förvalta",
+      "förutse"
+    ],
+    "question": "fabulera",
+    "hint": "Dikta ihop, hitta på.",
+    "answer": "hitta på"
+  },
+  {
+    "incorrect": [
+      "handlingskraftig",
+      "frihetsvurmande",
+      "resultatinriktad",
+      "konstruktiv",
+      "strategisk"
+    ],
+    "question": "fatalistisk",
+    "hint": "Tror att allt styrs av ödet.",
+    "answer": "ödestroende"
+  },
+  {
+    "incorrect": [
+      "oförsonlig",
+      "ovan",
+      "tungrodd",
+      "långsam",
+      "principfast"
+    ],
+    "question": "flexibel",
+    "hint": "Lätt att anpassa eller böja.",
+    "answer": "anpassningsbar"
+  },
+  {
+    "incorrect": [
+      "sluten",
+      "regelbunden",
+      "översiktlig",
+      "intakt",
+      "välordnad"
+    ],
+    "question": "fragmentarisk",
+    "hint": "Delvis och osammanhängande.",
+    "answer": "splittrad"
+  },
+  {
+    "incorrect": [
+      "fåtalig",
+      "tidsenlig",
+      "tillfällig",
+      "ordentlig",
+      "uppseendeväckande"
+    ],
+    "question": "frekvent",
+    "hint": "Sker ofta.",
+    "answer": "ofta förekommande"
+  },
+  {
+    "incorrect": [
+      "marginell",
+      "ovanlig",
+      "övergående",
+      "utsmyckad",
+      "komplicerad"
+    ],
+    "question": "fundamental",
+    "hint": "Det mest grundläggande.",
+    "answer": "grundläggande"
+  },
+  {
+    "incorrect": [
+      "löshet",
+      "drift",
+      "svaj",
+      "släpp",
+      "ankomst"
+    ],
+    "question": "förankring",
+    "hint": "Sjöterm: ankare.",
+    "answer": "fäste"
+  },
+  {
+    "incorrect": [
+      "löfte",
+      "anspråk",
+      "krav",
+      "förslag",
+      "bekräftelse"
+    ],
+    "question": "förbehåll",
+    "hint": "Reservation innan godkännande.",
+    "answer": "reservation"
+  },
+  {
+    "incorrect": [
+      "samling",
+      "förslutning",
+      "axel",
+      "knutpunkt",
+      "kärna"
+    ],
+    "question": "förgrening",
+    "hint": "Sidoutlöpare i nät eller struktur.",
+    "answer": "sidogren"
+  },
+  {
+    "incorrect": [
+      "noggrann",
+      "omsorgsfull",
+      "tveklös",
+      "tidskrävande",
+      "juridisk"
+    ],
+    "question": "förhastad",
+    "hint": "Gjort för snabbt och utan eftertanke.",
+    "answer": "ogenomtänkt"
+  },
+  {
+    "incorrect": [
+      "tvivel",
+      "oro",
+      "skuld",
+      "förakt",
+      "tystnad"
+    ],
+    "question": "förlitan",
+    "hint": "Handlar om tillit till någon/något.",
+    "answer": "tillit"
+  },
+  {
+    "incorrect": [
+      "bevisad",
+      "avslutad",
+      "laglig",
+      "inträffad",
+      "erkänd"
+    ],
+    "question": "förment",
+    "hint": "Något påstått, inte visat.",
+    "answer": "påstådd"
+  },
+  {
+    "incorrect": [
+      "förstora",
+      "överdriva",
+      "uppvärdera",
+      "hylla",
+      "lyfta"
+    ],
+    "question": "förringa",
+    "hint": "Svensk: ringa = liten.",
+    "answer": "bagatellisera"
+  },
+  {
+    "incorrect": [
+      "avgörande",
+      "uttalad",
+      "massiv",
+      "tydlig",
+      "vidsträckt"
+    ],
+    "question": "försumbar",
+    "hint": "Så liten att den kan bortses från.",
+    "answer": "obetydlig"
+  },
+  {
+    "incorrect": [
+      "formell",
+      "offentlig",
+      "förnumstig",
+      "föraktfull",
+      "ytlig"
+    ],
+    "question": "förtrolig",
+    "hint": "Delas i förtroende.",
+    "answer": "konfidentiell"
+  },
+  {
+    "incorrect": [
+      "överraskande",
+      "irrationell",
+      "olycksbådande",
+      "bristfällig",
+      "tvetydig"
+    ],
+    "question": "förutsebar",
+    "hint": "Går att räkna ut i förväg.",
+    "answer": "förutsägbar"
+  },
+  {
+    "incorrect": [
+      "sällsynt",
+      "privat",
+      "tillfällig",
+      "banbrytande",
+      "hemlig"
+    ],
+    "question": "gängse",
+    "hint": "Allmänt vedertagen.",
+    "answer": "vedertagen"
+  },
+  {
+    "incorrect": [
+      "sällsynt",
+      "spontan",
+      "tillfällig",
+      "uppseendeväckande",
+      "oförutsedd"
+    ],
+    "question": "habitual",
+    "hint": "Kommer av vana.",
+    "answer": "vanemässig"
+  },
+  {
+    "incorrect": [
+      "grov",
+      "orolig",
+      "osymmetrisk",
+      "skrovlig",
+      "hård"
+    ],
+    "question": "harmonisk",
+    "hint": "I samklang, balanserad.",
+    "answer": "välbalanserad"
+  },
+  {
+    "incorrect": [
+      "horisontell",
+      "tillfällig",
+      "ad hoc",
+      "sluten",
+      "polyfon"
+    ],
+    "question": "hierarkisk",
+    "hint": "Rangordnad struktur.",
+    "answer": "rangordnad"
+  },
+  {
+    "incorrect": [
+      "fakta",
+      "regel",
+      "metod",
+      "bevis",
+      "norm"
+    ],
+    "question": "hypotes",
+    "hint": "Ett antagande som kan prövas.",
+    "answer": "antagande"
+  },
+  {
+    "incorrect": [
+      "tysta",
+      "dementera",
+      "förneka",
+      "vackla",
+      "tvivla"
+    ],
+    "question": "hävda",
+    "hint": "Fornd. hevda = hålla fast.",
+    "answer": "påstå"
+  },
+  {
+    "incorrect": [
+      "praktisk",
+      "kommersiell",
+      "juridisk",
+      "politisk",
+      "teknisk"
+    ],
+    "question": "ideell",
+    "hint": "Verksamhet utan vinstintresse.",
+    "answer": "utan vinstsyfte"
+  },
+  {
+    "incorrect": [
+      "pragmatisk",
+      "neutral",
+      "tystlåten",
+      "mekanisk",
+      "slumpartad"
+    ],
+    "question": "ideologisk",
+    "hint": "Styrs av idéer och värderingar.",
+    "answer": "idémässig"
+  },
+  {
+    "incorrect": [
+      "flyktig",
+      "nyckfull",
+      "halvhjärtad",
+      "lat",
+      "uppgiven"
+    ],
+    "question": "ihärdig",
+    "hint": "Svensk: härda ut.",
+    "answer": "enträgen"
+  },
+  {
+    "incorrect": [
+      "privat",
+      "tillfällig",
+      "uttalad",
+      "påtaglig",
+      "officiell"
+    ],
+    "question": "implicit",
+    "hint": "Inte utsagt men ändå menat.",
+    "answer": "underförstådd"
+  },
+  {
+    "incorrect": [
+      "överlagd",
+      "kalkylerande",
+      "försiktig",
+      "tålmodig",
+      "metodisk"
+    ],
+    "question": "impulsiv",
+    "hint": "Handlar utan att tänka efter.",
+    "answer": "obetänksam"
+  },
+  {
+    "incorrect": [
+      "träffsäker",
+      "ändamålsenlig",
+      "korrekt",
+      "rimlig",
+      "lämplig"
+    ],
+    "question": "inadekvat",
+    "hint": "Inte tillräckligt eller lämpligt.",
+    "answer": "otillräcklig"
+  },
+  {
+    "incorrect": [
+      "översiktlig",
+      "ytlig",
+      "summarisk",
+      "skissartad",
+      "kortfattad"
+    ],
+    "question": "ingående",
+    "hint": "Svensk: gå in i detaljer.",
+    "answer": "detaljerad"
+  },
+  {
+    "incorrect": [
+      "samstämmig",
+      "förutsägbar",
+      "pålitlig",
+      "stringent",
+      "trovärdig"
+    ],
+    "question": "inkonsekvent",
+    "hint": "Saknar enhetlig linje.",
+    "answer": "motsägelsefull"
+  },
+  {
+    "incorrect": [
+      "konventionell",
+      "repeterande",
+      "försiktig",
+      "vanemässig",
+      "återhållsam"
+    ],
+    "question": "innovativ",
+    "hint": "Nyskapande och uppfinningsrik.",
+    "answer": "nyskapande"
+  },
+  {
+    "incorrect": [
+      "rakryggad",
+      "butter",
+      "reserverad",
+      "korthuggen",
+      "avog"
+    ],
+    "question": "inställsam",
+    "hint": "Svensk: ställa in sig (fjäsk).",
+    "answer": "fjäskande"
+  },
+  {
+    "incorrect": [
+      "anpasslighet",
+      "popularitet",
+      "hänsynslöshet",
+      "prestige",
+      "pålitlighet"
+    ],
+    "question": "integritet",
+    "hint": "Okränkbar helhet, personlig gräns.",
+    "answer": "okränkbarhet"
+  },
+  {
+    "incorrect": [
+      "praktisk",
+      "sportig",
+      "kroppslig",
+      "snäv",
+      "ytlig"
+    ],
+    "question": "intellektuell",
+    "hint": "Förknippas med tänkande och bildning.",
+    "answer": "bildad"
+  },
+  {
+    "incorrect": [
+      "enkel",
+      "självklar",
+      "öppen",
+      "robust",
+      "lättvindig"
+    ],
+    "question": "intrikat",
+    "hint": "Komplicerad och svår att reda ut.",
+    "answer": "invecklad"
+  },
+  {
+    "incorrect": [
+      "påhittad",
+      "formell",
+      "statisk",
+      "tvetydig",
+      "fördröjd"
+    ],
+    "question": "intuitiv",
+    "hint": "Omedelbar förståelse utan analys.",
+    "answer": "instinktiv"
+  },
+  {
+    "incorrect": [
+      "hyllning",
+      "ordlek",
+      "förklaring",
+      "medlidande",
+      "förvrängning"
+    ],
+    "question": "ironi",
+    "hint": "Säger tvärtom mot vad man menar, ofta med en pik.",
+    "answer": "förtäckt hån"
+  },
+  {
+    "incorrect": [
+      "uppkopplad",
+      "förenad",
+      "delaktig",
+      "kosmopolitisk",
+      "öppen"
+    ],
+    "question": "isolerad",
+    "hint": "Avskild från andra.",
+    "answer": "avskild"
+  },
+  {
+    "incorrect": [
+      "överlägsen",
+      "underlägsen",
+      "ojämlik",
+      "skev",
+      "ojämförlig"
+    ],
+    "question": "jämbördig",
+    "hint": "Svensk sammansättning: jämn + bördig (värdig).",
+    "answer": "likvärdig"
+  },
+  {
+    "incorrect": [
+      "spontan",
+      "slumpartad",
+      "intuitiv",
+      "obestämd",
+      "oberäknelig"
+    ],
+    "question": "kalkylerad",
+    "hint": "Lat. calculare = räkna.",
+    "answer": "beräknad"
+  },
+  {
+    "incorrect": [
+      "varmhjärtad",
+      "entusiastisk",
+      "ivrig",
+      "vänlig",
+      "ömsint"
+    ],
+    "question": "kallsinnig",
+    "hint": "Svensk: kall i sinnet.",
+    "answer": "känslokall"
+  },
+  {
+    "incorrect": [
+      "tillfällig",
+      "neutral",
+      "ospecificerad",
+      "allmän",
+      "slumpmässig"
+    ],
+    "question": "karaktäristisk",
+    "hint": "Grek. charakter = prägel.",
+    "answer": "typisk"
+  },
+  {
+    "incorrect": [
+      "dölja",
+      "fördunkla",
+      "förvanska",
+      "tysta",
+      "maskera"
+    ],
+    "question": "klargöra",
+    "hint": "Svensk: göra klar.",
+    "answer": "förtydliga"
+  },
+  {
+    "incorrect": [
+      "privat",
+      "ensam",
+      "singulär",
+      "personlig",
+      "exklusiv"
+    ],
+    "question": "kollektiv",
+    "hint": "Lat. colligere = samla.",
+    "answer": "gemensam"
+  },
+  {
+    "incorrect": [
+      "elementär",
+      "entydig",
+      "rätlinjig",
+      "banal",
+      "odifferentierad"
+    ],
+    "question": "komplex",
+    "hint": "Lat. complexus = sammanflätad.",
+    "answer": "invecklad"
+  },
+  {
+    "incorrect": [
+      "ultimatum",
+      "ensidighet",
+      "kapitulation",
+      "konfrontation",
+      "rigiditet"
+    ],
+    "question": "kompromiss",
+    "hint": "Fr. compromis < lat. compromissum.",
+    "answer": "medelväg"
+  },
+  {
+    "incorrect": [
+      "omständlig",
+      "utsvävande",
+      "mångordig",
+      "kringgående",
+      "svamlig"
+    ],
+    "question": "koncis",
+    "hint": "Lat. concisus = avhuggen.",
+    "answer": "kortfattad"
+  },
+  {
+    "incorrect": [
+      "offentlig",
+      "allmänt",
+      "öppen",
+      "tillgänglig",
+      "oplacerad"
+    ],
+    "question": "konfidentiell",
+    "hint": "Lat. confidere = anförtro.",
+    "answer": "förtrolig"
+  },
+  {
+    "incorrect": [
+      "bråk",
+      "motsättning",
+      "split",
+      "ordkrig",
+      "polemik"
+    ],
+    "question": "konsensus",
+    "hint": "Lat. consensus = samtycke.",
+    "answer": "enighet"
+  },
+  {
+    "incorrect": [
+      "originell",
+      "nyskapande",
+      "excentrisk",
+      "avantgardistisk",
+      "okoventionell"
+    ],
+    "question": "konventionell",
+    "hint": "Lat. conventio = överenskommelse.",
+    "answer": "vedertagen"
+  },
+  {
+    "incorrect": [
+      "orsak",
+      "tillfällighet",
+      "ensamhet",
+      "separation",
+      "isolation"
+    ],
+    "question": "korrelation",
+    "hint": "Lat. correlatio = ömsesidigt förhållande.",
+    "answer": "samband"
+  },
+  {
+    "incorrect": [
+      "misstro",
+      "tvekan",
+      "ryktbarhet",
+      "popularitet",
+      "synlighet"
+    ],
+    "question": "kredibilitet",
+    "hint": "Lat. credibilis = trovärdig.",
+    "answer": "trovärdighet"
+  },
+  {
+    "incorrect": [
+      "direkt",
+      "öppen",
+      "rak",
+      "oförmedlad",
+      "rätlinjig"
+    ],
+    "question": "kringgående",
+    "hint": "Svensk: gå runt något.",
+    "answer": "undvikande"
+  },
+  {
+    "incorrect": [
+      "likgiltig",
+      "perifer",
+      "oväsentlig",
+      "passiv",
+      "försonlig"
+    ],
+    "question": "kritisk",
+    "hint": "Grek. krinein = urskilja/avgöra.",
+    "answer": "avgörande"
+  },
+  {
+    "incorrect": [
+      "utbroderad",
+      "vidlyftig",
+      "svamlig",
+      "resonerande",
+      "målerisk"
+    ],
+    "question": "lakonisk",
+    "hint": "Från Lakonien/Sparta: kort och knapp.",
+    "answer": "ordkarg"
+  },
+  {
+    "incorrect": [
+      "godtycklig",
+      "tvivelaktig",
+      "falsk",
+      "oauktoriserad",
+      "obehörig"
+    ],
+    "question": "legitim",
+    "hint": "Lat. legitimus = laglig.",
+    "answer": "berättigad"
+  },
+  {
+    "incorrect": [
+      "motsägande",
+      "hoppig",
+      "godtycklig",
+      "känslostyrd",
+      "inkonsekvent"
+    ],
+    "question": "logisk",
+    "hint": "Grek. logos = förnuft/ord.",
+    "answer": "följdriktig"
+  },
+  {
+    "incorrect": [
+      "illojal",
+      "trolös",
+      "opålitlig",
+      "egennyttig",
+      "opportunistisk"
+    ],
+    "question": "lojal",
+    "hint": "Fr. loyal < lat. legalis = laglig/trogen.",
+    "answer": "trogen"
+  },
+  {
+    "incorrect": [
+      "precis",
+      "skarp",
+      "distinkt",
+      "stringent",
+      "definierad"
+    ],
+    "question": "luddig",
+    "hint": "Bildl.: suddig, som med ludd.",
+    "answer": "oklar"
+  },
+  {
+    "incorrect": [
+      "naiv",
+      "öppenhjärtig",
+      "transparant",
+      "påverkbar",
+      "blygsam"
+    ],
+    "question": "manipulativ",
+    "hint": "Lat. manus + plere: handgrepp.",
+    "answer": "beräknande"
+  },
+  {
+    "incorrect": [
+      "central",
+      "väsentlig",
+      "huvudsaklig",
+      "dominerande",
+      "kärnfull"
+    ],
+    "question": "marginell",
+    "hint": "Lat. margo = kant.",
+    "answer": "obetydlig"
+  },
+  {
+    "incorrect": [
+      "diskret",
+      "anspråkslös",
+      "blek",
+      "oberörd",
+      "fördold"
+    ],
+    "question": "markant",
+    "hint": "Fr. marquer = märka.",
+    "answer": "framträdande"
+  },
+  {
+    "incorrect": [
+      "kaos",
+      "tillfällighet",
+      "störning",
+      "ornament",
+      "dekoration"
+    ],
+    "question": "mekanism",
+    "hint": "Grek. mēchanē = redskap.",
+    "answer": "verkningssätt"
+  },
+  {
+    "incorrect": [
+      "planlös",
+      "spretig",
+      "slumpmässig",
+      "hastig",
+      "oregelbunden"
+    ],
+    "question": "metodisk",
+    "hint": "Grek. methodos = väg/plan.",
+    "answer": "systematisk"
+  },
+  {
+    "incorrect": [
+      "omfattande",
+      "markant",
+      "betydande",
+      "vidlyftig",
+      "storskalig"
+    ],
+    "question": "minimal",
+    "hint": "Lat. minimus = minst.",
+    "answer": "mycket liten"
+  },
+  {
+    "incorrect": [
+      "omväxlande",
+      "brokig",
+      "skiftande",
+      "mångfacetterad",
+      "sprudlande"
+    ],
+    "question": "monoton",
+    "hint": "Grek. monos + tonos = en ton.",
+    "answer": "enformig"
+  },
+  {
+    "incorrect": [
+      "amoralsk",
+      "oetisk",
+      "oskrupulös",
+      "nihilistisk",
+      "laglös"
+    ],
+    "question": "moralisk",
+    "hint": "Lat. mos/mores = sed(er).",
+    "answer": "etisk"
+  },
+  {
+    "incorrect": [
+      "samstämmig",
+      "harmonisk",
+      "förenlig",
+      "överens",
+      "konvergent"
+    ],
+    "question": "motstridig",
+    "hint": "Svensk: mot + strida.",
+    "answer": "motsägande"
+  },
+  {
+    "incorrect": [
+      "överdriven",
+      "oförblommerad",
+      "excessiv",
+      "gränslös",
+      "utsvävande"
+    ],
+    "question": "måttfull",
+    "hint": "Svensk: hålla måtta.",
+    "answer": "moderat"
+  },
+  {
+    "incorrect": [
+      "mainstream",
+      "helhet",
+      "allmänt",
+      "massmarknad",
+      "övergripande"
+    ],
+    "question": "nisch",
+    "hint": "Fr. niche = fördjupning.",
+    "answer": "specialområde"
+  },
+  {
+    "incorrect": [
+      "beskrivande",
+      "neutralt",
+      "värderingsfritt",
+      "förklarande",
+      "observant"
+    ],
+    "question": "normativ",
+    "hint": "Lat. norma = regel.",
+    "answer": "föreskrivande"
+  },
+  {
+    "incorrect": [
+      "svartvit",
+      "ensidig",
+      "platt",
+      "oförfinad",
+      "enkelspårig"
+    ],
+    "question": "nyanserad",
+    "hint": "Fr. nuance = skiftning.",
+    "answer": "mångfacetterad"
+  },
+  {
+    "incorrect": [
+      "tvivelaktig",
+      "klanderbar",
+      "omstörtbar",
+      "skev",
+      "svag"
+    ],
+    "question": "oantastlig",
+    "hint": "Svensk: kan ej angripas.",
+    "answer": "obestridlig"
+  },
+  {
+    "incorrect": [
+      "partisk",
+      "tendentiös",
+      "självcentrerad",
+      "värderande",
+      "hävdat"
+    ],
+    "question": "objektiv",
+    "hint": "Lat. obiectum = föremål.",
+    "answer": "saklig"
+  },
+  {
+    "incorrect": [
+      "modern",
+      "gångbar",
+      "aktuell",
+      "bruklig",
+      "högst"
+    ],
+    "question": "obsolet",
+    "hint": "Lat. obsoletus = föråldrad.",
+    "answer": "föråldrad"
+  },
+  {
+    "incorrect": [
+      "klandervärd",
+      "suspekt",
+      "skandalös",
+      "vanhedrande",
+      "tvivelaktig"
+    ],
+    "question": "oförvitlig",
+    "hint": "Svensk: fri från skuld.",
+    "answer": "oklanderlig"
+  },
+  {
+    "incorrect": [
+      "fördröjd",
+      "medlad",
+      "indirekt",
+      "senkommen",
+      "successiv"
+    ],
+    "question": "omedelbar",
+    "hint": "Svensk: utan mellanled.",
+    "answer": "direkt"
+  },
+  {
+    "incorrect": [
+      "ostridig",
+      "vedertagen",
+      "enhällig",
+      "klarlagd",
+      "obestridd"
+    ],
+    "question": "omtvistad",
+    "hint": "Svensk: tvist = strid om sak.",
+    "answer": "kontroversiell"
+  },
+  {
+    "incorrect": [
+      "obemärkt",
+      "lugn",
+      "småskalig",
+      "försiktig",
+      "trög"
+    ],
+    "question": "omvälvande",
+    "hint": "Svensk: välva om = revolutionera.",
+    "answer": "revolutionerande"
+  },
+  {
+    "incorrect": [
+      "principfast",
+      "självuppoffrande",
+      "trofast",
+      "konsekvent",
+      "solidarisk"
+    ],
+    "question": "opportunistisk",
+    "hint": "Lat. opportunus = gynnsam.",
+    "answer": "principlös"
+  },
+  {
+    "incorrect": [
+      "klyscha",
+      "självklarhet",
+      "axiom",
+      "banalitet",
+      "plattityd"
+    ],
+    "question": "paradox",
+    "hint": "Grek. para + doxa = mot förväntan.",
+    "answer": "självmotsägelse"
+  },
+  {
+    "incorrect": [
+      "neutral",
+      "opartisk",
+      "objektiv",
+      "förutsättningslös",
+      "saklig"
+    ],
+    "question": "partisk",
+    "hint": "Fr. parti = del/part.",
+    "answer": "jävig"
+  },
+  {
+    "incorrect": [
+      "central",
+      "inre",
+      "kärnliggande",
+      "centrum",
+      "navlik"
+    ],
+    "question": "perifer",
+    "hint": "Grek. periphereia = omkrets.",
+    "answer": "utkant"
+  },
+  {
+    "incorrect": [
+      "samförstånd",
+      "konsensus",
+      "samklang",
+      "samsyn",
+      "frid"
+    ],
+    "question": "polemik",
+    "hint": "Grek. polemikos = stridslysten.",
+    "answer": "ordstrid"
+  },
+  {
+    "incorrect": [
+      "dogmatisk",
+      "teoretisk",
+      "idealiserande",
+      "principfixerad",
+      "abstrakt"
+    ],
+    "question": "pragmatisk",
+    "hint": "Grek. pragma = handling.",
+    "answer": "ändamålsenlig"
+  },
+  {
+    "incorrect": [
+      "vag",
+      "svepande",
+      "luddig",
+      "oprecis",
+      "tvetydig"
+    ],
+    "question": "precis",
+    "hint": "Lat. praecisus = avskuren/noggrann.",
+    "answer": "exakt"
+  },
+  {
+    "incorrect": [
+      "detaljfråga",
+      "tillfällig",
+      "bagatellartad",
+      "sidoordnad",
+      "slumpartad"
+    ],
+    "question": "principiell",
+    "hint": "Lat. principium = grund.",
+    "answer": "grundläggande"
+  },
+  {
+    "incorrect": [
+      "permanent",
+      "definitiv",
+      "bestående",
+      "slutgiltig",
+      "oåterkallelig"
+    ],
+    "question": "provisorisk",
+    "hint": "Lat. provisorius = tillfällig.",
+    "answer": "tillfällig"
+  },
+  {
+    "incorrect": [
+      "försonande",
+      "lugnande",
+      "nedtonad",
+      "försynt",
+      "stillande"
+    ],
+    "question": "provocerande",
+    "hint": "Lat. provocare = utmana.",
+    "answer": "utmanande"
+  },
+  {
+    "incorrect": [
+      "subtil",
+      "svårfångad",
+      "svävande",
+      "indirekt",
+      "tveksam"
+    ],
+    "question": "påtaglig",
+    "hint": "Svensk: gripbar.",
+    "answer": "tydlig"
+  },
+  {
+    "incorrect": [
+      "ogripbar",
+      "osynlig",
+      "osäker",
+      "otydlig",
+      "antydande"
+    ],
+    "question": "påvisbar",
+    "hint": "Svensk: visa att något finns.",
+    "answer": "verifierbar"
+  },
+  {
+    "incorrect": [
+      "irrationell",
+      "häftig",
+      "impulsiv",
+      "godtycklig",
+      "känslostyrd"
+    ],
+    "question": "rationell",
+    "hint": "Lat. ratio = förnuft.",
+    "answer": "förnuftig"
+  },
+  {
+    "incorrect": [
+      "nödvändig",
+      "bristfällig",
+      "kärnfull",
+      "essentiell",
+      "knapp"
+    ],
+    "question": "redundant",
+    "hint": "Lat. redundare = svämma över.",
+    "answer": "överflödig"
+  },
+  {
+    "incorrect": [
+      "utåtriktad",
+      "öppenhjärtig",
+      "sprallig",
+      "frimodig",
+      "spontan"
+    ],
+    "question": "reserverad",
+    "hint": "Fr. réserver = hålla tillbaka.",
+    "answer": "tillbakadragen"
+  },
+  {
+    "incorrect": [
+      "frisinnad",
+      "tillåtande",
+      "expansiv",
+      "generös",
+      "obunden"
+    ],
+    "question": "restriktiv",
+    "hint": "Lat. restringere = inskränka.",
+    "answer": "inskränkande"
+  },
+  {
+    "incorrect": [
+      "slapp",
+      "eftergiven",
+      "godtycklig",
+      "tillåtande",
+      "mjuk"
+    ],
+    "question": "rigorös",
+    "hint": "Lat. rigor = stränghet.",
+    "answer": "sträng"
+  },
+  {
+    "incorrect": [
+      "ofarlig",
+      "trygg",
+      "säker",
+      "oförarglig",
+      "harmlös"
+    ],
+    "question": "riskabel",
+    "hint": "It. rischio = fara.",
+    "answer": "farlig"
+  },
+  {
+    "incorrect": [
+      "fulländad",
+      "avancerad",
+      "utvecklad",
+      "komplett",
+      "sofistikerad"
+    ],
+    "question": "rudimentär",
+    "hint": "Lat. rudimentum = början.",
+    "answer": "outvecklad"
+  },
+  {
+    "incorrect": [
+      "splittrad",
+      "motsägande",
+      "osamlad",
+      "divergent",
+      "bråkig"
+    ],
+    "question": "samstämmig",
+    "hint": "Svensk: stämma samma.",
+    "answer": "enig"
+  },
+  {
+    "incorrect": [
+      "slumpvis",
+      "allomfattande",
+      "indiskriminerande",
+      "total",
+      "godtycklig"
+    ],
+    "question": "selektiv",
+    "hint": "Lat. seligere = välja ut.",
+    "answer": "utväljande"
+  },
+  {
+    "incorrect": [
+      "verklig",
+      "reell",
+      "faktisk",
+      "påtaglig",
+      "konkret"
+    ],
+    "question": "skenbar",
+    "hint": "Svensk: bara sken.",
+    "answer": "illusorisk"
+  },
+  {
+    "incorrect": [
+      "godtrogen",
+      "lättlurad",
+      "förtröstansfull",
+      "apodiktisk",
+      "bombsäker"
+    ],
+    "question": "skeptisk",
+    "hint": "Grek. skeptikos = ifrågasättande.",
+    "answer": "tvivlande"
+  },
+  {
+    "incorrect": [
+      "nyskapande",
+      "förnyelse",
+      "innovation",
+      "uppbrott",
+      "nydaning"
+    ],
+    "question": "slentrian",
+    "hint": "Från slang: slentrian = vanesak.",
+    "answer": "vanemässighet"
+  },
+  {
+    "incorrect": [
+      "primitiv",
+      "enkel",
+      "rå",
+      "oförädlad",
+      "okomplicerad"
+    ],
+    "question": "sofistikerad",
+    "hint": "Grek. sophia = vishet.",
+    "answer": "avancerad"
+  },
+  {
+    "incorrect": [
+      "självcentrerad",
+      "egennyttig",
+      "likgiltig",
+      "kall",
+      "osolidarisk"
+    ],
+    "question": "solidarisk",
+    "hint": "Lat. solidum = förbundna skyldigheter.",
+    "answer": "lojal"
+  },
+  {
+    "incorrect": [
+      "kontinuerlig",
+      "ständig",
+      "oavbruten",
+      "regelbunden",
+      "frekvent"
+    ],
+    "question": "sporadisk",
+    "hint": "Grek. sporadikos = utspridd.",
+    "answer": "enstaka"
+  },
+  {
+    "incorrect": [
+      "instabil",
+      "vinglig",
+      "skakig",
+      "labil",
+      "flyktig"
+    ],
+    "question": "stabil",
+    "hint": "Lat. stabilis = stadig.",
+    "answer": "stadig"
+  },
+  {
+    "incorrect": [
+      "unik",
+      "originell",
+      "varierad",
+      "nyanserad",
+      "individuell"
+    ],
+    "question": "stereotyp",
+    "hint": "Grek. stereos + typos = fast form.",
+    "answer": "schablonartad"
+  },
+  {
+    "incorrect": [
+      "impulsiv",
+      "oöverlagd",
+      "tillfällig",
+      "planlös",
+      "ad hoc"
+    ],
+    "question": "strategisk",
+    "hint": "Grek. strategos = fältherre.",
+    "answer": "planmässig"
+  },
+  {
+    "incorrect": [
+      "neutral",
+      "saklig",
+      "opartisk",
+      "objektiv",
+      "värderingsfri"
+    ],
+    "question": "subjektiv",
+    "hint": "Lat. subiectum = den som upplever.",
+    "answer": "personlig"
+  },
+  {
+    "incorrect": [
+      "obetydlig",
+      "minimal",
+      "tunn",
+      "skral",
+      "ytlig"
+    ],
+    "question": "substantiell",
+    "hint": "Lat. substantia = väsen/innehåll.",
+    "answer": "avsevärd"
+  },
+  {
+    "incorrect": [
+      "grov",
+      "brutal",
+      "påträngande",
+      "burdus",
+      "tydlig"
+    ],
+    "question": "subtil",
+    "hint": "Lat. subtilis = fin, tunn.",
+    "answer": "finstämd"
+  },
+  {
+    "incorrect": [
+      "plötslig",
+      "omedelbar",
+      "ögonblicklig",
+      "samtidig",
+      "språngvis"
+    ],
+    "question": "successiv",
+    "hint": "Lat. successio = följd.",
+    "answer": "gradvis"
+  },
+  {
+    "incorrect": [
+      "bokstavlig",
+      "faktisk",
+      "konkret",
+      "materiell",
+      "handgriplig"
+    ],
+    "question": "symbolisk",
+    "hint": "Grek. symbolon = tecken.",
+    "answer": "bildlig"
+  },
+  {
+    "incorrect": [
+      "vanlig",
+      "ordinär",
+      "medelmåttig",
+      "allmän",
+      "måttlig"
+    ],
+    "question": "synnerlig",
+    "hint": "Svensk: mycket särskild.",
+    "answer": "utomordentlig"
+  },
+  {
+    "incorrect": [
+      "slumpmässig",
+      "spretig",
+      "godtycklig",
+      "hastig",
+      "osystematisk"
+    ],
+    "question": "systematisk",
+    "hint": "Grek. systema = ordnat helt.",
+    "answer": "ordnad"
+  },
+  {
+    "incorrect": [
+      "allmän",
+      "vanlig",
+      "neutral",
+      "typisk",
+      "intetsägande"
+    ],
+    "question": "särpräglad",
+    "hint": "Svensk: särskild prägel.",
+    "answer": "egenartad"
+  },
+  {
+    "incorrect": [
+      "neutral",
+      "balanserad",
+      "objektiv",
+      "förutsättningslös",
+      "opartisk"
+    ],
+    "question": "tendentiös",
+    "hint": "Lat. tendentia = lutning.",
+    "answer": "vinklad"
+  },
+  {
+    "incorrect": [
+      "opålitlig",
+      "svajig",
+      "tveksam",
+      "lösaktig",
+      "osäker"
+    ],
+    "question": "tillförlitlig",
+    "hint": "Svensk: går att lita på.",
+    "answer": "pålitlig"
+  },
+  {
+    "incorrect": [
+      "avtagande",
+      "sjunkande",
+      "minskande",
+      "tillbakagående",
+      "uttunnande"
+    ],
+    "question": "tilltagande",
+    "hint": "Svensk: öka i styrka.",
+    "answer": "ökande"
+  },
+  {
+    "incorrect": [
+      "ofördragsam",
+      "rigid",
+      "snäv",
+      "trångsynt",
+      "hård"
+    ],
+    "question": "tolerant",
+    "hint": "Lat. tolerare = uthärda.",
+    "answer": "tillåtande"
+  },
+  {
+    "incorrect": [
+      "djupsinnig",
+      "avgörande",
+      "sällsynt",
+      "viktig",
+      "utsökt"
+    ],
+    "question": "trivial",
+    "hint": "Lat. trivialis = allmän.",
+    "answer": "alldaglig"
+  },
+  {
+    "incorrect": [
+      "säker",
+      "övertygad",
+      "bestämd",
+      "bombsäker",
+      "tvärsäker"
+    ],
+    "question": "tveksam",
+    "hint": "Svensk: tvivlande.",
+    "answer": "osäker"
+  },
+  {
+    "incorrect": [
+      "oklar",
+      "vag",
+      "luddig",
+      "tvetydig",
+      "dunkel"
+    ],
+    "question": "tydlig",
+    "hint": "Svensk: lätt att uppfatta.",
+    "answer": "klar"
+  },
+  {
+    "incorrect": [
+      "stärka",
+      "befästa",
+      "underbygga",
+      "trygga",
+      "befrämja"
+    ],
+    "question": "underminera",
+    "hint": "Lat. sub + mina = undergräva.",
+    "answer": "undergräva"
+  },
+  {
+    "incorrect": [
+      "vanlig",
+      "allmän",
+      "typisk",
+      "generisk",
+      "massproducerad"
+    ],
+    "question": "unik",
+    "hint": "Lat. unicus = enda.",
+    "answer": "enastående"
+  },
+  {
+    "incorrect": [
+      "blanda",
+      "förväxla",
+      "suddigöra",
+      "sammanslå",
+      "maskera"
+    ],
+    "question": "urskilja",
+    "hint": "Svensk: skilja ut.",
+    "answer": "särskilja"
+  },
+  {
+    "incorrect": [
+      "exakt",
+      "skarp",
+      "precis",
+      "bestämd",
+      "tydlig"
+    ],
+    "question": "vag",
+    "hint": "Lat. vagus = vandrande/osäker.",
+    "answer": "otydlig"
+  },
+  {
+    "incorrect": [
+      "omstridd",
+      "nydanande",
+      "marginell",
+      "obekräftad",
+      "excentrisk"
+    ],
+    "question": "vedertagen",
+    "hint": "Svensk: allmänt antagen.",
+    "answer": "allmänt accepterad"
+  },
+  {
+    "incorrect": [
+      "släpplös",
+      "hal",
+      "lös",
+      "smulig",
+      "porös"
+    ],
+    "question": "vedhäftig",
+    "hint": "Från vidhäfta = fästa vid.",
+    "answer": "vidhäftande"
+  },
+  {
+    "incorrect": [
+      "kärnfull",
+      "kort",
+      "snäv",
+      "koncis",
+      "minimal"
+    ],
+    "question": "vidlyftig",
+    "hint": "Svensk: vid + lyftig (utbredd).",
+    "answer": "omständlig"
+  },
+  {
+    "incorrect": [
+      "ovillkorlig",
+      "absolut",
+      "fri",
+      "obunden",
+      "ovillkorad"
+    ],
+    "question": "villkorlig",
+    "hint": "Svensk: beroende av villkor.",
+    "answer": "betingad"
+  },
+  {
+    "incorrect": [
+      "verklig",
+      "fysisk",
+      "materiell",
+      "konkret",
+      "handsken"
+    ],
+    "question": "virtuell",
+    "hint": "Lat. virtualis = potentiell.",
+    "answer": "simulerad"
+  },
+  {
+    "incorrect": [
+      "livlös",
+      "apatisk",
+      "svag",
+      "medtagen",
+      "trött"
+    ],
+    "question": "vital",
+    "hint": "Lat. vitalis = livskraftig.",
+    "answer": "livskraftig"
+  },
+  {
+    "incorrect": [
+      "oviktig",
+      "marginell",
+      "bisak",
+      "obetydlig",
+      "sidoordnad"
+    ],
+    "question": "väsentlig",
+    "hint": "Lat. essentia = väsen.",
+    "answer": "betydande"
+  },
+  {
+    "incorrect": [
+      "undvika",
+      "avvärja",
+      "lindra",
+      "förebygga",
+      "upphäva"
+    ],
+    "question": "åsamka",
+    "hint": "Svensk: orsaka (skada).",
+    "answer": "orsaka"
+  },
+  {
+    "incorrect": [
+      "efterleva",
+      "iaktta",
+      "följa",
+      "beakta",
+      "tillämpa"
+    ],
+    "question": "åsidosätta",
+    "hint": "Svensk: sätta åt sidan.",
+    "answer": "bortse från"
+  },
+  {
+    "incorrect": [
+      "slösaktig",
+      "överdriven",
+      "frikostig",
+      "hämningslös",
+      "storslagen"
+    ],
+    "question": "återhållsam",
+    "hint": "Svensk: hålla igen.",
+    "answer": "sparsam"
+  },
+  {
+    "incorrect": [
+      "lättsam",
+      "munter",
+      "obekymrad",
+      "trivial",
+      "vardaglig"
+    ],
+    "question": "ödesmättad",
+    "hint": "Svensk: fylld av ödesallvar.",
+    "answer": "allvarstyngd"
+  },
+  {
+    "incorrect": [
+      "ensidig",
+      "enväg",
+      "asymmetrisk",
+      "ensamt",
+      "egenmäktig"
+    ],
+    "question": "ömsesidig",
+    "hint": "Lat. mutuus = ömsesidig.",
+    "answer": "inbördes"
+  },
+  {
+    "incorrect": [
+      "måttfull",
+      "lagom",
+      "sparsam",
+      "nykter",
+      "sansad"
+    ],
+    "question": "överdriven",
+    "hint": "Svensk: driva över mått.",
+    "answer": "excessiv"
+  },
+  {
+    "incorrect": [
+      "motsägelse",
+      "splittring",
+      "avvikelse",
+      "konflikt",
+      "osämja"
+    ],
+    "question": "överensstämmelse",
+    "hint": "Svensk: stämma överens.",
+    "answer": "samstämmighet"
+  },
+  {
+    "incorrect": [
+      "detaljerad",
+      "snäv",
+      "lokal",
+      "partiell",
+      "begränsad"
+    ],
+    "question": "övergripande",
+    "hint": "Svensk: som spänner över allt.",
+    "answer": "allmän"
+  },
+  {
+    "incorrect": [
+      "överlagt",
+      "genomtänkt",
+      "noggrant",
+      "omsorgsfullt",
+      "eftertänksamt"
+    ],
+    "question": "överilat",
+    "hint": "Svensk: förhastat.",
+    "answer": "förhastat"
+  },
+  {
+    "incorrect": [
+      "svajig",
+      "tveksam",
+      "vag",
+      "osannolik",
+      "inkonsekvent"
+    ],
+    "question": "övertygande",
+    "hint": "Tysk: überzeugen.",
+    "answer": "trovärdig"
+  }
+]
