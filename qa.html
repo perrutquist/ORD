@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <title>ORD – QA</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+        "Segoe UI", sans-serif;
+      color-scheme: light dark;
+    }
+
+    body {
+      margin: 0;
+      padding: 16px;
+      background: #0b1120;
+      color: #e5e7eb;
+    }
+
+    main {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      margin-top: 0;
+      font-size: 1.8rem;
+      letter-spacing: 0.04em;
+    }
+
+    h2 {
+      margin-top: 1.5rem;
+      font-size: 1.2rem;
+    }
+
+    .muted {
+      color: #9ca3af;
+      font-size: 0.9rem;
+    }
+
+    .section {
+      margin-top: 1.5rem;
+      padding: 12px 14px;
+      border-radius: 10px;
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid #1f2937;
+    }
+
+    pre {
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+        "Liberation Mono", "Courier New", monospace;
+      font-size: 0.9rem;
+      margin: 0.5rem 0 0;
+    }
+
+    .ok {
+      color: #22c55e;
+    }
+
+    .warn {
+      color: #facc15;
+    }
+
+    .error {
+      color: #f97373;
+    }
+
+    code {
+      font-family: inherit;
+      background: rgba(15, 23, 42, 0.8);
+      padding: 0 4px;
+      border-radius: 4px;
+    }
+
+    .summary-list {
+      list-style: none;
+      padding-left: 0;
+      margin: 0.5rem 0 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 1.5rem;
+      font-size: 0.9rem;
+    }
+
+    .summary-list li span.label {
+      color: #9ca3af;
+      margin-right: 0.25rem;
+    }
+
+    a {
+      color: #60a5fa;
+    }
+
+    .loading {
+      color: #e5e7eb;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>ORD – QA</h1>
+      <p class="muted">
+        Den här sidan laddar <code>words.json</code> och <code>idioms.json</code> och
+        letar efter:
+      </p>
+      <ul class="muted">
+        <li>Duplicerade frågor (inom och mellan filer)</li>
+        <li>För korta ledtrådar (hint)</li>
+        <li>Distraktorer som är identiska med något svar</li>
+      </ul>
+      <p class="muted">
+        Öppna den här filen via <code>qa.html</code> i samma katalog som
+        <code>words.json</code> och <code>idioms.json</code>.
+      </p>
+    </header>
+
+    <section class="section">
+      <h2>Sammanfattning</h2>
+      <ul id="summary" class="summary-list">
+        <li class="loading">Laddar data…</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Duplicerade frågor</h2>
+      <p class="muted">
+        Samma <code>question</code>-text som förekommer mer än en gång.
+      </p>
+      <pre id="duplicates">Laddar…</pre>
+    </section>
+
+    <section class="section">
+      <h2>För korta ledtrådar</h2>
+      <p class="muted">
+        Poster där <code>hint</code> är kortare än
+        <code><span id="hintThresholdLabel">15</span></code> tecken.
+      </p>
+      <pre id="shortHints">Laddar…</pre>
+    </section>
+
+    <section class="section">
+      <h2>Dåliga distraktorer</h2>
+      <p class="muted">
+        Distraktorer (<code>incorrect</code>) som är identiska med något
+        <code>answer</code> i samma fil.
+      </p>
+      <pre id="badDistractors">Laddar…</pre>
+    </section>
+  </main>
+
+  <script>
+    (function () {
+      const HINT_MIN_LENGTH = 15;
+
+      const summaryEl = document.getElementById("summary");
+      const duplicatesEl = document.getElementById("duplicates");
+      const shortHintsEl = document.getElementById("shortHints");
+      const badDistractorsEl = document.getElementById("badDistractors");
+      const hintThresholdLabel = document.getElementById("hintThresholdLabel");
+      hintThresholdLabel.textContent = String(HINT_MIN_LENGTH);
+
+      function formatList(items) {
+        if (!items || items.length === 0) return "";
+        return items.join("\n");
+      }
+
+      function loadAll() {
+        return Promise.all([
+          fetch("words.json").then((r) => {
+            if (!r.ok) throw new Error("Failed to load words.json");
+            return r.json();
+          }),
+          fetch("idioms.json").then((r) => {
+            if (!r.ok) throw new Error("Failed to load idioms.json");
+            return r.json();
+          }),
+        ]).then(([words, idioms]) => ({ words, idioms }));
+      }
+
+      function normalizeItem(item, source, index) {
+        return {
+          source,
+          index,
+          question: (item.question || "").trim(),
+          answer: (item.answer || "").trim(),
+          hint: (item.hint || "").trim(),
+          incorrect: Array.isArray(item.incorrect)
+            ? item.incorrect.map((s) => (s || "").trim())
+            : [],
+        };
+      }
+
+      function findDuplicates(allItems) {
+        const map = new Map();
+        for (const item of allItems) {
+          const key = item.question.toLowerCase();
+          if (!key) continue;
+          if (!map.has(key)) map.set(key, []);
+          map.get(key).push(item);
+        }
+
+        const result = [];
+        for (const [key, items] of map.entries()) {
+          if (items.length > 1) {
+            result.push({ question: items[0].question, items });
+          }
+        }
+        return result;
+      }
+
+      function findShortHints(allItems, minLength) {
+        return allItems.filter(
+          (item) => !item.hint || item.hint.length < minLength
+        );
+      }
+
+      function findBadDistractors(items) {
+        const answers = new Set(
+          items
+            .map((i) => i.answer.toLowerCase())
+            .filter((a) => a && a.length > 0)
+        );
+
+        const issues = [];
+        for (const item of items) {
+          for (const inc of item.incorrect) {
+            if (!inc) continue;
+            if (answers.has(inc.toLowerCase())) {
+              issues.push({
+                source: item.source,
+                index: item.index,
+                question: item.question,
+                answer: item.answer,
+                distractor: inc,
+              });
+            }
+          }
+        }
+        return issues;
+      }
+
+      function renderSummary({
+        words,
+        idioms,
+        dupes,
+        shortHints,
+        badDistractorsWords,
+        badDistractorsIdioms,
+      }) {
+        const totalWords = words.length;
+        const totalIdioms = idioms.length;
+        const total = totalWords + totalIdioms;
+
+        const totalDupes = dupes.length;
+        const totalShortHints = shortHints.length;
+        const totalBadDistractors =
+          badDistractorsWords.length + badDistractorsIdioms.length;
+
+        const nf = new Intl.NumberFormat("sv-SE");
+
+        summaryEl.innerHTML = "";
+        const items = [
+          {
+            label: "Totalt poster",
+            value: nf.format(total),
+            cls: "ok",
+          },
+          {
+            label: "Ord",
+            value: nf.format(totalWords),
+            cls: "ok",
+          },
+          {
+            label: "Idiom",
+            value: nf.format(totalIdioms),
+            cls: "ok",
+          },
+          {
+            label: "Duplicerade frågor",
+            value: nf.format(totalDupes),
+            cls: totalDupes === 0 ? "ok" : "error",
+          },
+          {
+            label: "För korta hints",
+            value: nf.format(totalShortHints),
+            cls: totalShortHints === 0 ? "ok" : "warn",
+          },
+          {
+            label: "Dåliga distraktorer",
+            value: nf.format(totalBadDistractors),
+            cls: totalBadDistractors === 0 ? "ok" : "warn",
+          },
+        ];
+
+        for (const item of items) {
+          const li = document.createElement("li");
+          const labelSpan = document.createElement("span");
+          labelSpan.className = "label";
+          labelSpan.textContent = item.label + ":";
+
+          const valueSpan = document.createElement("span");
+          valueSpan.className = item.cls;
+          valueSpan.textContent = item.value;
+
+          li.appendChild(labelSpan);
+          li.appendChild(valueSpan);
+          summaryEl.appendChild(li);
+        }
+      }
+
+      function renderDuplicates(dupes) {
+        if (!dupes.length) {
+          duplicatesEl.textContent = "Inga duplicerade frågor hittades.";
+          duplicatesEl.className = "ok";
+          return;
+        }
+
+        const lines = [];
+        for (const group of dupes) {
+          lines.push(`Fråga: "${group.question}"`);
+          for (const item of group.items) {
+            lines.push(
+              `  - ${item.source}[${item.index}] answer="${item.answer}"`
+            );
+          }
+          lines.push("");
+        }
+        duplicatesEl.textContent = formatList(lines);
+        duplicatesEl.className = "error";
+      }
+
+      function renderShortHints(items) {
+        if (!items.length) {
+          shortHintsEl.textContent = "Inga för korta hints hittades.";
+          shortHintsEl.className = "ok";
+          return;
+        }
+
+        const lines = items.map(
+          (item) =>
+            `${item.source}[${item.index}] (${item.hint.length} tecken)\n` +
+            `  question: "${item.question}"\n` +
+            `  hint: "${item.hint}"`
+        );
+        shortHintsEl.textContent = formatList(lines);
+        shortHintsEl.className = "warn";
+      }
+
+      function renderBadDistractors(wordsIssues, idiomsIssues) {
+        const all = [
+          ...wordsIssues.map((i) => ({ ...i, file: "words.json" })),
+          ...idiomsIssues.map((i) => ({ ...i, file: "idioms.json" })),
+        ];
+
+        if (!all.length) {
+          badDistractorsEl.textContent =
+            "Inga distraktorer som matchar svar hittades.";
+          badDistractorsEl.className = "ok";
+          return;
+        }
+
+        const lines = all.map(
+          (i) =>
+            `${i.file} ${i.source}[${i.index}]\n` +
+            `  question: "${i.question}"\n` +
+            `  answer:   "${i.answer}"\n` +
+            `  distractor: "${i.distractor}"`
+        );
+        badDistractorsEl.textContent = formatList(lines);
+        badDistractorsEl.className = "warn";
+      }
+
+      loadAll()
+        .then(({ words, idioms }) => {
+          const normWords = words.map((w, idx) =>
+            normalizeItem(w, "words", idx)
+          );
+          const normIdioms = idioms.map((w, idx) =>
+            normalizeItem(w, "idioms", idx)
+          );
+          const allItems = [...normWords, ...normIdioms];
+
+          const dupes = findDuplicates(allItems);
+          const shortHints = findShortHints(allItems, HINT_MIN_LENGTH);
+          const badDistractorsWords = findBadDistractors(normWords);
+          const badDistractorsIdioms = findBadDistractors(normIdioms);
+
+          renderSummary({
+            words: normWords,
+            idioms: normIdioms,
+            dupes,
+            shortHints,
+            badDistractorsWords,
+            badDistractorsIdioms,
+          });
+          renderDuplicates(dupes);
+          renderShortHints(shortHints);
+          renderBadDistractors(badDistractorsWords, badDistractorsIdioms);
+        })
+        .catch((err) => {
+          const msg =
+            "Kunde inte ladda words.json/idioms.json.\n" +
+            "Kontrollera att qa.html ligger i samma katalog.\n\n" +
+            String(err);
+          duplicatesEl.textContent = msg;
+          shortHintsEl.textContent = msg;
+          badDistractorsEl.textContent = msg;
+          summaryEl.innerHTML = "";
+          const li = document.createElement("li");
+          li.textContent = "Fel vid laddning av data.";
+          li.className = "error";
+          summaryEl.appendChild(li);
+        });
+    })();
+  </script>
+</body>
+</html>
